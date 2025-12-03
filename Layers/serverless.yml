@@ -4,7 +4,7 @@ provider:
   name: aws
   runtime: python3.12
   region: us-east-1
-  stage: ${param:stage}
+  stage: ${param:stage, 'dev'}
   iam:
     role: arn:aws:iam::${env:AWS_ACCOUNT_ID}:role/LabRole
     

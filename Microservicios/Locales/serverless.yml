@@ -6,7 +6,7 @@ provider:
   memorySize: 512
   timeout: 300
   region: us-east-1
-  stage: ${param:stage}
+  stage: ${param:stage, 'dev'}
   
   environment:
     # Variables de Locales
