@@ -687,13 +687,13 @@ resources:
   Outputs:
     PedidosEventBusName:
       Description: Nombre del Event Bus de Pedidos
-      Value: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
+      Value: chinawok-pedidos-events
       Export:
         Name: ChinaWok-Pedidos-EventBus-Name
     
     PedidosEventBusArn:
       Description: ARN del Event Bus de Pedidos
-      Value: !Sub 'arn:aws:events:${AWS::Region}:${AWS::AccountId}:event-bus/${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}'
+      Value: !Sub 'arn:aws:events:${AWS::Region}:${AWS::AccountId}:event-bus/chinawok-pedidos-events'
       Export:
         Name: ChinaWok-Pedidos-EventBus-Arn
     
