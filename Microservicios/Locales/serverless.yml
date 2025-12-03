@@ -137,93 +137,85 @@ functions:
   streamProcessor:
     handler: analitica-consultas.streamProcessor.handler
     name: ${self:service}-stream-processor
-    description: Procesa eventos de DynamoDB Streams y actualiza S3
-    reservedConcurrency: 1
+    description: Procesa eventos de DynamoDB Streams de forma INCREMENTAL
+    memorySize: 1024
+    timeout: 60
+    reservedConcurrency: 2
     events:
       # Stream para Locales
       - stream:
           type: dynamodb
           arn: ${env:STREAM_ARN_LOCALES}
-          batchSize: 750
-          maximumBatchingWindowInMilliseconds: 10
+          batchSize: 100
+          maximumBatchingWindowInMilliseconds: 5000
           startingPosition: LATEST
           maximumRetryAttempts: 2
           enabled: true
+          bisectBatchOnFunctionError: true
       # Stream para Productos
       - stream:
           type: dynamodb
           arn: ${env:STREAM_ARN_PRODUCTOS}
-          batchSize: 750
-          maximumBatchingWindowInMilliseconds: 10
+          batchSize: 100
+          maximumBatchingWindowInMilliseconds: 5000
           startingPosition: LATEST
           maximumRetryAttempts: 2
           enabled: true
+          bisectBatchOnFunctionError: true
       # Stream para Empleados
       - stream:
           type: dynamodb
           arn: ${env:STREAM_ARN_EMPLEADOS}
-          batchSize: 750
-          maximumBatchingWindowInMilliseconds: 10
+          batchSize: 100
+          maximumBatchingWindowInMilliseconds: 5000
           startingPosition: LATEST
           maximumRetryAttempts: 2
           enabled: true
+          bisectBatchOnFunctionError: true
       # Stream para Combos
       - stream:
           type: dynamodb
           arn: ${env:STREAM_ARN_COMBOS}
-          batchSize: 750
-          maximumBatchingWindowInMilliseconds: 10 
+          batchSize: 100
+          maximumBatchingWindowInMilliseconds: 5000
           startingPosition: LATEST
           maximumRetryAttempts: 2
           enabled: true
-      # Stream para Pedidos
+          bisectBatchOnFunctionError: true
+      # Stream para Pedidos (tabla grande - configuración especial)
       - stream:
           type: dynamodb
           arn: ${env:STREAM_ARN_PEDIDOS}
-          batchSize: 750
-          maximumBatchingWindowInMilliseconds: 10
+          batchSize: 50
+          maximumBatchingWindowInMilliseconds: 10000
           startingPosition: LATEST
           maximumRetryAttempts: 2
           enabled: true
+          bisectBatchOnFunctionError: true
+          parallelizationFactor: 1
       # Stream para Ofertas
       - stream:
           type: dynamodb
           arn: ${env:STREAM_ARN_OFERTAS}
-          batchSize: 750
-          maximumBatchingWindowInMilliseconds: 10
+          batchSize: 100
+          maximumBatchingWindowInMilliseconds: 5000
           startingPosition: LATEST
           maximumRetryAttempts: 2
           enabled: true
+          bisectBatchOnFunctionError: true
       # Stream para Reseñas
       - stream:
           type: dynamodb
           arn: ${env:STREAM_ARN_RESENAS}
-          batchSize: 750
-          maximumBatchingWindowInMilliseconds: 10
+          batchSize: 100
+          maximumBatchingWindowInMilliseconds: 5000
           startingPosition: LATEST
           maximumRetryAttempts: 2
           enabled: true
+          bisectBatchOnFunctionError: true
 
 resources:
-  Resources:
-    # Glue Database para Analítica
-    ChinaWokGlueDatabase:
-      Type: AWS::Glue::Database
-      DeletionPolicy: Retain
-      UpdateReplacePolicy: Retain
-      Properties:
-        CatalogId: !Ref AWS::AccountId
-        DatabaseInput:
-          Name: ${env:ATHENA_DATABASE, 'chinawok_analytics'}
-          Description: Base de datos de analítica para ChinaWok con tablas de Glue
-
   Outputs:
-    GlueDatabaseName:
-      Description: Nombre de la base de datos de Glue
-      Value: !Ref ChinaWokGlueDatabase
-      Export:
-        Name: ChinaWok-Glue-Database-Name
-    
     StreamProcessorFunctionArn:
       Description: ARN de la función que procesa DynamoDB Streams
       Value: !GetAtt StreamProcessorLambdaFunction.Arn

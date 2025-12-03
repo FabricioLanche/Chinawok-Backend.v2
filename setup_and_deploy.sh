@@ -662,15 +662,60 @@ case $opcion in
         # Paso 3: Poblar datos (incluye habilitación de Streams y obtención de ARNs)
         populate_data
         
-        # Paso 4: Despliegue de microservicios
+        # Paso 4: Despliegue de microservicios SECUENCIAL
         log ""
         log "═══════════════════════════════════════════════════════"
-        log "⚙️  PASO 4/4: Despliegue de microservicios"
+        log "⚙️  PASO 4/6: Despliegue secuencial de microservicios"
         log "═══════════════════════════════════════════════════════"
-        serverless deploy
+        log_info "💡 Desplegando servicios uno por uno para evitar sobrecarga"
+        log ""
         
-        if [ $? -eq 0 ]; then
-            log_success "🎉 Despliegue de microservicios exitoso"
+        # Array de servicios en orden de dependencia
+        declare -a services=(
+            "Layers:shared-layer:🔧 Lambda Layer"
+            "Microservicios/Usuarios:usuarios:👤 Usuarios"
+            "Microservicios/Locales:locales:🏪 Locales"
+            "Microservicios/Empleados:empleados:👨‍🍳 Empleados"
+            "Microservicios/Pedidos:pedidos:🍜 Pedidos"
+        )
+        
+        deploy_failed=0
+        
+        for service_info in "${services[@]}"; do
+            IFS=':' read -r service_path service_name service_label <<< "$service_info"
+            
+            log ""
+            log "───────────────────────────────────────────────────"
+            log "📦 Desplegando: $service_label"
+            log "───────────────────────────────────────────────────"
+            
+            cd "$service_path" || {
+                log_error "No se pudo acceder a $service_path"
+                deploy_failed=1
+                break
+            }
+            
+            # Desplegar el servicio individual
+            serverless deploy --stage dev --verbose
+            
+            if [ $? -eq 0 ]; then
+                log_success "✅ $service_label desplegado correctamente"
+                
+                # Pausa de recuperación para t3.micro (15 segundos)
+                log_info "⏸️  Pausa de 15s para recuperación de recursos..."
+                sleep 15
+            else
+                log_error "❌ Error al desplegar $service_label"
+                deploy_failed=1
+                cd - > /dev/null
+                break
+            fi
+            
+            cd - > /dev/null || exit 1
+        done
+        
+        if [ $deploy_failed -eq 0 ]; then
+            log_success "🎉 Todos los microservicios desplegados exitosamente"
 
             # Paso 5: Inicializar Glue Crawler
             log ""
@@ -695,6 +740,7 @@ case $opcion in
             log_info "🎯 Athena listo para consultas desde el minuto 1"
         else
             log_error "Error en despliegue de microservicios"
+            log_error "Puedes intentar desplegar manualmente el servicio que falló"
             exit 1
         fi
         ;;
@@ -734,23 +780,70 @@ case $opcion in
         log_info "📊 Datos poblados con Streams habilitados"
         log_info "🎯 Glue Crawler ejecutado - Athena listo"
         ;;
-        
     3)
-        log_info "Desplegando microservicios..."
+        log_info "Desplegando microservicios secuencialmente..."
         
-        # Construir layer primero
-        log ""
-        log "═══════════════════════════════════════════════════════"
-        log "🔧 PASO 1/2: Construyendo Lambda Layer compartido"
-        log "═══════════════════════════════════════════════════════"
-        build_layer
+        # Array de servicios en orden de dependencia
+        declare -a services=(
+            "Layers:shared-layer:🔧 Lambda Layer"
+            "Microservicios/Usuarios:usuarios:👤 Usuarios"
+            "Microservicios/Locales:locales:🏪 Locales"
+            "Microservicios/Empleados:empleados:👨‍🍳 Empleados"
+            "Microservicios/Pedidos:pedidos:🍜 Pedidos"
+        )
         
-        # Desplegar todo
-        log ""
-        log "═══════════════════════════════════════════════════════"
-        log "⚙️  PASO 2/2: Desplegando servicios"
-        log "═══════════════════════════════════════════════════════"
-        serverless deploy
+        deploy_failed=0
+        
+        for service_info in "${services[@]}"; do
+            IFS=':' read -r service_path service_name service_label <<< "$service_info"
+            
+            log ""
+            log "═══════════════════════════════════════════════════════"
+            log "📦 Desplegando: $service_label"
+            log "═══════════════════════════════════════════════════════"
+            
+            cd "$service_path" || {
+                log_error "No se pudo acceder a $service_path"
+                deploy_failed=1
+                break
+            }
+            
+            # Construir layer si es necesario
+            if [ "$service_name" == "shared-layer" ]; then
+                cd ..
+                build_layer
+                cd Layers
+            fi
+            
+            # Desplegar el servicio individual
+            serverless deploy --stage dev --verbose
+            
+            if [ $? -eq 0 ]; then
+                log_success "✅ $service_label desplegado correctamente"
+                
+                # Pausa de recuperación (15 segundos)
+                if [ "$service_name" != "pedidos" ]; then
+                    log_info "⏸️  Pausa de 15s para recuperación de recursos..."
+                    sleep 15
+                fi
+            else
+                log_error "❌ Error al desplegar $service_label"
+                deploy_failed=1
+                cd - > /dev/null
+                break
+            fi
+            
+            cd - > /dev/null || exit 1
+        done
+        
+        if [ $deploy_failed -eq 0 ]; then
+            log_success "🎉 Todos los microservicios desplegados exitosamente"
+            show_endpoints
+        else
+            log_error "Error en despliegue de microservicios"
+            exit 1
+        fi
+        ;;rverless deploy
         ;;
     4)
         log_warning "⚠️  ADVERTENCIA: Esto eliminará TODOS los recursos"

@@ -4,8 +4,6 @@ import boto3
 from decimal import Decimal
 from datetime import datetime
 from utils.logger import get_logger
-from utils.dynamodb_client import get_table_data
-from utils.s3_client import upload_to_s3
 
 logger = get_logger(__name__)
 
@@ -132,13 +130,19 @@ def save_data_to_s3(table_key, records):
 
 def handler(event, context):
     """
-    Procesa eventos de DynamoDB Streams de forma INCREMENTAL
-    Actualiza solo el archivo de la tabla modificada aplicando cambios
+    Procesa eventos de DynamoDB Streams de forma INCREMENTAL y OPTIMIZADA
     
     Estrategia: INCREMENTAL UPDATE (solo procesa cambios del stream)
-    - Lee el archivo existente de S3
-    - Aplica solo los cambios detectados (INSERT/MODIFY/REMOVE)
+    - Lee el archivo JSONL existente de S3 UNA SOLA VEZ
+    - Aplica SOLO los cambios detectados (INSERT/MODIFY/REMOVE)
     - Sobrescribe el archivo con los datos actualizados
+    - Agrupa cambios por tabla para minimizar operaciones S3
+    
+    Optimizaciones para AWS Academy:
+    - reservedConcurrency: 2 (máximo 2 Lambdas simultáneas)
+    - batchSize reducido (50-100 vs 750)
+    - maximumBatchingWindow aumentado (5-10s) para agrupar eventos
+    - parallelizationFactor: 1 para tablas grandes
     """
     try:
         # Agrupar cambios por tabla
@@ -146,7 +150,10 @@ def handler(event, context):
         
         logger.info(f'📥 Recibidos {len(event["Records"])} eventos de DynamoDB Streams')
         
-        # Procesar cada registro del stream
+        # Deserializar TODOS los registros del batch
+        from boto3.dynamodb.types import TypeDeserializer
+        deserializer = TypeDeserializer()
+        
         for record in event['Records']:
             event_name = record['eventName']  # INSERT, MODIFY, REMOVE
             event_source_arn = record['eventSourceARN']
@@ -158,10 +165,6 @@ def handler(event, context):
             if table_name not in changes_by_table:
                 changes_by_table[table_name] = []
             
-            # Deserializar el registro
-            from boto3.dynamodb.types import TypeDeserializer
-            deserializer = TypeDeserializer()
-            
             if event_name in ['INSERT', 'MODIFY']:
                 changed_record = record['dynamodb'].get('NewImage')
                 if changed_record:
@@ -170,7 +173,6 @@ def handler(event, context):
                         'event_type': event_name,
                         'data': normal_record
                     })
-                    logger.info(f'📝 {event_name}: {table_name}')
             
             elif event_name == 'REMOVE':
                 old_record = record['dynamodb'].get('OldImage')
@@ -180,7 +182,6 @@ def handler(event, context):
                         'event_type': 'REMOVE',
                         'data': normal_record
                     })
-                    logger.info(f'🗑️  REMOVE: {table_name}')
         
         # Procesar cada tabla modificada
         results = []
@@ -192,16 +193,16 @@ def handler(event, context):
                     logger.warning(f'⚠️  Tabla no mapeada: {table_name}')
                     continue
                 
-                logger.info(f'🔄 Procesando {len(changes)} cambios en tabla: {table_name}')
+                logger.info(f'🔄 Procesando {len(changes)} cambios en {table_name}')
                 
-                # 1. Cargar datos existentes de S3
+                # 1. Cargar datos existentes de S3 (UNA SOLA VEZ)
                 existing_records = load_existing_data(table_key)
                 
                 inserts = 0
                 updates = 0
                 deletes = 0
                 
-                # 2. Aplicar cambios incrementalmente
+                # 2. Aplicar TODOS los cambios incrementalmente
                 for change in changes:
                     event_type = change['event_type']
                     data = change['data']
@@ -210,17 +211,15 @@ def handler(event, context):
                     if event_type == 'INSERT':
                         existing_records[key] = data
                         inserts += 1
-                    
                     elif event_type == 'MODIFY':
                         existing_records[key] = data
                         updates += 1
-                    
                     elif event_type == 'REMOVE':
                         if key in existing_records:
                             del existing_records[key]
                             deletes += 1
                 
-                # 3. Guardar archivo actualizado en S3
+                # 3. Guardar archivo actualizado en S3 (UNA SOLA VEZ)
                 s3_uri = save_data_to_s3(table_key, existing_records)
                 
                 result = {
@@ -236,11 +235,10 @@ def handler(event, context):
                 }
                 
                 results.append(result)
-                logger.info(f'✅ Archivo actualizado: {table_name} → {len(existing_records)} registros totales')
-                logger.info(f'   (+{inserts} inserts, ~{updates} updates, -{deletes} deletes)')
+                logger.info(f'✅ {table_name} actualizado: +{inserts} -{deletes} ~{updates} | Total: {len(existing_records)}')
                 
             except Exception as e:
-                logger.error(f'❌ Error procesando tabla {table_name}: {str(e)}', exc_info=True)
+                logger.error(f'❌ Error procesando {table_name}: {str(e)}', exc_info=True)
                 results.append({
                     'table': table_name,
                     'status': 'failed',
@@ -251,93 +249,11 @@ def handler(event, context):
         success_count = len([r for r in results if r['status'] == 'success'])
         failed_count = len([r for r in results if r['status'] == 'failed'])
         
-        logger.info(f'📊 Procesamiento completado: {success_count} exitosos, {failed_count} fallidos')
+        logger.info(f'📊 Batch procesado: {success_count} OK, {failed_count} FAIL')
         
         return {
             'statusCode': 200,
             'processed_tables': len(changes_by_table),
-            'successful': success_count,
-            'failed': failed_count,
-            'results': results
-        }
-        
-    except Exception as e:
-        logger.error(f'❌ Error crítico en stream processor: {str(e)}', exc_info=True)
-        raise
-    """
-    Procesa eventos de DynamoDB Streams de múltiples tablas
-    Cuando detecta cambios, actualiza el archivo JSONL completo en S3
-    
-    Estrategia: FULL REFRESH (recarga completa de la tabla)
-    - Es más simple y confiable que el incremental
-    - Garantiza consistencia total con DynamoDB
-    - Eficiente para tablas de tamaño moderado (<100k registros)
-    """
-    try:
-        # El evento puede contener múltiples records de múltiples tablas
-        processed_tables = set()
-        
-        logger.info(f'📥 Recibidos {len(event["Records"])} eventos de DynamoDB Streams')
-        
-        # Identificar qué tablas fueron modificadas
-        for record in event['Records']:
-            event_source_arn = record['eventSourceARN']
-            table_name = extract_table_name_from_arn(event_source_arn)
-            
-            if table_name:
-                processed_tables.add(table_name)
-                event_name = record['eventName']  # INSERT, MODIFY, REMOVE
-                logger.info(f'📝 Detectado cambio en tabla: {table_name} (Evento: {event_name})')
-        
-        # Para cada tabla modificada, hacer un FULL REFRESH
-        results = []
-        for table_name in processed_tables:
-            try:
-                table_key = get_table_key(table_name)
-                
-                if not table_key:
-                    logger.warning(f'⚠️  Tabla no mapeada: {table_name}')
-                    continue
-                
-                logger.info(f'🔄 Iniciando FULL REFRESH para tabla: {table_name}')
-                
-                # 1. Obtener TODOS los datos actuales de DynamoDB
-                items = get_table_data(table_name)
-                logger.info(f'✅ Obtenidos {len(items)} registros de {table_name}')
-                
-                # 2. Subir a S3 (sobrescribe el archivo existente)
-                s3_key = f'{S3_PREFIX}/{table_key}/data.jsonl'
-                s3_uri = upload_to_s3(S3_BUCKET, s3_key, items)
-                
-                result = {
-                    'table': table_name,
-                    'table_key': table_key,
-                    'records': len(items),
-                    's3_location': s3_uri,
-                    'timestamp': datetime.utcnow().isoformat() + 'Z',
-                    'status': 'success'
-                }
-                
-                results.append(result)
-                logger.info(f'✅ FULL REFRESH completado: {table_name} → {s3_uri}')
-                
-            except Exception as e:
-                logger.error(f'❌ Error procesando tabla {table_name}: {str(e)}', exc_info=True)
-                results.append({
-                    'table': table_name,
-                    'status': 'failed',
-                    'error': str(e)
-                })
-        
-        # Resumen final
-        success_count = len([r for r in results if r['status'] == 'success'])
-        failed_count = len([r for r in results if r['status'] == 'failed'])
-        
-        logger.info(f'📊 Procesamiento completado: {success_count} exitosos, {failed_count} fallidos')
-        
-        return {
-            'statusCode': 200,
-            'processed_tables': len(processed_tables),
             'successful': success_count,
             'failed': failed_count,
             'results': results
