@@ -843,7 +843,6 @@ case $opcion in
             log_error "Error en despliegue de microservicios"
             exit 1
         fi
-        ;;rverless deploy
         ;;
     4)
         log_warning "⚠️  ADVERTENCIA: Esto eliminará TODOS los recursos"
