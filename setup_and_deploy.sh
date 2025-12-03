@@ -689,14 +689,15 @@ case $opcion in
             log "📦 Desplegando: $service_label"
             log "───────────────────────────────────────────────────"
             
-            cd "$service_path" || {
-                log_error "No se pudo acceder a $service_path"
+            # Verificar que el directorio existe
+            if [ ! -d "$service_path" ]; then
+                log_error "No se encuentra el directorio: $service_path"
                 deploy_failed=1
                 break
-            }
+            fi
             
-            # Desplegar el servicio individual
-            serverless deploy --stage dev --verbose
+            # Desplegar desde la raíz usando --config para mantener acceso al .env
+            serverless deploy --config "$service_path/serverless.yml" --stage dev --verbose
             
             if [ $? -eq 0 ]; then
                 log_success "✅ $service_label desplegado correctamente"
@@ -707,11 +708,8 @@ case $opcion in
             else
                 log_error "❌ Error al desplegar $service_label"
                 deploy_failed=1
-                cd - > /dev/null
                 break
             fi
-            
-            cd - > /dev/null || exit 1
         done
         
         if [ $deploy_failed -eq 0 ]; then
@@ -802,21 +800,20 @@ case $opcion in
             log "📦 Desplegando: $service_label"
             log "═══════════════════════════════════════════════════════"
             
-            cd "$service_path" || {
-                log_error "No se pudo acceder a $service_path"
+            # Verificar que el directorio existe
+            if [ ! -d "$service_path" ]; then
+                log_error "No se encuentra el directorio: $service_path"
                 deploy_failed=1
                 break
-            }
+            fi
             
             # Construir layer si es necesario
             if [ "$service_name" == "shared-layer" ]; then
-                cd ..
                 build_layer
-                cd Layers
             fi
             
-            # Desplegar el servicio individual
-            serverless deploy --stage dev --verbose
+            # Desplegar desde la raíz usando --config para mantener acceso al .env
+            serverless deploy --config "$service_path/serverless.yml" --stage dev --verbose
             
             if [ $? -eq 0 ]; then
                 log_success "✅ $service_label desplegado correctamente"
@@ -829,11 +826,8 @@ case $opcion in
             else
                 log_error "❌ Error al desplegar $service_label"
                 deploy_failed=1
-                cd - > /dev/null
                 break
             fi
-            
-            cd - > /dev/null || exit 1
         done
         
         if [ $deploy_failed -eq 0 ]; then
