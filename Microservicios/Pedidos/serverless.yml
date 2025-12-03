@@ -277,6 +277,8 @@ resources:
   Resources:
     ChinaWokPedidosEventBus:
       Type: AWS::Events::EventBus
+      DeletionPolicy: Retain
+      UpdateReplacePolicy: Retain
       Properties:
         Name: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
     
@@ -285,7 +287,7 @@ resources:
       Properties:
         Name: ${self:service}-pedido-creado-rule
         Description: Regla para enviar pedidos creados al Step Function
-        EventBusName: !Ref ChinaWokPedidosEventBus
+        EventBusName: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
         EventPattern:
           source:
             - chinawok.pedidos
@@ -685,13 +687,13 @@ resources:
   Outputs:
     PedidosEventBusName:
       Description: Nombre del Event Bus de Pedidos
-      Value: !Ref ChinaWokPedidosEventBus
+      Value: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
       Export:
         Name: ChinaWok-Pedidos-EventBus-Name
     
     PedidosEventBusArn:
       Description: ARN del Event Bus de Pedidos
-      Value: !GetAtt ChinaWokPedidosEventBus.Arn
+      Value: !Sub 'arn:aws:events:${AWS::Region}:${AWS::AccountId}:event-bus/${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}'
       Export:
         Name: ChinaWok-Pedidos-EventBus-Arn
     
