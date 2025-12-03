@@ -1,0 +1,10 @@
+# ============================================================
+# DATA GENERATOR - DEPENDENCIAS LOCALES
+# ============================================================
+# Este script se ejecuta localmente, no en Lambda
+
+# AWS SDK para poblar DynamoDB
+boto3==1.34.34
+
+# Variables de entorno
+python-dotenv==1.0.0

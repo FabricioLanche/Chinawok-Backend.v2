@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Reseñas",
+  "type": "object",
+  "x-dynamodb": {
+    "partition_key": "local_id",
+    "sort_key": "resena_id"
+  },
+  "properties": {
+    "local_id": { "type": "string" },
+    "cocinero_dni": { "type": "string" },
+    "repartidor_dni": { "type": "string" },
+    "despachador_dni": { "type": "string" },
+    "resena_id": { "type": "string" },
+    "pedido_id": { "type": "string" },
+    "resena": { "type": "string" },
+    "calificacion": { "type": "number", "minimum": 0, "maximum": 5 }
+  },
+  "required": ["local_id", "cocinero_dni", "repartidor_dni", "despachador_dni", "resena_id", "pedido_id", "calificacion"],
+  "additionalProperties": false
+}

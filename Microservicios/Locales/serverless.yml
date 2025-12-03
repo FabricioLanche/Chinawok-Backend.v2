@@ -1,0 +1,241 @@
+service: chinawok-locales
+
+provider:
+  name: aws
+  runtime: python3.12
+  memorySize: 512
+  timeout: 300
+  region: us-east-1
+  stage: ${param:stage}
+  
+  environment:
+    # Variables de Locales
+    TABLE_LOCALES: ${env:TABLE_LOCALES, 'ChinaWok-Locales'}
+    TABLE_USUARIOS: ${env:TABLE_USUARIOS, 'ChinaWok-Usuarios'}
+    ATHENA_WORKGROUP: 'primary'
+    # Variables para Ingesta
+    S3_BUCKET_NAME: ${env:S3_BUCKET_NAME}
+    S3_INGESTION_PREFIX: ${env:S3_INGESTION_PREFIX, 'data-ingestion'}
+    S3_ATHENA_PREFIX: ${env:S3_ATHENA_PREFIX, 'athena-results'}
+    TABLE_PRODUCTOS: ${env:TABLE_PRODUCTOS, 'ChinaWok-Productos'}
+    TABLE_EMPLEADOS: ${env:TABLE_EMPLEADOS, 'ChinaWok-Empleados'}
+    TABLE_COMBOS: ${env:TABLE_COMBOS, 'ChinaWok-Combos'}
+    TABLE_PEDIDOS: ${env:TABLE_PEDIDOS, 'ChinaWok-Pedidos'}
+    TABLE_OFERTAS: ${env:TABLE_OFERTAS, 'ChinaWok-Ofertas'}
+    TABLE_RESENAS: ${env:TABLE_RESENAS, 'ChinaWok-Resenas'}
+    # Variables para Crawler
+    GLUE_CRAWLER_NAME: ${env:GLUE_CRAWLER_NAME, 'chinawok-analytics-crawler'}
+    ATHENA_DATABASE: ${env:ATHENA_DATABASE, 'chinawok_analytics'}
+    AWS_ACCOUNT_ID: ${env:AWS_ACCOUNT_ID}
+
+  iam:
+    role: arn:aws:iam::${env:AWS_ACCOUNT_ID}:role/LabRole
+  
+  layers:
+    - ${cf:chinawok-shared-layer-${param:stage}.PythonDependenciesLayerExport}
+
+functions:
+  # ============================================================
+  # GESTIÓN DE LOCALES
+  # ============================================================
+  localListar:
+    handler: locales.listarLocales.lambda_handler
+    name: ${self:service}-listar
+    description: Listar todos los locales
+    events:
+      - http:
+          path: local/listar
+          method: get
+          cors: true
+  
+  localCrear:
+    handler: locales.crearLocal.lambda_handler
+    name: ${self:service}-crear
+    description: Crear un nuevo local
+    events:
+      - http:
+          path: local/crear
+          method: post
+          cors: true
+  
+  localObtener:
+    handler: locales.obtenerLocal.lambda_handler
+    name: ${self:service}-obtener
+    description: Obtener un local por ID
+    events:
+      - http:
+          path: local/obtener/{local_id}
+          method: get
+          cors: true
+  
+  localActualizar:
+    handler: locales.editarLocal.lambda_handler
+    name: ${self:service}-actualizar
+    description: Actualizar un local existente
+    events:
+      - http:
+          path: local/actualizar/{local_id}
+          method: put
+          cors: true
+  
+  localEliminar:
+    handler: locales.eliminarLocal.lambda_handler
+    name: ${self:service}-eliminar
+    description: Eliminar un local
+    events:
+      - http:
+          path: local/eliminar/{local_id}
+          method: delete
+          cors: true
+
+  # ============================================================
+  # ANALÍTICA - CONSULTAS ATHENA
+  # ============================================================
+  analiticaProductosVendidos:
+    handler: analitica-consultas.mejorProducto.handler
+    name: ${self:service}-analitica-productos
+    description: Consulta los productos más vendidos por local
+    events:
+      - http:
+          path: analitica/productos
+          method: post
+          cors: true
+  
+  analiticaMejorPersonal:
+    handler: analitica-consultas.mejorPersonal.handler
+    name: ${self:service}-analitica-personal
+    description: Ranking del mejor personal por local
+    events:
+      - http:
+          path: analitica/personal
+          method: post
+          cors: true
+  
+  analiticaRecordDiario:
+    handler: analitica-consultas.recordDiario.handler
+    name: ${self:service}-analitica-diario
+    description: Récord diario de pedidos y revenue por mes
+    events:
+      - http:
+          path: analitica/diario
+          method: post
+          cors: true
+  
+  analiticaEstadisticasGenerales:
+    handler: analitica-consultas.estadisticas.handler
+    name: ${self:service}-analitica-estadisticas
+    description: Dashboard con estadísticas generales del local
+    events:
+      - http:
+          path: analitica/estadisticas
+          method: post
+          cors: true
+
+  # ============================================================
+  # INGESTA BASADA EN EVENTOS - DYNAMODB STREAMS
+  # ============================================================
+  streamProcessor:
+    handler: analitica-consultas.streamProcessor.handler
+    name: ${self:service}-stream-processor
+    description: Procesa eventos de DynamoDB Streams y actualiza S3
+    reservedConcurrency: 1
+    events:
+      # Stream para Locales
+      - stream:
+          type: dynamodb
+          arn: ${env:STREAM_ARN_LOCALES}
+          batchSize: 750
+          maximumBatchingWindowInMilliseconds: 10
+          startingPosition: LATEST
+          maximumRetryAttempts: 2
+          enabled: true
+      # Stream para Productos
+      - stream:
+          type: dynamodb
+          arn: ${env:STREAM_ARN_PRODUCTOS}
+          batchSize: 750
+          maximumBatchingWindowInMilliseconds: 10
+          startingPosition: LATEST
+          maximumRetryAttempts: 2
+          enabled: true
+      # Stream para Empleados
+      - stream:
+          type: dynamodb
+          arn: ${env:STREAM_ARN_EMPLEADOS}
+          batchSize: 750
+          maximumBatchingWindowInMilliseconds: 10
+          startingPosition: LATEST
+          maximumRetryAttempts: 2
+          enabled: true
+      # Stream para Combos
+      - stream:
+          type: dynamodb
+          arn: ${env:STREAM_ARN_COMBOS}
+          batchSize: 750
+          maximumBatchingWindowInMilliseconds: 10 
+          startingPosition: LATEST
+          maximumRetryAttempts: 2
+          enabled: true
+      # Stream para Pedidos
+      - stream:
+          type: dynamodb
+          arn: ${env:STREAM_ARN_PEDIDOS}
+          batchSize: 750
+          maximumBatchingWindowInMilliseconds: 10
+          startingPosition: LATEST
+          maximumRetryAttempts: 2
+          enabled: true
+      # Stream para Ofertas
+      - stream:
+          type: dynamodb
+          arn: ${env:STREAM_ARN_OFERTAS}
+          batchSize: 750
+          maximumBatchingWindowInMilliseconds: 10
+          startingPosition: LATEST
+          maximumRetryAttempts: 2
+          enabled: true
+      # Stream para Reseñas
+      - stream:
+          type: dynamodb
+          arn: ${env:STREAM_ARN_RESENAS}
+          batchSize: 750
+          maximumBatchingWindowInMilliseconds: 10
+          startingPosition: LATEST
+          maximumRetryAttempts: 2
+          enabled: true
+
+resources:
+  Resources:
+    # Glue Database para Analítica
+    ChinaWokGlueDatabase:
+      Type: AWS::Glue::Database
+      DeletionPolicy: Retain
+      UpdateReplacePolicy: Retain
+      Properties:
+        CatalogId: !Ref AWS::AccountId
+        DatabaseInput:
+          Name: ${env:ATHENA_DATABASE, 'chinawok_analytics'}
+          Description: Base de datos de analítica para ChinaWok con tablas de Glue
+
+  Outputs:
+    GlueDatabaseName:
+      Description: Nombre de la base de datos de Glue
+      Value: !Ref ChinaWokGlueDatabase
+      Export:
+        Name: ChinaWok-Glue-Database-Name
+    
+    StreamProcessorFunctionArn:
+      Description: ARN de la función que procesa DynamoDB Streams
+      Value: !GetAtt StreamProcessorLambdaFunction.Arn
+      Export:
+        Name: ChinaWok-Stream-Processor-Arn
+
+package:
+  individually: false
+  exclude:
+    - node_modules/**
+    - .git/**
+    - .env
+    - __pycache__/**
+    - "*.pyc"
+    - "**/requirements.txt"

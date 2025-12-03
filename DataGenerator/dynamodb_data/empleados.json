@@ -1,0 +1,7352 @@
+[
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "dni": "78650990",
+    "nombre": "Andrea",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.28,
+    "sueldo": 1255.8,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "dni": "11984306",
+    "nombre": "Luis",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.88,
+    "sueldo": 2290.31,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "dni": "45334497",
+    "nombre": "Carlos",
+    "apellido": "González",
+    "calificacion_prom": 4.48,
+    "sueldo": 2052.36,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "dni": "38196109",
+    "nombre": "Patricia",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.55,
+    "sueldo": 1515.7,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "dni": "39230981",
+    "nombre": "Javier",
+    "apellido": "Morales",
+    "calificacion_prom": 4.1,
+    "sueldo": 1797.72,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "dni": "17371959",
+    "nombre": "Daniela",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.51,
+    "sueldo": 1773.58,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "dni": "93681748",
+    "nombre": "Rosa",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.19,
+    "sueldo": 2274.37,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "dni": "95003665",
+    "nombre": "Diego",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.07,
+    "sueldo": 2192.12,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "dni": "31645225",
+    "nombre": "Ricardo",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.56,
+    "sueldo": 1714.11,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "dni": "27114388",
+    "nombre": "José",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.39,
+    "sueldo": 1491.24,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "dni": "46773336",
+    "nombre": "Roberto",
+    "apellido": "Torres",
+    "calificacion_prom": 3.85,
+    "sueldo": 2170.75,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "dni": "89018551",
+    "nombre": "Alberto",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.61,
+    "sueldo": 1464.01,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "dni": "14579788",
+    "nombre": "Javier",
+    "apellido": "Morales",
+    "calificacion_prom": 4.09,
+    "sueldo": 2478.91,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "dni": "37938942",
+    "nombre": "Ana",
+    "apellido": "Morales",
+    "calificacion_prom": 4.63,
+    "sueldo": 2785.44,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "dni": "73501648",
+    "nombre": "Luis",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.91,
+    "sueldo": 1557.91,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "dni": "80647298",
+    "nombre": "Camila",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.97,
+    "sueldo": 2085.38,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "dni": "20603903",
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "calificacion_prom": 3.95,
+    "sueldo": 2007.58,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "dni": "98847274",
+    "nombre": "Javier",
+    "apellido": "García",
+    "calificacion_prom": 3.88,
+    "sueldo": 1480.24,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "dni": "29173387",
+    "nombre": "Raúl",
+    "apellido": "Morales",
+    "calificacion_prom": 3.79,
+    "sueldo": 2206.86,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "dni": "78287686",
+    "nombre": "Patricia",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.14,
+    "sueldo": 2417.49,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "dni": "32524420",
+    "nombre": "Fernando",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.66,
+    "sueldo": 2218.24,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "dni": "76722928",
+    "nombre": "Isabel",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.93,
+    "sueldo": 1887.03,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "dni": "37862035",
+    "nombre": "Sofía",
+    "apellido": "Romero",
+    "calificacion_prom": 4.7,
+    "sueldo": 1970.66,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "dni": "88098348",
+    "nombre": "Elena",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.99,
+    "sueldo": 2875.16,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "dni": "79740584",
+    "nombre": "Ana",
+    "apellido": "Romero",
+    "calificacion_prom": 4.35,
+    "sueldo": 2732.79,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "dni": "84500555",
+    "nombre": "Elena",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.69,
+    "sueldo": 1411.85,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "dni": "56628216",
+    "nombre": "Diego",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.25,
+    "sueldo": 2803.81,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "dni": "49687861",
+    "nombre": "Elena",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.73,
+    "sueldo": 1929.2,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "dni": "58242310",
+    "nombre": "Pedro",
+    "apellido": "López",
+    "calificacion_prom": 3.61,
+    "sueldo": 1606.79,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "dni": "23002911",
+    "nombre": "Sofía",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.2,
+    "sueldo": 2978.34,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "dni": "37206135",
+    "nombre": "Jorge",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.08,
+    "sueldo": 1254.44,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "dni": "33413653",
+    "nombre": "José",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.95,
+    "sueldo": 1449.23,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "dni": "52774709",
+    "nombre": "María",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.99,
+    "sueldo": 1402.08,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "dni": "31023325",
+    "nombre": "Valentina",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.81,
+    "sueldo": 2509.71,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "dni": "82007952",
+    "nombre": "Javier",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.58,
+    "sueldo": 1947.31,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "dni": "61392350",
+    "nombre": "Laura",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.57,
+    "sueldo": 2016.91,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "dni": "42873712",
+    "nombre": "Javier",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.77,
+    "sueldo": 2774.05,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "14493180",
+    "nombre": "Miguel",
+    "apellido": "González",
+    "calificacion_prom": 3.65,
+    "sueldo": 1556.16,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "10339222",
+    "nombre": "Pedro",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.9,
+    "sueldo": 2165.82,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "96390715",
+    "nombre": "Rosa",
+    "apellido": "Martínez",
+    "calificacion_prom": 3.54,
+    "sueldo": 1965.17,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "89648629",
+    "nombre": "Miguel",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.62,
+    "sueldo": 2647.38,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "75850225",
+    "nombre": "Javier",
+    "apellido": "López",
+    "calificacion_prom": 4.67,
+    "sueldo": 1249.26,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "68181508",
+    "nombre": "María",
+    "apellido": "García",
+    "calificacion_prom": 3.97,
+    "sueldo": 1654.25,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "62903991",
+    "nombre": "Camila",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.57,
+    "sueldo": 1575.38,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "dni": "74616003",
+    "nombre": "Juan",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.1,
+    "sueldo": 1829.04,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "dni": "19598327",
+    "nombre": "Rosa",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.15,
+    "sueldo": 2317.27,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "dni": "79601105",
+    "nombre": "Luis",
+    "apellido": "Romero",
+    "calificacion_prom": 4.72,
+    "sueldo": 2477.19,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "dni": "91668608",
+    "nombre": "Carmen",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.95,
+    "sueldo": 1275.64,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "dni": "11126531",
+    "nombre": "Ana",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.75,
+    "sueldo": 1890.25,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "dni": "64472496",
+    "nombre": "Javier",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.96,
+    "sueldo": 2042.09,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "dni": "27061522",
+    "nombre": "Daniela",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.51,
+    "sueldo": 1623.16,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "34975532",
+    "nombre": "Luis",
+    "apellido": "Flores",
+    "calificacion_prom": 3.98,
+    "sueldo": 2220.11,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "39297291",
+    "nombre": "Fernando",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.96,
+    "sueldo": 1275.74,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "23068072",
+    "nombre": "Carmen",
+    "apellido": "López",
+    "calificacion_prom": 4.11,
+    "sueldo": 1416.47,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "57165433",
+    "nombre": "Rosa",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.09,
+    "sueldo": 1406.53,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "56484363",
+    "nombre": "Sofía",
+    "apellido": "Romero",
+    "calificacion_prom": 3.75,
+    "sueldo": 1359.66,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "78432458",
+    "nombre": "Ricardo",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.93,
+    "sueldo": 1502.93,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "13929494",
+    "nombre": "Daniela",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.58,
+    "sueldo": 2683.42,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "92709202",
+    "nombre": "Lucía",
+    "apellido": "Flores",
+    "calificacion_prom": 4.29,
+    "sueldo": 2245.76,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "dni": "10019169",
+    "nombre": "Pedro",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.96,
+    "sueldo": 2355.21,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "34122165",
+    "nombre": "Andrea",
+    "apellido": "García",
+    "calificacion_prom": 4.33,
+    "sueldo": 1923.5,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "78953637",
+    "nombre": "Alberto",
+    "apellido": "Flores",
+    "calificacion_prom": 4.77,
+    "sueldo": 2680.73,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "99264544",
+    "nombre": "Javier",
+    "apellido": "González",
+    "calificacion_prom": 4.26,
+    "sueldo": 2382.77,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "79951244",
+    "nombre": "Patricia",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.56,
+    "sueldo": 1584.21,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "66356345",
+    "nombre": "Jorge",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.5,
+    "sueldo": 1998.05,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "64282137",
+    "nombre": "Miguel",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.52,
+    "sueldo": 2968.81,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "37812420",
+    "nombre": "Luis",
+    "apellido": "García",
+    "calificacion_prom": 4.12,
+    "sueldo": 2592.99,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "45949763",
+    "nombre": "Miguel",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.01,
+    "sueldo": 2195.1,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "dni": "96934458",
+    "nombre": "Laura",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.41,
+    "sueldo": 2312.67,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "dni": "70128323",
+    "nombre": "Roberto",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.42,
+    "sueldo": 2151.35,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "dni": "68039899",
+    "nombre": "Juan",
+    "apellido": "López",
+    "calificacion_prom": 4.79,
+    "sueldo": 1888.73,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "dni": "45990306",
+    "nombre": "Alberto",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.08,
+    "sueldo": 2762.52,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "dni": "91202866",
+    "nombre": "Javier",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.58,
+    "sueldo": 1945.49,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "dni": "13146960",
+    "nombre": "Sofía",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.02,
+    "sueldo": 2692.34,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "dni": "93302553",
+    "nombre": "Carmen",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.69,
+    "sueldo": 2691.18,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "32875424",
+    "nombre": "Patricia",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.59,
+    "sueldo": 2340.25,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "66584069",
+    "nombre": "Diego",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.76,
+    "sueldo": 1231.1,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "51711309",
+    "nombre": "Rosa",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.37,
+    "sueldo": 1859.03,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "81690708",
+    "nombre": "José",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.55,
+    "sueldo": 2634.56,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "91208535",
+    "nombre": "Valentina",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.65,
+    "sueldo": 2434.4,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "93078803",
+    "nombre": "Valentina",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.58,
+    "sueldo": 1822.19,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "77150070",
+    "nombre": "Andrea",
+    "apellido": "Morales",
+    "calificacion_prom": 4.7,
+    "sueldo": 2094.56,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "dni": "91215712",
+    "nombre": "Lucía",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.73,
+    "sueldo": 2240.56,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "70601096",
+    "nombre": "José",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.34,
+    "sueldo": 1670.56,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "80500503",
+    "nombre": "José",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.97,
+    "sueldo": 2332.78,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "39794712",
+    "nombre": "Luis",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.22,
+    "sueldo": 2697.38,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "84642043",
+    "nombre": "Jorge",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.32,
+    "sueldo": 2900.51,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "56583891",
+    "nombre": "Andrea",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.88,
+    "sueldo": 2213.26,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "96486229",
+    "nombre": "Jorge",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.8,
+    "sueldo": 2113.2,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "12284912",
+    "nombre": "Miguel",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.82,
+    "sueldo": 2152.41,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "dni": "99928320",
+    "nombre": "Fernando",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.15,
+    "sueldo": 2528.85,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "dni": "97746737",
+    "nombre": "Diego",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.64,
+    "sueldo": 2626.09,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "dni": "75238849",
+    "nombre": "Miguel",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.21,
+    "sueldo": 1879.27,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "dni": "95347132",
+    "nombre": "Juan",
+    "apellido": "Romero",
+    "calificacion_prom": 4.82,
+    "sueldo": 2686.02,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "dni": "85758121",
+    "nombre": "Fernando",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.38,
+    "sueldo": 2992.29,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "dni": "38649007",
+    "nombre": "Fernando",
+    "apellido": "Torres",
+    "calificacion_prom": 3.75,
+    "sueldo": 1975.14,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "dni": "10765828",
+    "nombre": "Raúl",
+    "apellido": "Vargas",
+    "calificacion_prom": 3.69,
+    "sueldo": 2394.34,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "dni": "45715608",
+    "nombre": "María",
+    "apellido": "Morales",
+    "calificacion_prom": 4.27,
+    "sueldo": 2451.18,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "66405456",
+    "nombre": "Camila",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.2,
+    "sueldo": 2341.51,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "38339598",
+    "nombre": "Raúl",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.02,
+    "sueldo": 1974.85,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "68787224",
+    "nombre": "Carmen",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.54,
+    "sueldo": 1637.43,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "18622598",
+    "nombre": "Sofía",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.63,
+    "sueldo": 1480.38,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "17110123",
+    "nombre": "Juan",
+    "apellido": "Flores",
+    "calificacion_prom": 4.61,
+    "sueldo": 2468.86,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "13403770",
+    "nombre": "Rosa",
+    "apellido": "López",
+    "calificacion_prom": 3.93,
+    "sueldo": 1983.28,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "28003143",
+    "nombre": "Miguel",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.94,
+    "sueldo": 1934.26,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "77422088",
+    "nombre": "Pedro",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.29,
+    "sueldo": 1875.77,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "dni": "24553884",
+    "nombre": "Fernando",
+    "apellido": "Romero",
+    "calificacion_prom": 3.56,
+    "sueldo": 2808.33,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "dni": "89457159",
+    "nombre": "Pedro",
+    "apellido": "González",
+    "calificacion_prom": 3.78,
+    "sueldo": 2697.49,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "dni": "35721097",
+    "nombre": "José",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.71,
+    "sueldo": 2158.7,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "dni": "71888981",
+    "nombre": "Rosa",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.01,
+    "sueldo": 2251.01,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "dni": "31350168",
+    "nombre": "Raúl",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.68,
+    "sueldo": 2150.83,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "dni": "64559753",
+    "nombre": "Juan",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.55,
+    "sueldo": 1319.25,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "dni": "44398203",
+    "nombre": "Miguel",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.3,
+    "sueldo": 1570.78,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "dni": "58018877",
+    "nombre": "Pedro",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.44,
+    "sueldo": 2316.85,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "dni": "90182491",
+    "nombre": "Carlos",
+    "apellido": "Mendoza",
+    "calificacion_prom": 5.0,
+    "sueldo": 1587.75,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "dni": "22182144",
+    "nombre": "Miguel",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.18,
+    "sueldo": 1681.91,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "dni": "40565232",
+    "nombre": "Sofía",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.91,
+    "sueldo": 1484.61,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "dni": "61792950",
+    "nombre": "Javier",
+    "apellido": "Romero",
+    "calificacion_prom": 4.22,
+    "sueldo": 1404.9,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "dni": "61154573",
+    "nombre": "Carmen",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.34,
+    "sueldo": 1966.06,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "dni": "50871736",
+    "nombre": "Patricia",
+    "apellido": "Torres",
+    "calificacion_prom": 4.19,
+    "sueldo": 1370.18,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "67549800",
+    "nombre": "María",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.1,
+    "sueldo": 2783.7,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "49174893",
+    "nombre": "Camila",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.18,
+    "sueldo": 1802.36,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "84791731",
+    "nombre": "Ana",
+    "apellido": "Vargas",
+    "calificacion_prom": 3.69,
+    "sueldo": 1646.35,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "79111137",
+    "nombre": "Daniela",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.21,
+    "sueldo": 2503.24,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "64370194",
+    "nombre": "Jorge",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.7,
+    "sueldo": 1882.58,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "31237600",
+    "nombre": "Rosa",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.73,
+    "sueldo": 1204.08,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "14209291",
+    "nombre": "María",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.9,
+    "sueldo": 2412.2,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "85401361",
+    "nombre": "Camila",
+    "apellido": "González",
+    "calificacion_prom": 3.57,
+    "sueldo": 2597.81,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "dni": "35440867",
+    "nombre": "Carlos",
+    "apellido": "Morales",
+    "calificacion_prom": 3.98,
+    "sueldo": 2940.35,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "dni": "79157912",
+    "nombre": "Ana",
+    "apellido": "Torres",
+    "calificacion_prom": 3.69,
+    "sueldo": 2778.54,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "dni": "11568976",
+    "nombre": "Lucía",
+    "apellido": "García",
+    "calificacion_prom": 4.79,
+    "sueldo": 2561.95,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "dni": "67904402",
+    "nombre": "Ricardo",
+    "apellido": "Flores",
+    "calificacion_prom": 3.93,
+    "sueldo": 2923.79,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "dni": "46669256",
+    "nombre": "Elena",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.56,
+    "sueldo": 2893.78,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "dni": "59424093",
+    "nombre": "Javier",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.65,
+    "sueldo": 1922.44,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "dni": "34856453",
+    "nombre": "Andrea",
+    "apellido": "Flores",
+    "calificacion_prom": 4.73,
+    "sueldo": 2361.71,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "dni": "10449329",
+    "nombre": "Fernando",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.59,
+    "sueldo": 2723.9,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "dni": "77912594",
+    "nombre": "Diego",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.85,
+    "sueldo": 2379.65,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "dni": "14448280",
+    "nombre": "Ricardo",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.43,
+    "sueldo": 1760.41,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "dni": "68093875",
+    "nombre": "Juan",
+    "apellido": "Morales",
+    "calificacion_prom": 4.89,
+    "sueldo": 2713.69,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "dni": "48595646",
+    "nombre": "Isabel",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.73,
+    "sueldo": 1503.89,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "dni": "50672678",
+    "nombre": "Laura",
+    "apellido": "González",
+    "calificacion_prom": 4.62,
+    "sueldo": 1255.73,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "15669763",
+    "nombre": "Roberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.58,
+    "sueldo": 1974.1,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "29228381",
+    "nombre": "Camila",
+    "apellido": "González",
+    "calificacion_prom": 4.57,
+    "sueldo": 2181.62,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "81062205",
+    "nombre": "Roberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.97,
+    "sueldo": 2060.16,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "49011089",
+    "nombre": "Lucía",
+    "apellido": "Flores",
+    "calificacion_prom": 3.66,
+    "sueldo": 1915.69,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "77390247",
+    "nombre": "Patricia",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.95,
+    "sueldo": 1976.89,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "96638762",
+    "nombre": "Daniela",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.85,
+    "sueldo": 2486.63,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "23408872",
+    "nombre": "Lucía",
+    "apellido": "López",
+    "calificacion_prom": 4.7,
+    "sueldo": 1373.13,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "dni": "32523399",
+    "nombre": "Miguel",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.79,
+    "sueldo": 1587.63,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "dni": "44552453",
+    "nombre": "Isabel",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.97,
+    "sueldo": 1298.12,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "dni": "78133303",
+    "nombre": "Sofía",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.69,
+    "sueldo": 1275.66,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "dni": "82859922",
+    "nombre": "Daniela",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.87,
+    "sueldo": 1872.33,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "dni": "72252608",
+    "nombre": "Raúl",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.59,
+    "sueldo": 2696.9,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "dni": "49145939",
+    "nombre": "Pedro",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.81,
+    "sueldo": 1891.61,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "dni": "24793095",
+    "nombre": "Fernando",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.58,
+    "sueldo": 2307.04,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "84533682",
+    "nombre": "Juan",
+    "apellido": "Morales",
+    "calificacion_prom": 4.96,
+    "sueldo": 1326.39,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "36913631",
+    "nombre": "Sofía",
+    "apellido": "García",
+    "calificacion_prom": 4.54,
+    "sueldo": 1232.27,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "73025098",
+    "nombre": "Alberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.19,
+    "sueldo": 2826.59,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "57821261",
+    "nombre": "Ricardo",
+    "apellido": "González",
+    "calificacion_prom": 4.17,
+    "sueldo": 2188.96,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "85322832",
+    "nombre": "José",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.34,
+    "sueldo": 2789.84,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "63560873",
+    "nombre": "Diego",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.69,
+    "sueldo": 2534.27,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "18907131",
+    "nombre": "Juan",
+    "apellido": "Torres",
+    "calificacion_prom": 4.3,
+    "sueldo": 1877.13,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "dni": "65970829",
+    "nombre": "Laura",
+    "apellido": "González",
+    "calificacion_prom": 4.89,
+    "sueldo": 2731.67,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "23272085",
+    "nombre": "José",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.61,
+    "sueldo": 2926.78,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "20612718",
+    "nombre": "Pedro",
+    "apellido": "Flores",
+    "calificacion_prom": 4.14,
+    "sueldo": 1939.36,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "50091176",
+    "nombre": "Jorge",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.8,
+    "sueldo": 1939.5,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "32028062",
+    "nombre": "Daniela",
+    "apellido": "López",
+    "calificacion_prom": 4.63,
+    "sueldo": 2700.01,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "31920769",
+    "nombre": "Camila",
+    "apellido": "Flores",
+    "calificacion_prom": 3.97,
+    "sueldo": 1518.6,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "17349624",
+    "nombre": "Pedro",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.63,
+    "sueldo": 2718.11,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "39115946",
+    "nombre": "Andrea",
+    "apellido": "Torres",
+    "calificacion_prom": 4.61,
+    "sueldo": 1615.78,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "97297390",
+    "nombre": "Luis",
+    "apellido": "Morales",
+    "calificacion_prom": 4.24,
+    "sueldo": 1487.18,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "dni": "26322409",
+    "nombre": "Carmen",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.91,
+    "sueldo": 2573.31,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "38787938",
+    "nombre": "Roberto",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.48,
+    "sueldo": 2771.38,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "17173744",
+    "nombre": "Camila",
+    "apellido": "García",
+    "calificacion_prom": 4.67,
+    "sueldo": 2840.03,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "32177800",
+    "nombre": "Miguel",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.26,
+    "sueldo": 1567.19,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "68656092",
+    "nombre": "Luis",
+    "apellido": "González",
+    "calificacion_prom": 4.44,
+    "sueldo": 2829.37,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "34721973",
+    "nombre": "Miguel",
+    "apellido": "Flores",
+    "calificacion_prom": 4.22,
+    "sueldo": 2925.82,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "79430352",
+    "nombre": "Diego",
+    "apellido": "Romero",
+    "calificacion_prom": 4.87,
+    "sueldo": 1408.93,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "54172657",
+    "nombre": "Pedro",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.09,
+    "sueldo": 1286.23,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "dni": "14735959",
+    "nombre": "Ana",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.7,
+    "sueldo": 2160.44,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "dni": "65224243",
+    "nombre": "Javier",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.73,
+    "sueldo": 1266.73,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "dni": "84883967",
+    "nombre": "Patricia",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.59,
+    "sueldo": 2942.02,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "dni": "87453911",
+    "nombre": "Valentina",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.72,
+    "sueldo": 2941.33,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "dni": "12083465",
+    "nombre": "Andrea",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.76,
+    "sueldo": 2632.09,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "dni": "56659302",
+    "nombre": "María",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.49,
+    "sueldo": 2520.03,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "dni": "25209048",
+    "nombre": "Raúl",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.03,
+    "sueldo": 2389.07,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "dni": "89317828",
+    "nombre": "Patricia",
+    "apellido": "García",
+    "calificacion_prom": 3.73,
+    "sueldo": 2770.58,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "dni": "32132052",
+    "nombre": "Andrea",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.78,
+    "sueldo": 1860.81,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "dni": "84213170",
+    "nombre": "Rosa",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.95,
+    "sueldo": 2769.54,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "dni": "65382863",
+    "nombre": "José",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.06,
+    "sueldo": 2369.03,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "dni": "51445143",
+    "nombre": "Miguel",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.08,
+    "sueldo": 1301.63,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "dni": "93760519",
+    "nombre": "Carmen",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.01,
+    "sueldo": 1670.81,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "dni": "83158638",
+    "nombre": "Alberto",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.81,
+    "sueldo": 2373.23,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "91142104",
+    "nombre": "Pedro",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.09,
+    "sueldo": 2738.48,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "69505266",
+    "nombre": "Diego",
+    "apellido": "Flores",
+    "calificacion_prom": 4.89,
+    "sueldo": 2563.76,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "10810225",
+    "nombre": "Miguel",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.6,
+    "sueldo": 1211.47,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "82544169",
+    "nombre": "Isabel",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.56,
+    "sueldo": 1998.93,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "26017261",
+    "nombre": "Diego",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.68,
+    "sueldo": 2322.05,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "13979231",
+    "nombre": "Daniela",
+    "apellido": "Romero",
+    "calificacion_prom": 4.77,
+    "sueldo": 2665.25,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "90477281",
+    "nombre": "José",
+    "apellido": "Jiménez",
+    "calificacion_prom": 3.94,
+    "sueldo": 2793.13,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "dni": "26781148",
+    "nombre": "Carlos",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.93,
+    "sueldo": 1809.75,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "87543320",
+    "nombre": "Isabel",
+    "apellido": "García",
+    "calificacion_prom": 4.21,
+    "sueldo": 1497.68,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "41015657",
+    "nombre": "Daniela",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.58,
+    "sueldo": 2878.7,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "67557738",
+    "nombre": "Ricardo",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.74,
+    "sueldo": 2829.08,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "83035413",
+    "nombre": "Luis",
+    "apellido": "Morales",
+    "calificacion_prom": 4.57,
+    "sueldo": 2118.13,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "40720567",
+    "nombre": "Luis",
+    "apellido": "Morales",
+    "calificacion_prom": 3.7,
+    "sueldo": 1527.31,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "65495060",
+    "nombre": "Diego",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.69,
+    "sueldo": 2645.33,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "53547569",
+    "nombre": "Carlos",
+    "apellido": "López",
+    "calificacion_prom": 4.82,
+    "sueldo": 2172.83,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "dni": "57351208",
+    "nombre": "Laura",
+    "apellido": "Flores",
+    "calificacion_prom": 3.81,
+    "sueldo": 2964.15,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "15540063",
+    "nombre": "Laura",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.19,
+    "sueldo": 1898.83,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "47628445",
+    "nombre": "Rosa",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.83,
+    "sueldo": 2013.54,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "25288522",
+    "nombre": "Raúl",
+    "apellido": "Flores",
+    "calificacion_prom": 3.57,
+    "sueldo": 2734.21,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "98865997",
+    "nombre": "Alberto",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.57,
+    "sueldo": 2544.69,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "71743006",
+    "nombre": "Carlos",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.26,
+    "sueldo": 1823.88,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "40948398",
+    "nombre": "Javier",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.58,
+    "sueldo": 2456.38,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "79924185",
+    "nombre": "Carmen",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.88,
+    "sueldo": 2304.34,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "dni": "69148490",
+    "nombre": "Javier",
+    "apellido": "Morales",
+    "calificacion_prom": 4.25,
+    "sueldo": 2309.16,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "72640799",
+    "nombre": "Fernando",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.83,
+    "sueldo": 1641.26,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "30677723",
+    "nombre": "Alberto",
+    "apellido": "Flores",
+    "calificacion_prom": 3.97,
+    "sueldo": 1548.31,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "85927255",
+    "nombre": "Laura",
+    "apellido": "López",
+    "calificacion_prom": 3.68,
+    "sueldo": 1279.74,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "28231632",
+    "nombre": "José",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.61,
+    "sueldo": 2100.44,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "42356220",
+    "nombre": "Ana",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.8,
+    "sueldo": 2757.99,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "72845344",
+    "nombre": "Carmen",
+    "apellido": "Romero",
+    "calificacion_prom": 4.37,
+    "sueldo": 2769.98,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "10900234",
+    "nombre": "Fernando",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.44,
+    "sueldo": 2336.44,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "80695917",
+    "nombre": "Laura",
+    "apellido": "Torres",
+    "calificacion_prom": 3.95,
+    "sueldo": 2251.85,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "dni": "29640765",
+    "nombre": "Camila",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.98,
+    "sueldo": 1347.7,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "49152297",
+    "nombre": "Carmen",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.72,
+    "sueldo": 2329.71,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "80729916",
+    "nombre": "Alberto",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.66,
+    "sueldo": 1643.78,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "12846272",
+    "nombre": "Pedro",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.63,
+    "sueldo": 2124.57,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "17356353",
+    "nombre": "Daniela",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.88,
+    "sueldo": 1998.65,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "47517882",
+    "nombre": "Jorge",
+    "apellido": "Torres",
+    "calificacion_prom": 4.57,
+    "sueldo": 1867.11,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "48531069",
+    "nombre": "Roberto",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.74,
+    "sueldo": 2591.19,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "13130486",
+    "nombre": "Andrea",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.35,
+    "sueldo": 2818.1,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "38481895",
+    "nombre": "Lucía",
+    "apellido": "García",
+    "calificacion_prom": 4.55,
+    "sueldo": 2555.86,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "dni": "57168960",
+    "nombre": "José",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.3,
+    "sueldo": 1826.38,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "dni": "38853974",
+    "nombre": "José",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.96,
+    "sueldo": 2926.29,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "dni": "86681747",
+    "nombre": "Isabel",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.37,
+    "sueldo": 2397.62,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "dni": "16915288",
+    "nombre": "Roberto",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.66,
+    "sueldo": 2795.24,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "dni": "12135445",
+    "nombre": "Jorge",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.52,
+    "sueldo": 2305.92,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "dni": "57649394",
+    "nombre": "Javier",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.72,
+    "sueldo": 2244.31,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "dni": "59665192",
+    "nombre": "María",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.85,
+    "sueldo": 1683.02,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "dni": "74074149",
+    "nombre": "Miguel",
+    "apellido": "González",
+    "calificacion_prom": 3.9,
+    "sueldo": 2316.44,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "86892972",
+    "nombre": "Pedro",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.74,
+    "sueldo": 2212.19,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "46726914",
+    "nombre": "Valentina",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.85,
+    "sueldo": 2828.09,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "36323643",
+    "nombre": "Diego",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.78,
+    "sueldo": 1978.56,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "81216073",
+    "nombre": "Jorge",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.93,
+    "sueldo": 1659.76,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "86878920",
+    "nombre": "Raúl",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.93,
+    "sueldo": 2333.83,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "56922303",
+    "nombre": "Roberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.37,
+    "sueldo": 1403.69,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "69177433",
+    "nombre": "Andrea",
+    "apellido": "Romero",
+    "calificacion_prom": 4.67,
+    "sueldo": 2959.55,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "14791135",
+    "nombre": "Carmen",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.9,
+    "sueldo": 1583.88,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "dni": "88524783",
+    "nombre": "Miguel",
+    "apellido": "Flores",
+    "calificacion_prom": 3.78,
+    "sueldo": 2747.46,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "dni": "16320240",
+    "nombre": "Luis",
+    "apellido": "González",
+    "calificacion_prom": 4.16,
+    "sueldo": 2754.51,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "dni": "46266554",
+    "nombre": "Daniela",
+    "apellido": "García",
+    "calificacion_prom": 4.03,
+    "sueldo": 1829.32,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "dni": "64197147",
+    "nombre": "Fernando",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.82,
+    "sueldo": 2794.69,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "dni": "41853816",
+    "nombre": "Miguel",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.64,
+    "sueldo": 2833.78,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "dni": "67977558",
+    "nombre": "Lucía",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.18,
+    "sueldo": 2111.38,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "dni": "72573065",
+    "nombre": "María",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.68,
+    "sueldo": 1947.3,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "dni": "30247371",
+    "nombre": "Camila",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.83,
+    "sueldo": 2652.39,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "dni": "79997020",
+    "nombre": "Alberto",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.82,
+    "sueldo": 2289.79,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "dni": "71333682",
+    "nombre": "Jorge",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.68,
+    "sueldo": 2794.32,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "dni": "56005426",
+    "nombre": "Fernando",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.63,
+    "sueldo": 2222.47,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "dni": "41785885",
+    "nombre": "Javier",
+    "apellido": "Torres",
+    "calificacion_prom": 4.19,
+    "sueldo": 2978.85,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "dni": "67833548",
+    "nombre": "Lucía",
+    "apellido": "Morales",
+    "calificacion_prom": 4.81,
+    "sueldo": 2268.41,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "dni": "51014803",
+    "nombre": "Andrea",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.8,
+    "sueldo": 1244.37,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "dni": "93286524",
+    "nombre": "Andrea",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.55,
+    "sueldo": 1210.35,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "dni": "83985588",
+    "nombre": "Daniela",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.99,
+    "sueldo": 2908.95,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "dni": "35137937",
+    "nombre": "Carmen",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.69,
+    "sueldo": 2917.87,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "dni": "17929797",
+    "nombre": "Fernando",
+    "apellido": "González",
+    "calificacion_prom": 3.85,
+    "sueldo": 2501.82,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "dni": "66548720",
+    "nombre": "Alberto",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.99,
+    "sueldo": 1585.9,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "dni": "35910390",
+    "nombre": "Luis",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.31,
+    "sueldo": 2422.51,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "dni": "11496493",
+    "nombre": "Camila",
+    "apellido": "García",
+    "calificacion_prom": 4.66,
+    "sueldo": 1775.91,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "72260052",
+    "nombre": "Fernando",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.97,
+    "sueldo": 1298.58,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "26768768",
+    "nombre": "Ricardo",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.22,
+    "sueldo": 1728.43,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "71893278",
+    "nombre": "Rosa",
+    "apellido": "Torres",
+    "calificacion_prom": 4.5,
+    "sueldo": 2295.59,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "75737221",
+    "nombre": "Diego",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.41,
+    "sueldo": 1906.62,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "48499419",
+    "nombre": "María",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.28,
+    "sueldo": 1316.18,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "54632692",
+    "nombre": "María",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.46,
+    "sueldo": 2124.92,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "86591978",
+    "nombre": "Carmen",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.23,
+    "sueldo": 1289.1,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "dni": "89322565",
+    "nombre": "Rosa",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.78,
+    "sueldo": 1760.35,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "44334025",
+    "nombre": "Elena",
+    "apellido": "Morales",
+    "calificacion_prom": 4.91,
+    "sueldo": 2085.0,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "76795560",
+    "nombre": "Jorge",
+    "apellido": "Romero",
+    "calificacion_prom": 4.99,
+    "sueldo": 1730.19,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "51292565",
+    "nombre": "Juan",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.45,
+    "sueldo": 2095.47,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "47152509",
+    "nombre": "Elena",
+    "apellido": "Romero",
+    "calificacion_prom": 4.37,
+    "sueldo": 2249.92,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "87531541",
+    "nombre": "Laura",
+    "apellido": "López",
+    "calificacion_prom": 3.86,
+    "sueldo": 2833.88,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "25454365",
+    "nombre": "Diego",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.37,
+    "sueldo": 2025.64,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "89284586",
+    "nombre": "Jorge",
+    "apellido": "González",
+    "calificacion_prom": 4.82,
+    "sueldo": 2855.41,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "dni": "34911443",
+    "nombre": "Patricia",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.87,
+    "sueldo": 2093.51,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "dni": "63854051",
+    "nombre": "Juan",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.4,
+    "sueldo": 2343.88,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "dni": "16311806",
+    "nombre": "Patricia",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.26,
+    "sueldo": 1824.68,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "dni": "56240695",
+    "nombre": "Patricia",
+    "apellido": "García",
+    "calificacion_prom": 4.32,
+    "sueldo": 2436.29,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "dni": "10264375",
+    "nombre": "Ricardo",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.39,
+    "sueldo": 1785.74,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "dni": "79107095",
+    "nombre": "Diego",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.54,
+    "sueldo": 1290.16,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "dni": "88262926",
+    "nombre": "Valentina",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.25,
+    "sueldo": 2698.32,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "dni": "98229464",
+    "nombre": "Alberto",
+    "apellido": "Torres",
+    "calificacion_prom": 4.47,
+    "sueldo": 1661.91,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "dni": "80243529",
+    "nombre": "María",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.77,
+    "sueldo": 1534.94,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "dni": "80435500",
+    "nombre": "Rosa",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.9,
+    "sueldo": 2146.89,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "dni": "28289684",
+    "nombre": "Valentina",
+    "apellido": "Romero",
+    "calificacion_prom": 4.24,
+    "sueldo": 1583.37,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "dni": "18557218",
+    "nombre": "Laura",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.45,
+    "sueldo": 1379.77,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "dni": "81649011",
+    "nombre": "Sofía",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.88,
+    "sueldo": 2507.79,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "dni": "99828938",
+    "nombre": "José",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.98,
+    "sueldo": 2355.56,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "26771064",
+    "nombre": "Jorge",
+    "apellido": "Romero",
+    "calificacion_prom": 3.73,
+    "sueldo": 1397.53,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "39335101",
+    "nombre": "Raúl",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.68,
+    "sueldo": 1754.74,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "71866096",
+    "nombre": "Carlos",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.25,
+    "sueldo": 2443.28,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "84999380",
+    "nombre": "Roberto",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.63,
+    "sueldo": 2730.34,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "51379299",
+    "nombre": "Roberto",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.18,
+    "sueldo": 2243.26,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "20728143",
+    "nombre": "Ricardo",
+    "apellido": "Flores",
+    "calificacion_prom": 3.52,
+    "sueldo": 1515.63,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "15787354",
+    "nombre": "Lucía",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.76,
+    "sueldo": 1852.63,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "34116635",
+    "nombre": "Alberto",
+    "apellido": "Morales",
+    "calificacion_prom": 3.6,
+    "sueldo": 2813.73,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "dni": "82780424",
+    "nombre": "Carlos",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.7,
+    "sueldo": 1896.75,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "dni": "71736894",
+    "nombre": "Diego",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.94,
+    "sueldo": 1501.11,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "dni": "88197448",
+    "nombre": "María",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.63,
+    "sueldo": 2437.44,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "dni": "55175116",
+    "nombre": "Carlos",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.11,
+    "sueldo": 1861.76,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "dni": "62254914",
+    "nombre": "Lucía",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.17,
+    "sueldo": 2372.08,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "dni": "95176855",
+    "nombre": "Andrea",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.63,
+    "sueldo": 1564.54,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "dni": "27212473",
+    "nombre": "Roberto",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.68,
+    "sueldo": 1347.79,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "dni": "30189500",
+    "nombre": "María",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.13,
+    "sueldo": 1243.44,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "dni": "95433396",
+    "nombre": "Patricia",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.39,
+    "sueldo": 1937.42,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "dni": "42827473",
+    "nombre": "Lucía",
+    "apellido": "Flores",
+    "calificacion_prom": 4.9,
+    "sueldo": 2334.6,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "dni": "43935931",
+    "nombre": "Isabel",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.08,
+    "sueldo": 2425.68,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "dni": "37543590",
+    "nombre": "Pedro",
+    "apellido": "Romero",
+    "calificacion_prom": 4.4,
+    "sueldo": 2241.09,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "dni": "27948019",
+    "nombre": "Diego",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.02,
+    "sueldo": 1402.79,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "dni": "12956959",
+    "nombre": "Roberto",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.06,
+    "sueldo": 2238.62,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "16194565",
+    "nombre": "Carlos",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.8,
+    "sueldo": 2685.77,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "40663542",
+    "nombre": "Lucía",
+    "apellido": "Flores",
+    "calificacion_prom": 4.42,
+    "sueldo": 1930.64,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "38130793",
+    "nombre": "María",
+    "apellido": "Jiménez",
+    "calificacion_prom": 3.69,
+    "sueldo": 1629.19,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "47722835",
+    "nombre": "Andrea",
+    "apellido": "Jiménez",
+    "calificacion_prom": 3.61,
+    "sueldo": 2939.88,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "82585261",
+    "nombre": "Sofía",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.6,
+    "sueldo": 2002.19,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "17258348",
+    "nombre": "Lucía",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.76,
+    "sueldo": 1342.96,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "58512159",
+    "nombre": "Rosa",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.84,
+    "sueldo": 2536.87,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "dni": "73788500",
+    "nombre": "Isabel",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.72,
+    "sueldo": 1346.28,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "71630817",
+    "nombre": "Diego",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.92,
+    "sueldo": 2237.25,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "96498905",
+    "nombre": "Fernando",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.75,
+    "sueldo": 1791.74,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "88863854",
+    "nombre": "Luis",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.71,
+    "sueldo": 2586.6,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "43821928",
+    "nombre": "Patricia",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.51,
+    "sueldo": 2730.9,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "23723761",
+    "nombre": "Raúl",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.26,
+    "sueldo": 2221.11,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "57573719",
+    "nombre": "Camila",
+    "apellido": "Torres",
+    "calificacion_prom": 4.44,
+    "sueldo": 1816.54,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "51469624",
+    "nombre": "Pedro",
+    "apellido": "Romero",
+    "calificacion_prom": 4.43,
+    "sueldo": 2936.92,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "64400291",
+    "nombre": "José",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.29,
+    "sueldo": 1307.21,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "dni": "31302444",
+    "nombre": "Carlos",
+    "apellido": "Romero",
+    "calificacion_prom": 3.99,
+    "sueldo": 1313.79,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "dni": "63323794",
+    "nombre": "Laura",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.8,
+    "sueldo": 2807.22,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "dni": "60172101",
+    "nombre": "Elena",
+    "apellido": "García",
+    "calificacion_prom": 4.57,
+    "sueldo": 1227.56,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "dni": "37354801",
+    "nombre": "Miguel",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.4,
+    "sueldo": 2505.12,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "dni": "33091849",
+    "nombre": "Diego",
+    "apellido": "Vargas",
+    "calificacion_prom": 3.51,
+    "sueldo": 2103.46,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "dni": "21807680",
+    "nombre": "Andrea",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.56,
+    "sueldo": 1666.33,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "dni": "15090000",
+    "nombre": "Andrea",
+    "apellido": "Torres",
+    "calificacion_prom": 3.95,
+    "sueldo": 2286.1,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "dni": "72292835",
+    "nombre": "María",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.52,
+    "sueldo": 2088.29,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "79914859",
+    "nombre": "Miguel",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.78,
+    "sueldo": 2695.21,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "45343748",
+    "nombre": "Ricardo",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.22,
+    "sueldo": 1776.23,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "52012664",
+    "nombre": "Lucía",
+    "apellido": "García",
+    "calificacion_prom": 3.65,
+    "sueldo": 2032.83,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "82243671",
+    "nombre": "Luis",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.49,
+    "sueldo": 2069.16,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "97257723",
+    "nombre": "Pedro",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.19,
+    "sueldo": 1899.54,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "76117536",
+    "nombre": "María",
+    "apellido": "López",
+    "calificacion_prom": 4.77,
+    "sueldo": 2709.52,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "18192898",
+    "nombre": "Ricardo",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.38,
+    "sueldo": 1339.96,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "dni": "54496013",
+    "nombre": "Isabel",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.67,
+    "sueldo": 2073.89,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "55075456",
+    "nombre": "Isabel",
+    "apellido": "García",
+    "calificacion_prom": 3.79,
+    "sueldo": 2353.75,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "70454483",
+    "nombre": "Ana",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.11,
+    "sueldo": 1636.67,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "83831343",
+    "nombre": "Camila",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.43,
+    "sueldo": 2204.83,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "23563026",
+    "nombre": "Jorge",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.84,
+    "sueldo": 1503.19,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "10299787",
+    "nombre": "Miguel",
+    "apellido": "López",
+    "calificacion_prom": 4.5,
+    "sueldo": 1340.78,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "13579668",
+    "nombre": "Ricardo",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.91,
+    "sueldo": 2165.58,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "47915799",
+    "nombre": "Alberto",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.7,
+    "sueldo": 2714.18,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "dni": "55626067",
+    "nombre": "María",
+    "apellido": "Flores",
+    "calificacion_prom": 4.06,
+    "sueldo": 1876.18,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "dni": "12320393",
+    "nombre": "Andrea",
+    "apellido": "González",
+    "calificacion_prom": 3.92,
+    "sueldo": 2059.0,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "dni": "74827630",
+    "nombre": "Andrea",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.42,
+    "sueldo": 2560.55,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "dni": "75452049",
+    "nombre": "Juan",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.22,
+    "sueldo": 1671.39,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "dni": "16436298",
+    "nombre": "Carmen",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.79,
+    "sueldo": 1814.92,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "dni": "53138652",
+    "nombre": "Valentina",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.7,
+    "sueldo": 2949.66,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "dni": "53217611",
+    "nombre": "Rosa",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.97,
+    "sueldo": 1266.38,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "dni": "21557585",
+    "nombre": "José",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.61,
+    "sueldo": 1322.13,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "dni": "24536412",
+    "nombre": "Juan",
+    "apellido": "Flores",
+    "calificacion_prom": 3.74,
+    "sueldo": 1337.99,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "dni": "97314112",
+    "nombre": "Pedro",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.84,
+    "sueldo": 2486.58,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "dni": "84447306",
+    "nombre": "Fernando",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.23,
+    "sueldo": 1708.73,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "dni": "50748640",
+    "nombre": "Camila",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.44,
+    "sueldo": 2926.91,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "dni": "12227553",
+    "nombre": "Valentina",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.56,
+    "sueldo": 2354.68,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "dni": "83296650",
+    "nombre": "Andrea",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.77,
+    "sueldo": 2326.53,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "dni": "22642138",
+    "nombre": "Carmen",
+    "apellido": "Flores",
+    "calificacion_prom": 3.68,
+    "sueldo": 2774.27,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "dni": "94043457",
+    "nombre": "Patricia",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.34,
+    "sueldo": 2013.23,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "dni": "77347996",
+    "nombre": "Alberto",
+    "apellido": "Vargas",
+    "calificacion_prom": 3.8,
+    "sueldo": 2026.87,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "dni": "51094052",
+    "nombre": "Camila",
+    "apellido": "Morales",
+    "calificacion_prom": 3.65,
+    "sueldo": 1704.53,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "dni": "69618170",
+    "nombre": "José",
+    "apellido": "López",
+    "calificacion_prom": 4.95,
+    "sueldo": 2300.99,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "dni": "12716270",
+    "nombre": "Pedro",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.18,
+    "sueldo": 2183.92,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "dni": "48969831",
+    "nombre": "Miguel",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.6,
+    "sueldo": 2042.99,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "dni": "92669061",
+    "nombre": "Roberto",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.37,
+    "sueldo": 2714.78,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "dni": "53894489",
+    "nombre": "Roberto",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.83,
+    "sueldo": 2903.32,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "dni": "23909525",
+    "nombre": "Carmen",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.81,
+    "sueldo": 2908.63,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "dni": "50687864",
+    "nombre": "Andrea",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.63,
+    "sueldo": 1330.1,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "dni": "66505465",
+    "nombre": "Laura",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.98,
+    "sueldo": 2130.89,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "dni": "34655648",
+    "nombre": "José",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.5,
+    "sueldo": 2811.74,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "79335191",
+    "nombre": "José",
+    "apellido": "González",
+    "calificacion_prom": 4.08,
+    "sueldo": 2156.6,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "75385511",
+    "nombre": "Alberto",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.99,
+    "sueldo": 2507.59,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "34312776",
+    "nombre": "Luis",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.38,
+    "sueldo": 1297.87,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "64117560",
+    "nombre": "José",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.72,
+    "sueldo": 2790.21,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "57150677",
+    "nombre": "Javier",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.58,
+    "sueldo": 2138.3,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "61191535",
+    "nombre": "Camila",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.9,
+    "sueldo": 2756.65,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "29480714",
+    "nombre": "María",
+    "apellido": "González",
+    "calificacion_prom": 4.01,
+    "sueldo": 1225.58,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "45231878",
+    "nombre": "Miguel",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.51,
+    "sueldo": 2532.85,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "dni": "19183609",
+    "nombre": "Camila",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.98,
+    "sueldo": 2824.62,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "17036603",
+    "nombre": "Raúl",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.5,
+    "sueldo": 2440.89,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "12900489",
+    "nombre": "Javier",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.31,
+    "sueldo": 2573.0,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "93863630",
+    "nombre": "José",
+    "apellido": "Romero",
+    "calificacion_prom": 4.81,
+    "sueldo": 2052.92,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "38196623",
+    "nombre": "Roberto",
+    "apellido": "Romero",
+    "calificacion_prom": 4.86,
+    "sueldo": 1468.63,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "79150846",
+    "nombre": "Carlos",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.15,
+    "sueldo": 1985.67,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "90081387",
+    "nombre": "Ricardo",
+    "apellido": "Flores",
+    "calificacion_prom": 3.88,
+    "sueldo": 2413.12,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "98453043",
+    "nombre": "Elena",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.78,
+    "sueldo": 1524.34,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "18449762",
+    "nombre": "Lucía",
+    "apellido": "García",
+    "calificacion_prom": 3.76,
+    "sueldo": 1317.85,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "dni": "20868818",
+    "nombre": "Fernando",
+    "apellido": "Romero",
+    "calificacion_prom": 4.56,
+    "sueldo": 2160.93,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "dni": "47914103",
+    "nombre": "Ricardo",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.55,
+    "sueldo": 1545.02,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "dni": "58931840",
+    "nombre": "Diego",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.92,
+    "sueldo": 2431.14,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "dni": "94097852",
+    "nombre": "Rosa",
+    "apellido": "Flores",
+    "calificacion_prom": 4.43,
+    "sueldo": 2464.37,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "dni": "97104490",
+    "nombre": "Sofía",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.95,
+    "sueldo": 2423.25,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "dni": "41373666",
+    "nombre": "Patricia",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.84,
+    "sueldo": 2000.01,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "dni": "26468528",
+    "nombre": "Javier",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.33,
+    "sueldo": 1520.74,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "dni": "91010523",
+    "nombre": "Sofía",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.31,
+    "sueldo": 2283.17,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "dni": "16446068",
+    "nombre": "Valentina",
+    "apellido": "Morales",
+    "calificacion_prom": 3.89,
+    "sueldo": 1720.67,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "dni": "33058916",
+    "nombre": "Daniela",
+    "apellido": "Vargas",
+    "calificacion_prom": 3.51,
+    "sueldo": 1810.21,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "dni": "56198184",
+    "nombre": "Camila",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.82,
+    "sueldo": 1860.66,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "dni": "29051025",
+    "nombre": "Daniela",
+    "apellido": "Morales",
+    "calificacion_prom": 4.97,
+    "sueldo": 1859.87,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "dni": "39199085",
+    "nombre": "Ricardo",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.84,
+    "sueldo": 1211.62,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "dni": "65352492",
+    "nombre": "Carmen",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.46,
+    "sueldo": 2867.94,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "dni": "58559575",
+    "nombre": "Andrea",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.13,
+    "sueldo": 2059.91,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "dni": "35053221",
+    "nombre": "Isabel",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.26,
+    "sueldo": 2930.41,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "dni": "65929600",
+    "nombre": "María",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.89,
+    "sueldo": 2810.35,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "dni": "27185975",
+    "nombre": "Rosa",
+    "apellido": "Morales",
+    "calificacion_prom": 3.7,
+    "sueldo": 2253.88,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "dni": "81203203",
+    "nombre": "Daniela",
+    "apellido": "García",
+    "calificacion_prom": 4.96,
+    "sueldo": 2635.63,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "dni": "79267803",
+    "nombre": "Roberto",
+    "apellido": "Flores",
+    "calificacion_prom": 3.62,
+    "sueldo": 2547.44,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "dni": "91098292",
+    "nombre": "Patricia",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.26,
+    "sueldo": 1732.75,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "dni": "28316967",
+    "nombre": "Elena",
+    "apellido": "Flores",
+    "calificacion_prom": 3.67,
+    "sueldo": 2278.01,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "dni": "24068683",
+    "nombre": "Javier",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.8,
+    "sueldo": 2064.36,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "dni": "57819684",
+    "nombre": "Patricia",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.43,
+    "sueldo": 2445.23,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "dni": "37216472",
+    "nombre": "Javier",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.48,
+    "sueldo": 1623.89,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "dni": "10461663",
+    "nombre": "Carmen",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.8,
+    "sueldo": 1892.55,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "dni": "54410090",
+    "nombre": "Andrea",
+    "apellido": "González",
+    "calificacion_prom": 4.36,
+    "sueldo": 2294.05,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "dni": "59566894",
+    "nombre": "Valentina",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.54,
+    "sueldo": 1549.75,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "dni": "48642185",
+    "nombre": "Laura",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.63,
+    "sueldo": 2975.34,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "dni": "71661197",
+    "nombre": "Carmen",
+    "apellido": "Morales",
+    "calificacion_prom": 3.95,
+    "sueldo": 2083.69,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "dni": "94841669",
+    "nombre": "Andrea",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.45,
+    "sueldo": 2964.5,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "dni": "52793191",
+    "nombre": "Jorge",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.52,
+    "sueldo": 2186.96,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "dni": "47798759",
+    "nombre": "Javier",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.59,
+    "sueldo": 2449.88,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "dni": "20541799",
+    "nombre": "Juan",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.56,
+    "sueldo": 1826.19,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "82347632",
+    "nombre": "Pedro",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.11,
+    "sueldo": 2130.36,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "98652680",
+    "nombre": "Juan",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.63,
+    "sueldo": 1764.27,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "80794355",
+    "nombre": "Javier",
+    "apellido": "Romero",
+    "calificacion_prom": 3.55,
+    "sueldo": 1973.26,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "72539767",
+    "nombre": "Andrea",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.9,
+    "sueldo": 2511.36,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "81784362",
+    "nombre": "Diego",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.37,
+    "sueldo": 1502.67,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "38953364",
+    "nombre": "Diego",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.09,
+    "sueldo": 2957.36,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "18207024",
+    "nombre": "Javier",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.84,
+    "sueldo": 2787.42,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "38463741",
+    "nombre": "Camila",
+    "apellido": "González",
+    "calificacion_prom": 4.41,
+    "sueldo": 2830.59,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "dni": "33539849",
+    "nombre": "Camila",
+    "apellido": "Martínez",
+    "calificacion_prom": 3.96,
+    "sueldo": 2899.47,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "dni": "48291659",
+    "nombre": "Miguel",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.8,
+    "sueldo": 2933.8,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "dni": "67628984",
+    "nombre": "Roberto",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.15,
+    "sueldo": 2796.63,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "dni": "53672459",
+    "nombre": "Lucía",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.93,
+    "sueldo": 2384.92,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "dni": "71457430",
+    "nombre": "Lucía",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.51,
+    "sueldo": 1981.37,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "dni": "75349805",
+    "nombre": "Javier",
+    "apellido": "Torres",
+    "calificacion_prom": 4.98,
+    "sueldo": 2987.46,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "dni": "15950321",
+    "nombre": "Jorge",
+    "apellido": "Romero",
+    "calificacion_prom": 4.31,
+    "sueldo": 1553.99,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "dni": "86840218",
+    "nombre": "María",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.18,
+    "sueldo": 2679.65,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "dni": "75916938",
+    "nombre": "Miguel",
+    "apellido": "Torres",
+    "calificacion_prom": 4.8,
+    "sueldo": 2207.08,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "dni": "82092910",
+    "nombre": "Andrea",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.38,
+    "sueldo": 2190.52,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "dni": "32274237",
+    "nombre": "Valentina",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.89,
+    "sueldo": 2484.48,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "dni": "93881448",
+    "nombre": "Sofía",
+    "apellido": "González",
+    "calificacion_prom": 3.94,
+    "sueldo": 2039.28,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "dni": "95061067",
+    "nombre": "Sofía",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.21,
+    "sueldo": 2487.21,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "dni": "23888574",
+    "nombre": "Miguel",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.96,
+    "sueldo": 1590.22,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "dni": "28947262",
+    "nombre": "Rosa",
+    "apellido": "López",
+    "calificacion_prom": 3.68,
+    "sueldo": 1694.62,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "73032084",
+    "nombre": "Miguel",
+    "apellido": "Jiménez",
+    "calificacion_prom": 3.66,
+    "sueldo": 2285.81,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "35573481",
+    "nombre": "Patricia",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.54,
+    "sueldo": 2403.57,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "64772415",
+    "nombre": "Andrea",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.6,
+    "sueldo": 1496.9,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "21843024",
+    "nombre": "Raúl",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 3.53,
+    "sueldo": 1336.85,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "77101952",
+    "nombre": "Juan",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.51,
+    "sueldo": 2385.26,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "89893867",
+    "nombre": "Juan",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.14,
+    "sueldo": 2490.09,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "55091747",
+    "nombre": "Fernando",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.82,
+    "sueldo": 2267.0,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "67846512",
+    "nombre": "Diego",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.86,
+    "sueldo": 2011.92,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "dni": "76661965",
+    "nombre": "Fernando",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.03,
+    "sueldo": 1429.67,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "dni": "42989944",
+    "nombre": "Fernando",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.67,
+    "sueldo": 2140.94,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "dni": "81438565",
+    "nombre": "José",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.75,
+    "sueldo": 2904.18,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "dni": "12683064",
+    "nombre": "Elena",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.02,
+    "sueldo": 1683.23,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "dni": "44691289",
+    "nombre": "Juan",
+    "apellido": "Torres",
+    "calificacion_prom": 3.81,
+    "sueldo": 1388.93,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "dni": "58468325",
+    "nombre": "Rosa",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.98,
+    "sueldo": 1358.14,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "dni": "96120622",
+    "nombre": "Ana",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.98,
+    "sueldo": 1972.9,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "36778163",
+    "nombre": "Alberto",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.59,
+    "sueldo": 2575.2,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "57405060",
+    "nombre": "Carmen",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.8,
+    "sueldo": 1434.38,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "53076730",
+    "nombre": "Patricia",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.27,
+    "sueldo": 1789.41,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "47477934",
+    "nombre": "María",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.18,
+    "sueldo": 2088.66,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "61176874",
+    "nombre": "Patricia",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.04,
+    "sueldo": 2170.78,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "58701947",
+    "nombre": "Diego",
+    "apellido": "Torres",
+    "calificacion_prom": 3.79,
+    "sueldo": 2070.01,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "12909736",
+    "nombre": "José",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.43,
+    "sueldo": 1995.89,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "dni": "80089633",
+    "nombre": "Luis",
+    "apellido": "González",
+    "calificacion_prom": 4.12,
+    "sueldo": 2112.09,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "69449372",
+    "nombre": "Luis",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.66,
+    "sueldo": 1809.81,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "67366138",
+    "nombre": "Valentina",
+    "apellido": "González",
+    "calificacion_prom": 4.32,
+    "sueldo": 2541.57,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "93816371",
+    "nombre": "Roberto",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.04,
+    "sueldo": 1383.99,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "60880645",
+    "nombre": "Pedro",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.69,
+    "sueldo": 2840.02,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "84397120",
+    "nombre": "Roberto",
+    "apellido": "López",
+    "calificacion_prom": 3.86,
+    "sueldo": 2325.32,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "46644068",
+    "nombre": "Pedro",
+    "apellido": "Torres",
+    "calificacion_prom": 4.89,
+    "sueldo": 2885.09,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "89422154",
+    "nombre": "Elena",
+    "apellido": "Morales",
+    "calificacion_prom": 4.52,
+    "sueldo": 1898.38,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "38251697",
+    "nombre": "Luis",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.95,
+    "sueldo": 1389.11,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "dni": "84709503",
+    "nombre": "Daniela",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.26,
+    "sueldo": 1231.29,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "75628301",
+    "nombre": "Juan",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.44,
+    "sueldo": 2769.8,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "75293345",
+    "nombre": "Sofía",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.81,
+    "sueldo": 1781.23,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "85018094",
+    "nombre": "Miguel",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.37,
+    "sueldo": 2289.54,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "26244892",
+    "nombre": "Pedro",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.09,
+    "sueldo": 2008.82,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "69953406",
+    "nombre": "Javier",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.15,
+    "sueldo": 2629.59,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "93843819",
+    "nombre": "Fernando",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.19,
+    "sueldo": 2770.61,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "95371583",
+    "nombre": "Raúl",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.68,
+    "sueldo": 1727.56,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "99052635",
+    "nombre": "Elena",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.22,
+    "sueldo": 1944.9,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "dni": "33597562",
+    "nombre": "Daniela",
+    "apellido": "López",
+    "calificacion_prom": 3.85,
+    "sueldo": 2488.55,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "74075252",
+    "nombre": "Pedro",
+    "apellido": "Flores",
+    "calificacion_prom": 4.0,
+    "sueldo": 2452.07,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "99725576",
+    "nombre": "José",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.46,
+    "sueldo": 2885.49,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "79307664",
+    "nombre": "Valentina",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.65,
+    "sueldo": 2019.82,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "61524064",
+    "nombre": "Ricardo",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.36,
+    "sueldo": 2709.07,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "95790829",
+    "nombre": "Ricardo",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.13,
+    "sueldo": 1426.63,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "41217859",
+    "nombre": "Fernando",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.63,
+    "sueldo": 1658.06,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "58977219",
+    "nombre": "Javier",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.86,
+    "sueldo": 2205.09,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "13101018",
+    "nombre": "Luis",
+    "apellido": "González",
+    "calificacion_prom": 3.58,
+    "sueldo": 2250.12,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "dni": "94689620",
+    "nombre": "Lucía",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.71,
+    "sueldo": 1937.27,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "dni": "10905377",
+    "nombre": "Laura",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.01,
+    "sueldo": 1494.04,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "dni": "93046883",
+    "nombre": "Luis",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.8,
+    "sueldo": 1367.04,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "dni": "43370845",
+    "nombre": "Carmen",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.89,
+    "sueldo": 2490.87,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "dni": "49811201",
+    "nombre": "Daniela",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.51,
+    "sueldo": 1409.41,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "dni": "40333227",
+    "nombre": "Lucía",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.77,
+    "sueldo": 1891.29,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "dni": "60620113",
+    "nombre": "Lucía",
+    "apellido": "López",
+    "calificacion_prom": 3.5,
+    "sueldo": 2922.54,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "dni": "62595069",
+    "nombre": "Laura",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.7,
+    "sueldo": 1613.09,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "dni": "35735545",
+    "nombre": "Daniela",
+    "apellido": "Morales",
+    "calificacion_prom": 4.15,
+    "sueldo": 1705.43,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "dni": "73139406",
+    "nombre": "Fernando",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.91,
+    "sueldo": 1719.19,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "dni": "32582531",
+    "nombre": "Isabel",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.76,
+    "sueldo": 2821.48,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "dni": "77202554",
+    "nombre": "José",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.13,
+    "sueldo": 2765.6,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "dni": "45913488",
+    "nombre": "Raúl",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.55,
+    "sueldo": 1375.1,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "dni": "32709314",
+    "nombre": "Laura",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.74,
+    "sueldo": 1758.94,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "dni": "42633881",
+    "nombre": "Lucía",
+    "apellido": "Romero",
+    "calificacion_prom": 4.64,
+    "sueldo": 2001.75,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "28529935",
+    "nombre": "Ricardo",
+    "apellido": "Morales",
+    "calificacion_prom": 3.89,
+    "sueldo": 2214.86,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "16074646",
+    "nombre": "Valentina",
+    "apellido": "Jiménez",
+    "calificacion_prom": 3.66,
+    "sueldo": 1287.28,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "55696282",
+    "nombre": "Ricardo",
+    "apellido": "González",
+    "calificacion_prom": 4.84,
+    "sueldo": 1536.8,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "81841410",
+    "nombre": "Isabel",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.88,
+    "sueldo": 2123.41,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "90514649",
+    "nombre": "Rosa",
+    "apellido": "Romero",
+    "calificacion_prom": 4.22,
+    "sueldo": 2923.24,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "77754376",
+    "nombre": "Javier",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.02,
+    "sueldo": 1394.94,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "99934564",
+    "nombre": "Diego",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.5,
+    "sueldo": 2822.58,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "63464323",
+    "nombre": "Miguel",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.79,
+    "sueldo": 2032.25,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "dni": "41134523",
+    "nombre": "María",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.83,
+    "sueldo": 1273.2,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "dni": "64234822",
+    "nombre": "Pedro",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.96,
+    "sueldo": 2072.28,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "dni": "53790930",
+    "nombre": "Pedro",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.32,
+    "sueldo": 1921.04,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "dni": "19446798",
+    "nombre": "Andrea",
+    "apellido": "Jiménez",
+    "calificacion_prom": 3.88,
+    "sueldo": 1386.05,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "dni": "96167085",
+    "nombre": "Miguel",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.64,
+    "sueldo": 2442.95,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "dni": "28725316",
+    "nombre": "Ana",
+    "apellido": "Flores",
+    "calificacion_prom": 4.39,
+    "sueldo": 1205.02,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "dni": "81209449",
+    "nombre": "Valentina",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.89,
+    "sueldo": 2652.75,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "dni": "36905620",
+    "nombre": "Rosa",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.79,
+    "sueldo": 1450.8,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "dni": "53887937",
+    "nombre": "Raúl",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.87,
+    "sueldo": 1397.14,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "dni": "58068571",
+    "nombre": "Alberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.76,
+    "sueldo": 1484.64,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "dni": "48120846",
+    "nombre": "Fernando",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.68,
+    "sueldo": 2651.06,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "dni": "20394320",
+    "nombre": "Luis",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.91,
+    "sueldo": 2201.01,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "dni": "30301854",
+    "nombre": "Sofía",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.1,
+    "sueldo": 2740.27,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "33738517",
+    "nombre": "Alberto",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.73,
+    "sueldo": 1843.14,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "67439080",
+    "nombre": "Camila",
+    "apellido": "López",
+    "calificacion_prom": 4.25,
+    "sueldo": 1953.29,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "84850815",
+    "nombre": "Juan",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.79,
+    "sueldo": 1431.61,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "83979771",
+    "nombre": "Ana",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.87,
+    "sueldo": 2701.61,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "14240951",
+    "nombre": "Andrea",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.55,
+    "sueldo": 1492.01,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "56866122",
+    "nombre": "Ricardo",
+    "apellido": "Flores",
+    "calificacion_prom": 4.07,
+    "sueldo": 1935.2,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "61593104",
+    "nombre": "Diego",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.23,
+    "sueldo": 1534.29,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "48973758",
+    "nombre": "Luis",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.21,
+    "sueldo": 1283.66,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "dni": "73285565",
+    "nombre": "María",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.48,
+    "sueldo": 2119.69,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "dni": "68721607",
+    "nombre": "Rosa",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.11,
+    "sueldo": 2157.96,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "dni": "57431946",
+    "nombre": "Ricardo",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.75,
+    "sueldo": 2542.95,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "dni": "83504042",
+    "nombre": "Fernando",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.83,
+    "sueldo": 1558.86,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "dni": "81266996",
+    "nombre": "Lucía",
+    "apellido": "Romero",
+    "calificacion_prom": 3.86,
+    "sueldo": 1836.51,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "dni": "13438086",
+    "nombre": "Roberto",
+    "apellido": "Torres",
+    "calificacion_prom": 3.74,
+    "sueldo": 2534.39,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "dni": "24311389",
+    "nombre": "Lucía",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.92,
+    "sueldo": 1677.62,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "dni": "18246053",
+    "nombre": "Rosa",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.96,
+    "sueldo": 2745.64,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "dni": "91525048",
+    "nombre": "Sofía",
+    "apellido": "Pérez",
+    "calificacion_prom": 5.0,
+    "sueldo": 1862.63,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "dni": "51651048",
+    "nombre": "Diego",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.94,
+    "sueldo": 2999.32,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "dni": "22022089",
+    "nombre": "Ricardo",
+    "apellido": "Flores",
+    "calificacion_prom": 4.68,
+    "sueldo": 1775.21,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "dni": "55598891",
+    "nombre": "Miguel",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.9,
+    "sueldo": 2750.95,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "dni": "12281811",
+    "nombre": "Camila",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.57,
+    "sueldo": 1509.53,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "28425478",
+    "nombre": "Lucía",
+    "apellido": "Torres",
+    "calificacion_prom": 4.7,
+    "sueldo": 1813.79,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "14732478",
+    "nombre": "María",
+    "apellido": "López",
+    "calificacion_prom": 4.35,
+    "sueldo": 2667.65,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "18582680",
+    "nombre": "José",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.71,
+    "sueldo": 1575.51,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "19651790",
+    "nombre": "Javier",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.94,
+    "sueldo": 2803.23,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "29061404",
+    "nombre": "Alberto",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.37,
+    "sueldo": 2137.2,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "43390010",
+    "nombre": "Jorge",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.09,
+    "sueldo": 1515.57,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "45075672",
+    "nombre": "Rosa",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.29,
+    "sueldo": 2210.8,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "dni": "81893320",
+    "nombre": "Raúl",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.29,
+    "sueldo": 1354.59,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "dni": "73650827",
+    "nombre": "Roberto",
+    "apellido": "Torres",
+    "calificacion_prom": 4.38,
+    "sueldo": 2736.77,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "dni": "13437851",
+    "nombre": "Lucía",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.58,
+    "sueldo": 2991.94,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "dni": "29582937",
+    "nombre": "Sofía",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.36,
+    "sueldo": 2529.13,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "dni": "46183612",
+    "nombre": "Fernando",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.82,
+    "sueldo": 2553.76,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "dni": "90388990",
+    "nombre": "Javier",
+    "apellido": "López",
+    "calificacion_prom": 4.87,
+    "sueldo": 1517.49,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "dni": "62070934",
+    "nombre": "Ana",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.97,
+    "sueldo": 2903.3,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "dni": "39127905",
+    "nombre": "Patricia",
+    "apellido": "González",
+    "calificacion_prom": 4.01,
+    "sueldo": 1862.97,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "dni": "28598480",
+    "nombre": "José",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.89,
+    "sueldo": 1347.1,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "dni": "99093503",
+    "nombre": "Roberto",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.45,
+    "sueldo": 1460.47,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "dni": "88131078",
+    "nombre": "Lucía",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.56,
+    "sueldo": 1596.61,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "dni": "16121592",
+    "nombre": "José",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.39,
+    "sueldo": 2359.01,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "dni": "69918168",
+    "nombre": "Laura",
+    "apellido": "Morales",
+    "calificacion_prom": 3.96,
+    "sueldo": 2812.21,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "dni": "30287995",
+    "nombre": "Alberto",
+    "apellido": "López",
+    "calificacion_prom": 4.86,
+    "sueldo": 2575.24,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "dni": "71790526",
+    "nombre": "Ricardo",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.58,
+    "sueldo": 2425.44,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "dni": "92585566",
+    "nombre": "Fernando",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.37,
+    "sueldo": 2572.61,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "dni": "68669966",
+    "nombre": "Camila",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.02,
+    "sueldo": 2820.75,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "dni": "36174743",
+    "nombre": "Lucía",
+    "apellido": "Morales",
+    "calificacion_prom": 3.52,
+    "sueldo": 2628.6,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "dni": "21059143",
+    "nombre": "Juan",
+    "apellido": "Flores",
+    "calificacion_prom": 4.57,
+    "sueldo": 1321.21,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "dni": "38146632",
+    "nombre": "Elena",
+    "apellido": "Morales",
+    "calificacion_prom": 4.74,
+    "sueldo": 2119.03,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "dni": "55527531",
+    "nombre": "Juan",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.91,
+    "sueldo": 2865.2,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "dni": "12688677",
+    "nombre": "Carmen",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.56,
+    "sueldo": 1936.44,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "dni": "17096582",
+    "nombre": "Roberto",
+    "apellido": "García",
+    "calificacion_prom": 4.28,
+    "sueldo": 2407.7,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "dni": "66818682",
+    "nombre": "Jorge",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.94,
+    "sueldo": 1364.58,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "dni": "99322798",
+    "nombre": "Valentina",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.81,
+    "sueldo": 1700.61,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "dni": "63813679",
+    "nombre": "Luis",
+    "apellido": "Romero",
+    "calificacion_prom": 4.46,
+    "sueldo": 1727.12,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "dni": "46787088",
+    "nombre": "Javier",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.27,
+    "sueldo": 2478.19,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "dni": "43501043",
+    "nombre": "Andrea",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.74,
+    "sueldo": 2649.23,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "dni": "21021169",
+    "nombre": "Pedro",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.39,
+    "sueldo": 2779.66,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "dni": "98955097",
+    "nombre": "Daniela",
+    "apellido": "López",
+    "calificacion_prom": 4.97,
+    "sueldo": 2932.56,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "dni": "80034055",
+    "nombre": "Rosa",
+    "apellido": "Ramírez",
+    "calificacion_prom": 4.59,
+    "sueldo": 2270.58,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "dni": "10983623",
+    "nombre": "Elena",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.79,
+    "sueldo": 1925.47,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "dni": "47136679",
+    "nombre": "Diego",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.18,
+    "sueldo": 2397.03,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "dni": "39085439",
+    "nombre": "Alberto",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.9,
+    "sueldo": 1882.7,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "dni": "89928816",
+    "nombre": "Patricia",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.99,
+    "sueldo": 2024.14,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "dni": "70379141",
+    "nombre": "Patricia",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.93,
+    "sueldo": 2093.19,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "dni": "42386235",
+    "nombre": "Juan",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.94,
+    "sueldo": 1335.53,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "dni": "36306329",
+    "nombre": "Andrea",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.37,
+    "sueldo": 1997.64,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "dni": "83819007",
+    "nombre": "Carmen",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.74,
+    "sueldo": 2449.49,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "dni": "98806479",
+    "nombre": "Juan",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.91,
+    "sueldo": 1703.2,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "dni": "24145906",
+    "nombre": "Lucía",
+    "apellido": "Torres",
+    "calificacion_prom": 3.57,
+    "sueldo": 1240.11,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "dni": "82798340",
+    "nombre": "Fernando",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.93,
+    "sueldo": 1407.31,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "dni": "92821923",
+    "nombre": "Camila",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.48,
+    "sueldo": 2864.53,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "dni": "35072246",
+    "nombre": "Andrea",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.24,
+    "sueldo": 2715.86,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "dni": "49861621",
+    "nombre": "Laura",
+    "apellido": "Gutiérrez",
+    "calificacion_prom": 4.39,
+    "sueldo": 2849.44,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "dni": "34883057",
+    "nombre": "Lucía",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.14,
+    "sueldo": 2858.76,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "dni": "63294972",
+    "nombre": "Miguel",
+    "apellido": "González",
+    "calificacion_prom": 3.78,
+    "sueldo": 2532.71,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "dni": "20364709",
+    "nombre": "Fernando",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.95,
+    "sueldo": 2638.53,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "56308398",
+    "nombre": "Javier",
+    "apellido": "García",
+    "calificacion_prom": 5.0,
+    "sueldo": 2748.82,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "87478919",
+    "nombre": "Lucía",
+    "apellido": "García",
+    "calificacion_prom": 4.44,
+    "sueldo": 1632.76,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "97723896",
+    "nombre": "María",
+    "apellido": "Martínez",
+    "calificacion_prom": 3.75,
+    "sueldo": 2670.72,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "87867241",
+    "nombre": "Isabel",
+    "apellido": "Romero",
+    "calificacion_prom": 3.98,
+    "sueldo": 2092.33,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "18693164",
+    "nombre": "Daniela",
+    "apellido": "Vargas",
+    "calificacion_prom": 3.52,
+    "sueldo": 1433.15,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "58152864",
+    "nombre": "Sofía",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.8,
+    "sueldo": 2838.49,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "81996480",
+    "nombre": "Diego",
+    "apellido": "Torres",
+    "calificacion_prom": 4.5,
+    "sueldo": 2340.53,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "52492937",
+    "nombre": "Raúl",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.36,
+    "sueldo": 1672.22,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "dni": "24437079",
+    "nombre": "Patricia",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.66,
+    "sueldo": 2291.42,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "15405883",
+    "nombre": "Alberto",
+    "apellido": "González",
+    "calificacion_prom": 4.3,
+    "sueldo": 2367.05,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "57763832",
+    "nombre": "Luis",
+    "apellido": "García",
+    "calificacion_prom": 3.95,
+    "sueldo": 1334.45,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "51626382",
+    "nombre": "Laura",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.49,
+    "sueldo": 2865.39,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "38263657",
+    "nombre": "Raúl",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.83,
+    "sueldo": 2319.24,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "81783728",
+    "nombre": "Laura",
+    "apellido": "Morales",
+    "calificacion_prom": 3.67,
+    "sueldo": 2399.33,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "27178660",
+    "nombre": "Jorge",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.28,
+    "sueldo": 2756.97,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "55102207",
+    "nombre": "Luis",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.7,
+    "sueldo": 2716.73,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "61829840",
+    "nombre": "Juan",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.19,
+    "sueldo": 2429.81,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "dni": "26076988",
+    "nombre": "Jorge",
+    "apellido": "García",
+    "calificacion_prom": 4.95,
+    "sueldo": 2736.18,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "33656304",
+    "nombre": "Andrea",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.65,
+    "sueldo": 1330.14,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "24965566",
+    "nombre": "Luis",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.95,
+    "sueldo": 2801.33,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "73093428",
+    "nombre": "Fernando",
+    "apellido": "López",
+    "calificacion_prom": 4.76,
+    "sueldo": 2135.02,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "86616192",
+    "nombre": "Isabel",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.68,
+    "sueldo": 1946.86,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "69563011",
+    "nombre": "Pedro",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.8,
+    "sueldo": 2890.86,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "50811510",
+    "nombre": "Miguel",
+    "apellido": "Flores",
+    "calificacion_prom": 4.41,
+    "sueldo": 2691.32,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "53549110",
+    "nombre": "Ana",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.97,
+    "sueldo": 1212.79,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "dni": "21048931",
+    "nombre": "Patricia",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.66,
+    "sueldo": 2177.13,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "dni": "28837765",
+    "nombre": "Juan",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.62,
+    "sueldo": 1202.16,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "dni": "99266735",
+    "nombre": "Pedro",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.87,
+    "sueldo": 2576.85,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "dni": "69536436",
+    "nombre": "Ana",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.11,
+    "sueldo": 1353.82,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "dni": "27902444",
+    "nombre": "Fernando",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.58,
+    "sueldo": 2033.1,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "dni": "24904513",
+    "nombre": "Lucía",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.53,
+    "sueldo": 2299.2,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "dni": "31416769",
+    "nombre": "Diego",
+    "apellido": "Gómez",
+    "calificacion_prom": 3.83,
+    "sueldo": 1389.59,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "dni": "88281378",
+    "nombre": "Raúl",
+    "apellido": "Torres",
+    "calificacion_prom": 4.14,
+    "sueldo": 1313.58,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "dni": "41630098",
+    "nombre": "Andrea",
+    "apellido": "Flores",
+    "calificacion_prom": 3.54,
+    "sueldo": 1510.32,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "dni": "95114471",
+    "nombre": "Valentina",
+    "apellido": "García",
+    "calificacion_prom": 3.71,
+    "sueldo": 2392.97,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "dni": "48851677",
+    "nombre": "Raúl",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.89,
+    "sueldo": 2970.62,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "dni": "85420728",
+    "nombre": "Laura",
+    "apellido": "Ortiz",
+    "calificacion_prom": 3.98,
+    "sueldo": 1938.65,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "dni": "65339295",
+    "nombre": "Fernando",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.81,
+    "sueldo": 1901.11,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "dni": "18902605",
+    "nombre": "Laura",
+    "apellido": "Romero",
+    "calificacion_prom": 4.02,
+    "sueldo": 2308.72,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "dni": "30846945",
+    "nombre": "Lucía",
+    "apellido": "González",
+    "calificacion_prom": 3.96,
+    "sueldo": 2781.36,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "39680974",
+    "nombre": "Sofía",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.44,
+    "sueldo": 2212.41,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "48672600",
+    "nombre": "Pedro",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.24,
+    "sueldo": 2900.1,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "48182252",
+    "nombre": "Fernando",
+    "apellido": "Rivera",
+    "calificacion_prom": 4.75,
+    "sueldo": 1709.27,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "99206883",
+    "nombre": "Luis",
+    "apellido": "Morales",
+    "calificacion_prom": 4.65,
+    "sueldo": 2825.91,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "46960593",
+    "nombre": "Fernando",
+    "apellido": "Torres",
+    "calificacion_prom": 4.28,
+    "sueldo": 1603.88,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "24361902",
+    "nombre": "Javier",
+    "apellido": "Flores",
+    "calificacion_prom": 3.69,
+    "sueldo": 1250.35,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "89417205",
+    "nombre": "Lucía",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.3,
+    "sueldo": 2459.6,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "dni": "39719872",
+    "nombre": "José",
+    "apellido": "Morales",
+    "calificacion_prom": 3.86,
+    "sueldo": 1489.57,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "dni": "38476060",
+    "nombre": "Andrea",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.07,
+    "sueldo": 2148.38,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "dni": "99860227",
+    "nombre": "Fernando",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.93,
+    "sueldo": 2867.87,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "dni": "78338146",
+    "nombre": "Carlos",
+    "apellido": "Vargas",
+    "calificacion_prom": 3.61,
+    "sueldo": 2395.0,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "dni": "76806215",
+    "nombre": "Roberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.8,
+    "sueldo": 2493.89,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "dni": "35016803",
+    "nombre": "Camila",
+    "apellido": "Morales",
+    "calificacion_prom": 3.91,
+    "sueldo": 1928.55,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "dni": "57527278",
+    "nombre": "Ana",
+    "apellido": "López",
+    "calificacion_prom": 3.84,
+    "sueldo": 1539.15,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "97230882",
+    "nombre": "Carlos",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.04,
+    "sueldo": 1282.21,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "37001853",
+    "nombre": "Ricardo",
+    "apellido": "Romero",
+    "calificacion_prom": 4.61,
+    "sueldo": 2486.02,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "50330567",
+    "nombre": "Carmen",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.99,
+    "sueldo": 1808.39,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "55000465",
+    "nombre": "Sofía",
+    "apellido": "Díaz",
+    "calificacion_prom": 4.17,
+    "sueldo": 1455.31,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "47687799",
+    "nombre": "Patricia",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.65,
+    "sueldo": 2734.73,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "89179377",
+    "nombre": "Laura",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.47,
+    "sueldo": 2347.77,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "66755244",
+    "nombre": "Ana",
+    "apellido": "Sánchez",
+    "calificacion_prom": 3.99,
+    "sueldo": 1790.48,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "dni": "33769494",
+    "nombre": "Laura",
+    "apellido": "Díaz",
+    "calificacion_prom": 3.97,
+    "sueldo": 1920.39,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "dni": "62925891",
+    "nombre": "Andrea",
+    "apellido": "Torres",
+    "calificacion_prom": 3.72,
+    "sueldo": 2215.15,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "dni": "45893097",
+    "nombre": "Isabel",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.25,
+    "sueldo": 1721.16,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "dni": "75777705",
+    "nombre": "Alberto",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.96,
+    "sueldo": 2271.35,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "dni": "52266723",
+    "nombre": "Juan",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.95,
+    "sueldo": 1937.57,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "dni": "85895715",
+    "nombre": "Isabel",
+    "apellido": "Torres",
+    "calificacion_prom": 4.15,
+    "sueldo": 2759.63,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "dni": "43683645",
+    "nombre": "María",
+    "apellido": "Romero",
+    "calificacion_prom": 4.13,
+    "sueldo": 2253.83,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "dni": "86311445",
+    "nombre": "Roberto",
+    "apellido": "López",
+    "calificacion_prom": 3.77,
+    "sueldo": 2248.81,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "dni": "48848814",
+    "nombre": "Carlos",
+    "apellido": "Mendoza",
+    "calificacion_prom": 3.88,
+    "sueldo": 1466.16,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "dni": "44041722",
+    "nombre": "Rosa",
+    "apellido": "González",
+    "calificacion_prom": 3.72,
+    "sueldo": 2430.84,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "dni": "79524138",
+    "nombre": "Luis",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.92,
+    "sueldo": 1607.51,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "dni": "77792760",
+    "nombre": "Ana",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.21,
+    "sueldo": 1444.74,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "dni": "53689230",
+    "nombre": "Patricia",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.2,
+    "sueldo": 1941.15,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "dni": "39689938",
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.41,
+    "sueldo": 2335.2,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "dni": "14426405",
+    "nombre": "Raúl",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.61,
+    "sueldo": 2349.23,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "dni": "12678034",
+    "nombre": "Carmen",
+    "apellido": "Morales",
+    "calificacion_prom": 4.67,
+    "sueldo": 1369.79,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "dni": "78202492",
+    "nombre": "Alberto",
+    "apellido": "Herrera",
+    "calificacion_prom": 4.56,
+    "sueldo": 2830.1,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "dni": "50543578",
+    "nombre": "Carmen",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.07,
+    "sueldo": 1239.01,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "dni": "93244858",
+    "nombre": "Luis",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.1,
+    "sueldo": 2364.52,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "dni": "72355906",
+    "nombre": "Ricardo",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.76,
+    "sueldo": 1363.53,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "dni": "89804965",
+    "nombre": "Valentina",
+    "apellido": "Sánchez",
+    "calificacion_prom": 4.47,
+    "sueldo": 2946.47,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "dni": "73110105",
+    "nombre": "Luis",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.04,
+    "sueldo": 2991.58,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "dni": "32076545",
+    "nombre": "Daniela",
+    "apellido": "Herrera",
+    "calificacion_prom": 3.65,
+    "sueldo": 2102.57,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "dni": "57871196",
+    "nombre": "Camila",
+    "apellido": "Castillo",
+    "calificacion_prom": 3.63,
+    "sueldo": 2880.8,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "dni": "76619603",
+    "nombre": "Miguel",
+    "apellido": "Torres",
+    "calificacion_prom": 4.1,
+    "sueldo": 1438.78,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "dni": "39916321",
+    "nombre": "Javier",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.45,
+    "sueldo": 2469.34,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "dni": "31151100",
+    "nombre": "Pedro",
+    "apellido": "Jiménez",
+    "calificacion_prom": 4.69,
+    "sueldo": 2639.88,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "dni": "55832192",
+    "nombre": "Ricardo",
+    "apellido": "Gómez",
+    "calificacion_prom": 4.84,
+    "sueldo": 2327.27,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "dni": "48181734",
+    "nombre": "Rosa",
+    "apellido": "Vargas",
+    "calificacion_prom": 4.86,
+    "sueldo": 2918.06,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "dni": "89379778",
+    "nombre": "Elena",
+    "apellido": "Pérez",
+    "calificacion_prom": 3.52,
+    "sueldo": 1619.89,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "dni": "70043694",
+    "nombre": "María",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.96,
+    "sueldo": 1473.86,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "dni": "39386508",
+    "nombre": "José",
+    "apellido": "Castillo",
+    "calificacion_prom": 4.86,
+    "sueldo": 1936.55,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "dni": "94402750",
+    "nombre": "Carmen",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.55,
+    "sueldo": 2858.25,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "dni": "58370623",
+    "nombre": "Luis",
+    "apellido": "López",
+    "calificacion_prom": 3.62,
+    "sueldo": 2250.66,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "17728813",
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "calificacion_prom": 4.22,
+    "sueldo": 2488.07,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "95860531",
+    "nombre": "Roberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.67,
+    "sueldo": 1771.36,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "18804438",
+    "nombre": "Daniela",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 3.62,
+    "sueldo": 2385.87,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "78810257",
+    "nombre": "Luis",
+    "apellido": "Mendoza",
+    "calificacion_prom": 4.26,
+    "sueldo": 1452.57,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "31337839",
+    "nombre": "Juan",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.67,
+    "sueldo": 1809.26,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "21080008",
+    "nombre": "Luis",
+    "apellido": "Rivera",
+    "calificacion_prom": 3.53,
+    "sueldo": 2540.63,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "86283631",
+    "nombre": "Carmen",
+    "apellido": "Ortiz",
+    "calificacion_prom": 4.45,
+    "sueldo": 1606.67,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "dni": "11210870",
+    "nombre": "Alberto",
+    "apellido": "Reyes",
+    "calificacion_prom": 4.39,
+    "sueldo": 1611.51,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "46291533",
+    "nombre": "Daniela",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.74,
+    "sueldo": 2287.13,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "55306221",
+    "nombre": "Luis",
+    "apellido": "Rodríguez",
+    "calificacion_prom": 4.03,
+    "sueldo": 2434.61,
+    "role": "Repartidor",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "22322274",
+    "nombre": "Lucía",
+    "apellido": "Pérez",
+    "calificacion_prom": 4.6,
+    "sueldo": 2986.86,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "20325035",
+    "nombre": "Laura",
+    "apellido": "López",
+    "calificacion_prom": 4.74,
+    "sueldo": 1706.02,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "57490248",
+    "nombre": "Luis",
+    "apellido": "Cruz",
+    "calificacion_prom": 3.59,
+    "sueldo": 2861.59,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "33093249",
+    "nombre": "Andrea",
+    "apellido": "Ramírez",
+    "calificacion_prom": 3.72,
+    "sueldo": 1841.66,
+    "role": "Despachador",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "73327018",
+    "nombre": "Elena",
+    "apellido": "Reyes",
+    "calificacion_prom": 3.94,
+    "sueldo": 2348.57,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "22955788",
+    "nombre": "Lucía",
+    "apellido": "García",
+    "calificacion_prom": 4.53,
+    "sueldo": 2628.98,
+    "role": "Cocinero",
+    "ocupado": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "dni": "94742091",
+    "nombre": "Camila",
+    "apellido": "Cruz",
+    "calificacion_prom": 4.52,
+    "sueldo": 2669.13,
+    "role": "Despachador",
+    "ocupado": false
+  }
+]

@@ -1,0 +1,175 @@
+service: chinawok-usuarios
+
+provider:
+  name: aws
+  runtime: python3.12
+  memorySize: 512
+  timeout: 300
+  region: us-east-1
+  stage: ${param:stage}
+  
+  environment:
+    TABLE_USUARIOS: ${env:TABLE_USUARIOS, 'ChinaWok-Usuarios'}
+    JWT_SECRET: ${env:JWT_SECRET, 'tu-clave-secreta-super-segura-cambiar-en-produccion'}
+    JWT_EXPIRATION_HOURS: ${env:JWT_EXPIRATION_HOURS, '24'}
+
+  iam:
+    role: arn:aws:iam::${env:AWS_ACCOUNT_ID}:role/LabRole
+  
+  layers:
+    - ${cf:chinawok-shared-layer-${param:stage}.PythonDependenciesLayerExport}
+
+package:
+  patterns:
+    - '!.git/**'
+    - '!.vscode/**'
+    - '!node_modules/**'
+    - '!__pycache__/**'
+    - '!*.pyc'
+    - '!requirements.txt'
+    - 'login/**'
+    - 'usuarios/**'
+
+functions:
+  # ============================================================
+  # LAMBDA AUTHORIZER COMPARTIDO
+  # ============================================================
+  authorizer:
+    handler: login.Authorizer.lambda_handler
+    name: ${self:service}-authorizer
+    description: Lambda Authorizer compartido con validación JWT
+    timeout: 30
+
+  # ============================================================
+  # AUTENTICACIÓN Y REGISTRO (PÚBLICOS)
+  # ============================================================
+  registrar:
+    handler: login/registrarUsuario.lambda_handler
+    name: ${self:service}-registrar
+    description: Registrar un nuevo usuario
+    events:
+      - http:
+          path: usuario/registrar
+          method: post
+          cors: true
+
+  login:
+    handler: login/loginUsuario.lambda_handler
+    name: ${self:service}-login
+    description: Iniciar sesión y obtener token JWT
+    events:
+      - http:
+          path: usuario/login
+          method: post
+          cors: true
+
+  # ============================================================
+  # GESTIÓN DE USUARIOS (REQUIEREN AUTENTICACIÓN)
+  # ============================================================
+  listar:
+    handler: usuarios/listarUsuario.lambda_handler
+    name: ${self:service}-listar
+    description: Listar todos los usuarios (solo Admin)
+    events:
+      - http:
+          path: usuario/listar
+          method: get
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0
+
+  obtenerMiInfo:
+    handler: usuarios/obtenerMiUsuario.lambda_handler
+    name: ${self:service}-obtener-mi-info
+    description: Obtener información del usuario autenticado (GET /usuario/me)
+    events:
+      - http:
+          path: usuario/me
+          method: get
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0
+            
+  obtenerHistorialPedidos:
+    handler: usuarios/obtenerHistorialPedidos.lambda_handler
+    name: ${self:service}-obtener-historial-pedidos
+    description: Obtener historial de pedidos del usuario autenticado (GET /usuario/me/historial-pedidos)
+    events:
+      - http:
+          path: usuario/me/historial-pedidos
+          method: get
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0
+
+  buscar:
+    handler: usuarios/buscarUsuario.lambda_handler
+    name: ${self:service}-buscar
+    description: Buscar usuario por correo (GET /usuario/{correo})
+    events:
+      - http:
+          path: usuario/{correo}
+          method: get
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0
+
+  editar:
+    handler: usuarios/editarUsuario.lambda_handler
+    name: ${self:service}-editar
+    description: Editar información de un usuario (PUT /usuario/me y PUT /usuario/{correo})
+    events:
+      - http:
+          path: usuario/me
+          method: put
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0
+      - http:
+          path: usuario/{correo}
+          method: put
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0
+
+  eliminar:
+    handler: usuarios/eliminarUsuario.lambda_handler
+    name: ${self:service}-eliminar
+    description: Eliminar un usuario (DELETE /usuario/me y DELETE /usuario/{correo})
+    events:
+      - http:
+          path: usuario/me
+          method: delete
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0
+      - http:
+          path: usuario/{correo}
+          method: delete
+          cors: true
+          authorizer:
+            name: authorizer
+            type: request
+            identitySource: method.request.header.Authorization
+            resultTtlInSeconds: 0

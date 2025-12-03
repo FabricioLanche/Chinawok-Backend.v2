@@ -1,0 +1,724 @@
+service: chinawok-pedidos
+provider:
+  name: aws
+  runtime: python3.12
+  memorySize: 512
+  timeout: 300
+  region: us-east-1
+  stage: ${param:stage}
+
+  websocketsApiName: chinawok-pedidos-ws
+  websocketsApiRouteSelectionExpression: $request.body.action
+  
+  environment:
+    TABLE_LOCALES: ${env:TABLE_LOCALES, 'ChinaWok-Locales'}
+    TABLE_COMBOS: ${env:TABLE_COMBOS, 'ChinaWok-Combos'}
+    TABLE_OFERTAS: ${env:TABLE_OFERTAS, 'ChinaWok-Ofertas'}
+    TABLE_PEDIDOS: ${env:TABLE_PEDIDOS, 'ChinaWok-Pedidos'}
+    TABLE_PRODUCTOS: ${env:TABLE_PRODUCTOS, 'ChinaWok-Productos'}
+    TABLE_USUARIOS: ${env:TABLE_USUARIOS, 'ChinaWok-Usuarios'}
+    TABLE_EMPLEADOS: ${env:TABLE_EMPLEADOS, 'ChinaWok-Empleados'}
+    TABLE_CONEXIONES: ${env:TABLE_CONEXIONES, 'ChinaWok-WebSocket-Conexiones'}
+    WEBSOCKET_API_ENDPOINT:
+      Fn::Sub: 'https://${WebsocketsApi}.execute-api.${AWS::Region}.amazonaws.com/${self:provider.stage}'
+    AWS_ACCOUNT_ID: ${env:AWS_ACCOUNT_ID}
+    STEP_FUNCTION_PEDIDOS_NAME: ${env:STEP_FUNCTION_PEDIDOS_NAME, 'ChinaWok-Pedidos-Processor'}
+    EVENT_BUS_NAME: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
+    MODO_REALISTA: ${env:MODO_REALISTA, 'false'}
+  layers:
+    - ${cf:chinawok-shared-layer-${param:stage}.PythonDependenciesLayerExport}
+  iam:
+    role: arn:aws:iam::${env:AWS_ACCOUNT_ID}:role/LabRole
+functions:
+  # ==================== COMBOS ====================
+  combosCrear:
+    handler: combos/crearCombo.handler
+    name: ${self:service}-combos-crear
+    description: Crear un combo
+    events:
+      - http:
+          path: combos
+          method: post
+          cors: true
+  
+  combosObtener:
+    handler: combos/obtenerCombo.handler
+    name: ${self:service}-combos-obtener
+    description: Obtener combos por local
+    events:
+      - http:
+          path: combos
+          method: get
+          cors: true
+  
+  combosEditar:
+    handler: combos/editarCombo.handler
+    name: ${self:service}-combos-editar
+    description: Editar un combo
+    events:
+      - http:
+          path: combos
+          method: put
+          cors: true
+  
+  combosEliminar:
+    handler: combos/eliminarCombo.handler
+    name: ${self:service}-combos-eliminar
+    description: Eliminar un combo
+    events:
+      - http:
+          path: combos
+          method: delete
+          cors: true
+  
+  # ==================== OFERTAS ====================
+  ofertasCrear:
+    handler: ofertas/crearOferta.handler
+    name: ${self:service}-ofertas-crear
+    description: Crear una oferta
+    events:
+      - http:
+          path: ofertas
+          method: post
+          cors: true
+  
+  ofertasObtener:
+    handler: ofertas/obtenerOferta.handler
+    name: ${self:service}-ofertas-obtener
+    description: Obtener ofertas por local
+    events:
+      - http:
+          path: ofertas
+          method: get
+          cors: true
+  
+  ofertasEditar:
+    handler: ofertas/editarOferta.handler
+    name: ${self:service}-ofertas-editar
+    description: Editar una oferta
+    events:
+      - http:
+          path: ofertas
+          method: put
+          cors: true
+  
+  ofertasEliminar:
+    handler: ofertas/eliminarOferta.handler
+    name: ${self:service}-ofertas-eliminar
+    description: Eliminar una oferta
+    events:
+      - http:
+          path: ofertas
+          method: delete
+          cors: true
+  
+  # ==================== PEDIDOS ====================
+  pedidosCrear:
+    handler: pedidos/crearPedido.handler
+    name: ${self:service}-pedidos-crear
+    description: Crear un pedido
+    events:
+      - http:
+          path: pedidos
+          method: post
+          cors: true
+  
+  pedidosObtener:
+    handler: pedidos/obtenerPedido.handler
+    name: ${self:service}-pedidos-obtener
+    description: Obtener pedidos por local
+    events:
+      - http:
+          path: pedidos
+          method: get
+          cors: true
+  
+  pedidosEditar:
+    handler: pedidos/editarPedido.handler
+    name: ${self:service}-pedidos-editar
+    description: Editar un pedido
+    events:
+      - http:
+          path: pedidos
+          method: put
+          cors: true
+  
+  pedidosEliminar:
+    handler: pedidos/eliminarPedido.handler
+    name: ${self:service}-pedidos-eliminar
+    description: Eliminar un pedido
+    events:
+      - http:
+          path: pedidos
+          method: delete
+          cors: true
+  productosFiltrarPorCategoria:
+    handler: productos/filtrarProductosPorCategoria.handler
+    name: ${self:service}-productos-filtrar-por-categoria
+    description: Filtrar productos por categoría
+    events:
+      - http:
+          path: productos/filtrar
+          method: get
+          cors: true
+  # ==================== PRODUCTOS ====================
+  productosCrear:
+    handler: productos/crearProducto.handler
+    name: ${self:service}-productos-crear
+    description: Crear un producto
+    events:
+      - http:
+          path: productos
+          method: post
+          cors: true
+  
+  productosObtener:
+    handler: productos/obtenerProducto.handler
+    name: ${self:service}-productos-obtener
+    description: Obtener productos por local
+    events:
+      - http:
+          path: productos
+          method: get
+          cors: true
+  
+  productosEditar:
+    handler: productos/editarProducto.handler
+    name: ${self:service}-productos-editar
+    description: Editar un producto
+    events:
+      - http:
+          path: productos
+          method: put
+          cors: true
+  
+  productosEliminar:
+    handler: productos/eliminarProducto.handler
+    name: ${self:service}-productos-eliminar
+    description: Eliminar un producto
+    events:
+      - http:
+          path: productos
+          method: delete
+          cors: true
+  
+  # ==================== WORKFLOW - STEP FUNCTIONS ====================
+  workflowIniciar:
+    handler: workflow/iniciarWorkflow.lambda_handler
+    name: ${self:service}-workflow-iniciar
+    description: Iniciar el workflow de procesamiento de pedidos
+  
+  workflowStepConfirmar:
+    handler: workflow/stepConfirmar.lambda_handler
+    name: ${self:service}-workflow-step-confirmar
+    description: Step 1 - Confirmar pedido
+  
+  workflowStepCocinar:
+    handler: workflow/stepCocinar.lambda_handler
+    name: ${self:service}-workflow-step-cocinar
+    description: Step 2 - Cocinar pedido
+  
+  workflowStepEmpacar:
+    handler: workflow/stepEmpacar.lambda_handler
+    name: ${self:service}-workflow-step-empacar
+    description: Step 3 - Empacar pedido
+  
+  workflowStepEnviar:
+    handler: workflow/stepEnviar.lambda_handler
+    name: ${self:service}-workflow-step-enviar
+    description: Step 4 - Enviar pedido
+  
+  workflowConfirmarRecepcion:
+    handler: workflow/confirmarRecepcion.lambda_handler
+    name: ${self:service}-workflow-confirmar-recepcion
+    description: Step 5 - Confirmar recepción del pedido
+    events:
+      - http:
+          path: workflow/confirmar
+          method: post
+          cors: true
+  
+  workflowLiberarPedido:
+    handler: workflow/liberarPedido.lambda_handler
+    name: ${self:service}-workflow-liberar-pedido
+    description: Liberar empleados asignados al pedido
+  
+  workflowNotificarUsuario:
+    handler: workflow/notificarUsuario.lambda_handler
+    name: ${self:service}-workflow-notificar-usuario
+    description: Notificar usuario sobre el estado del pedido
+
+  # ==================== WEBSOCKET HANDLERS ====================
+  wsConnect:
+    handler: websockets/pedidoEnVivo.handler
+    name: ${self:service}-ws-connect
+    description: WebSocket connect handler
+    events:
+      - websocket:
+          route: $connect
+  
+  wsDisconnect:
+    handler: websockets/disconnect.handler
+    name: ${self:service}-ws-disconnect
+    description: WebSocket disconnect handler
+    events:
+      - websocket:
+          route: $disconnect
+  
+  wsDefault:
+    handler: websockets/default.handler
+    name: ${self:service}-ws-default
+    description: WebSocket default handler
+    events:
+      - websocket:
+          route: $default
+
+resources:
+  Resources:
+    ChinaWokPedidosEventBus:
+      Type: AWS::Events::EventBus
+      Properties:
+        Name: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
+    
+    PedidoCreadoEventRule:
+      Type: AWS::Events::Rule
+      Properties:
+        Name: ${self:service}-pedido-creado-rule
+        Description: Regla para enviar pedidos creados al Step Function
+        EventBusName: !Ref ChinaWokPedidosEventBus
+        EventPattern:
+          source:
+            - chinawok.pedidos
+          detail-type:
+            - PedidoCreado
+        State: ENABLED
+        Targets:
+          - Arn: !GetAtt ChinaWokPedidosStateMachine.Arn
+            Id: PedidoCreadoStepFunction
+            RoleArn: arn:aws:iam::${env:AWS_ACCOUNT_ID}:role/LabRole
+    
+    ChinaWokPedidosStateMachine:
+      Type: AWS::StepFunctions::StateMachine
+      DependsOn:
+        - WorkflowStepCocinarLambdaFunction
+        - WorkflowStepEmpacarLambdaFunction
+        - WorkflowStepEnviarLambdaFunction
+        - WorkflowNotificarUsuarioLambdaFunction
+        - WorkflowConfirmarRecepcionLambdaFunction
+        - WorkflowLiberarPedidoLambdaFunction
+      Properties:
+        StateMachineName: ${env:STEP_FUNCTION_PEDIDOS_NAME, 'ChinaWok-Pedidos-Processor'}
+        RoleArn: arn:aws:iam::${env:AWS_ACCOUNT_ID}:role/LabRole
+        DefinitionString:
+          Fn::Sub:
+            - |
+              {
+                "Comment": "Workflow de procesamiento de pedidos ChinaWok con manejo diferenciado de errores",
+                "StartAt": "ExtraerDetail",
+                "States": {
+                  "ExtraerDetail": {
+                    "Type": "Pass",
+                    "Comment": "Extrae el contenido completo de 'detail' si viene de EventBridge",
+                    "Parameters": {
+                      "pedido.$": "$.detail"
+                    },
+                    "OutputPath": "$.pedido",
+                    "Next": "InicializarContadores"
+                  },
+                  "InicializarContadores": {
+                    "Type": "Pass",
+                    "Result": {
+                      "intentos_cocinar": 0,
+                      "modo_realista": false
+                    },
+                    "ResultPath": "$.contadores",
+                    "Next": "EsperaInicialPedido"
+                  },
+                  "EsperaInicialPedido": {
+                    "Type": "Wait",
+                    "Seconds": 5,
+                    "Comment": "Espera inicial antes de comenzar el procesamiento del pedido",
+                    "Next": "IntentarCocinar"
+                  },
+                  "IntentarCocinar": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:states:::lambda:invoke",
+                    "Parameters": {
+                      "FunctionName": "${CocinarArn}",
+                      "Payload.$": "$"
+                    },
+                    "ResultPath": "$.resultado_cocinar",
+                    "Retry": [
+                      {
+                        "ErrorEquals": ["States.TaskFailed"],
+                        "MaxAttempts": 0
+                      }
+                    ],
+                    "Catch": [
+                      {
+                        "ErrorEquals": ["ErrorFatalCocina"],
+                        "ResultPath": "$.error",
+                        "Next": "ErrorFatal"
+                      },
+                      {
+                        "ErrorEquals": ["States.ALL"],
+                        "ResultPath": "$.error",
+                        "Next": "IncrementarIntentosCocinar"
+                      }
+                    ],
+                    "Next": "ExtractResultCocinar"
+                  },
+                  "ExtractResultCocinar": {
+                    "Type": "Pass",
+                    "Parameters": {
+                      "local_id.$": "$.local_id",
+                      "pedido_id.$": "$.pedido_id",
+                      "usuario_correo.$": "$.usuario_correo",
+                      "cocinero_dni.$": "$.resultado_cocinar.Payload.cocinero_dni",
+                      "estado.$": "$.resultado_cocinar.Payload.estado",
+                      "historial_estados.$": "$.resultado_cocinar.Payload.historial_estados",
+                      "contadores.$": "$.contadores"
+                    },
+                    "Next": "EsperarTiempoCocinar"
+                  },
+                  "IncrementarIntentosCocinar": {
+                    "Type": "Pass",
+                    "Parameters": {
+                      "local_id.$": "$.local_id",
+                      "pedido_id.$": "$.pedido_id",
+                      "usuario_correo.$": "$.usuario_correo",
+                      "contadores": {
+                        "intentos_cocinar.$": "States.MathAdd($.contadores.intentos_cocinar, 1)",
+                        "modo_realista.$": "$.contadores.modo_realista"
+                      },
+                      "error.$": "$.error"
+                    },
+                    "Next": "VerificarMaximoIntentosCocinar"
+                  },
+                  "VerificarMaximoIntentosCocinar": {
+                    "Type": "Choice",
+                    "Choices": [
+                      {
+                        "Variable": "$.contadores.intentos_cocinar",
+                        "NumericLessThan": 5,
+                        "Next": "EsperarReintentoEmpleadoCocinar"
+                      }
+                    ],
+                    "Default": "ServicioSaturado"
+                  },
+                  "EsperarReintentoEmpleadoCocinar": {
+                    "Type": "Wait",
+                    "Seconds": 30,
+                    "Next": "IntentarCocinar"
+                  },
+                  "EsperarTiempoCocinar": {
+                    "Type": "Choice",
+                    "Choices": [
+                      {
+                        "Variable": "$.contadores.modo_realista",
+                        "BooleanEquals": true,
+                        "Next": "EsperaRealistaCocinar"
+                      }
+                    ],
+                    "Default": "EsperaDemoCocinar"
+                  },
+                  "EsperaRealistaCocinar": {
+                    "Type": "Wait",
+                    "Seconds": 900,
+                    "Next": "IntentarEmpacar"
+                  },
+                  "EsperaDemoCocinar": {
+                    "Type": "Wait",
+                    "Seconds": 10,
+                    "Next": "IntentarEmpacar"
+                  },
+                  "IntentarEmpacar": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:states:::lambda:invoke",
+                    "Parameters": {
+                      "FunctionName": "${EmpacarArn}",
+                      "Payload.$": "$"
+                    },
+                    "ResultPath": "$.resultado_empacar",
+                    "Retry": [
+                      {
+                        "ErrorEquals": ["States.TaskFailed"],
+                        "MaxAttempts": 0
+                      }
+                    ],
+                    "Catch": [
+                      {
+                        "ErrorEquals": ["ErrorFatalEmpaque"],
+                        "ResultPath": "$.error",
+                        "Next": "ErrorFatal"
+                      },
+                      {
+                        "ErrorEquals": ["States.ALL"],
+                        "ResultPath": "$.error",
+                        "Next": "EsperarReintentoEmpleadoEmpacar"
+                      }
+                    ],
+                    "Next": "ExtractResultEmpacar"
+                  },
+                  "ExtractResultEmpacar": {
+                    "Type": "Pass",
+                    "Parameters": {
+                      "local_id.$": "$.local_id",
+                      "pedido_id.$": "$.pedido_id",
+                      "usuario_correo.$": "$.usuario_correo",
+                      "cocinero_dni.$": "$.cocinero_dni",
+                      "despachador_dni.$": "$.resultado_empacar.Payload.despachador_dni",
+                      "estado.$": "$.resultado_empacar.Payload.estado",
+                      "historial_estados.$": "$.resultado_empacar.Payload.historial_estados",
+                      "contadores.$": "$.contadores"
+                    },
+                    "Next": "EsperarTiempoEmpacar"
+                  },
+                  "EsperarReintentoEmpleadoEmpacar": {
+                    "Type": "Wait",
+                    "Seconds": 30,
+                    "Comment": "Espera antes de reintentar encontrar despachador disponible",
+                    "Next": "IntentarEmpacar"
+                  },
+                  "EsperarTiempoEmpacar": {
+                    "Type": "Choice",
+                    "Choices": [
+                      {
+                        "Variable": "$.contadores.modo_realista",
+                        "BooleanEquals": true,
+                        "Next": "EsperaRealistaEmpacar"
+                      }
+                    ],
+                    "Default": "EsperaDemoEmpacar"
+                  },
+                  "EsperaRealistaEmpacar": {
+                    "Type": "Wait",
+                    "Seconds": 300,
+                    "Next": "IntentarEnviar"
+                  },
+                  "EsperaDemoEmpacar": {
+                    "Type": "Wait",
+                    "Seconds": 10,
+                    "Next": "IntentarEnviar"
+                  },
+                  "IntentarEnviar": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:states:::lambda:invoke",
+                    "Parameters": {
+                      "FunctionName": "${EnviarArn}",
+                      "Payload.$": "$"
+                    },
+                    "ResultPath": "$.resultado_enviar",
+                    "Retry": [
+                      {
+                        "ErrorEquals": ["States.TaskFailed"],
+                        "MaxAttempts": 0
+                      }
+                    ],
+                    "Catch": [
+                      {
+                        "ErrorEquals": ["ErrorFatalEnvio"],
+                        "ResultPath": "$.error",
+                        "Next": "ErrorFatal"
+                      },
+                      {
+                        "ErrorEquals": ["States.ALL"],
+                        "ResultPath": "$.error",
+                        "Next": "EsperarReintentoEmpleadoEnviar"
+                      }
+                    ],
+                    "Next": "ExtractResultEnviar"
+                  },
+                  "ExtractResultEnviar": {
+                    "Type": "Pass",
+                    "Parameters": {
+                      "local_id.$": "$.local_id",
+                      "pedido_id.$": "$.pedido_id",
+                      "usuario_correo.$": "$.usuario_correo",
+                      "cocinero_dni.$": "$.cocinero_dni",
+                      "despachador_dni.$": "$.despachador_dni",
+                      "repartidor_dni.$": "$.resultado_enviar.Payload.repartidor_dni",
+                      "estado.$": "$.resultado_enviar.Payload.estado",
+                      "historial_estados.$": "$.resultado_enviar.Payload.historial_estados",
+                      "contadores.$": "$.contadores"
+                    },
+                    "Next": "EsperarTiempoEnviar"
+                  },
+                  "EsperarReintentoEmpleadoEnviar": {
+                    "Type": "Wait",
+                    "Seconds": 30,
+                    "Comment": "Espera antes de reintentar encontrar repartidor disponible",
+                    "Next": "IntentarEnviar"
+                  },
+                  "EsperarTiempoEnviar": {
+                    "Type": "Choice",
+                    "Choices": [
+                      {
+                        "Variable": "$.contadores.modo_realista",
+                        "BooleanEquals": true,
+                        "Next": "EsperaRealistaEnviar"
+                      }
+                    ],
+                    "Default": "EsperaDemoEnviar"
+                  },
+                  "EsperaRealistaEnviar": {
+                    "Type": "Wait",
+                    "Seconds": 1800,
+                    "Next": "EsperarConfirmacionUsuario"
+                  },
+                  "EsperaDemoEnviar": {
+                    "Type": "Wait",
+                    "Seconds": 10,
+                    "Next": "EsperarConfirmacionUsuario"
+                  },
+                  "EsperarConfirmacionUsuario": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:states:::lambda:invoke.waitForTaskToken",
+                    "Parameters": {
+                      "FunctionName": "${NotificarUsuarioArn}",
+                      "Payload": {
+                        "local_id.$": "$.local_id",
+                        "pedido_id.$": "$.pedido_id",
+                        "usuario_correo.$": "$.usuario_correo",
+                        "repartidor_dni.$": "$.repartidor_dni",
+                        "taskToken.$": "$$.Task.Token"
+                      }
+                    },
+                    "ResultPath": "$.confirmacion_usuario",
+                    "TimeoutSeconds": 180,
+                    "Catch": [
+                      {
+                        "ErrorEquals": ["States.Timeout"],
+                        "ResultPath": "$.error",
+                        "Next": "ConfirmacionAutomatica"
+                      }
+                    ],
+                    "Next": "ConfirmarEntrega"
+                  },
+                  "ConfirmacionAutomatica": {
+                    "Type": "Pass",
+                    "Result": {
+                      "confirmado": true,
+                      "tipo": "automatico",
+                      "mensaje": "Confirmación automática por timeout"
+                    },
+                    "ResultPath": "$.confirmacion_usuario",
+                    "Next": "ConfirmarEntrega"
+                  },
+                  "ConfirmarEntrega": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:states:::lambda:invoke",
+                    "Parameters": {
+                      "FunctionName": "${ConfirmarArn}",
+                      "Payload.$": "$"
+                    },
+                    "ResultPath": "$.resultado_final",
+                    "Next": "PedidoCompletado"
+                  },
+                  "PedidoCompletado": {
+                    "Type": "Succeed",
+                    "OutputPath": "$.resultado_final.Payload"
+                  },
+                  "ServicioSaturado": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:states:::lambda:invoke",
+                    "Parameters": {
+                      "FunctionName": "${LiberarPedidoArn}",
+                      "Payload": {
+                        "local_id.$": "$.local_id",
+                        "pedido_id.$": "$.pedido_id",
+                        "motivo": "servicio_saturado",
+                        "mensaje": "No hay cocineros disponibles después de múltiples intentos",
+                        "resetear_estado": true
+                      }
+                    },
+                    "ResultPath": "$.limpieza",
+                    "Next": "ServicioSaturadoFinal",
+                    "Catch": [
+                      {
+                        "ErrorEquals": ["States.ALL"],
+                        "Next": "ServicioSaturadoFinal"
+                      }
+                    ]
+                  },
+                  "ServicioSaturadoFinal": {
+                    "Type": "Fail",
+                    "Error": "ServicioSaturado",
+                    "Cause": "No se encontraron cocineros disponibles después de 5 intentos. El pedido ha sido cancelado."
+                  },
+                  "ErrorFatal": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:states:::lambda:invoke",
+                    "Parameters": {
+                      "FunctionName": "${LiberarPedidoArn}",
+                      "Payload": {
+                        "local_id.$": "$.local_id",
+                        "pedido_id.$": "$.pedido_id",
+                        "motivo": "error_fatal",
+                        "mensaje": "Error fatal durante el procesamiento del pedido",
+                        "error_detalle.$": "$.error",
+                        "resetear_estado": false
+                      }
+                    },
+                    "ResultPath": "$.limpieza",
+                    "Next": "ErrorFatalFinal",
+                    "Catch": [
+                      {
+                        "ErrorEquals": ["States.ALL"],
+                        "Next": "ErrorFatalFinal"
+                      }
+                    ]
+                  },
+                  "ErrorFatalFinal": {
+                    "Type": "Fail",
+                    "Error": "ErrorFatal",
+                    "Cause": "Error fatal irrecuperable durante el procesamiento del pedido. Empleados liberados."
+                  }
+                }
+              }
+            - CocinarArn: !GetAtt WorkflowStepCocinarLambdaFunction.Arn
+              EmpacarArn: !GetAtt WorkflowStepEmpacarLambdaFunction.Arn
+              EnviarArn: !GetAtt WorkflowStepEnviarLambdaFunction.Arn
+              NotificarUsuarioArn: !GetAtt WorkflowNotificarUsuarioLambdaFunction.Arn
+              ConfirmarArn: !GetAtt WorkflowConfirmarRecepcionLambdaFunction.Arn
+              LiberarPedidoArn: !GetAtt WorkflowLiberarPedidoLambdaFunction.Arn
+  Outputs:
+    PedidosEventBusName:
+      Description: Nombre del Event Bus de Pedidos
+      Value: !Ref ChinaWokPedidosEventBus
+      Export:
+        Name: ChinaWok-Pedidos-EventBus-Name
+    
+    PedidosEventBusArn:
+      Description: ARN del Event Bus de Pedidos
+      Value: !GetAtt ChinaWokPedidosEventBus.Arn
+      Export:
+        Name: ChinaWok-Pedidos-EventBus-Arn
+    
+    PedidosStateMachineArn:
+      Description: ARN del Step Function de procesamiento de pedidos
+      Value: !GetAtt ChinaWokPedidosStateMachine.Arn
+      Export:
+        Name: ChinaWok-Pedidos-StateMachine-Arn
+package:
+  individually: false
+  patterns:
+    - '!node_modules/**'
+    - '!.git/**'
+    - '!.vscode/**'
+    - '!.env'
+    - '!.env.*'
+    - '!__pycache__/**'
+    - '!*.pyc'
+    - '!.pytest_cache/**'
+    - '!tests/**'
+    - '!*.md'
+    - '!.gitignore'
+    - '!package.json'
+    - '!package-lock.json'
+    - '!yarn.lock'
+    - 'combos/**'
+    - 'ofertas/**'
+    - 'pedidos/**'
+    - 'productos/**'
+    - 'workflow/**'

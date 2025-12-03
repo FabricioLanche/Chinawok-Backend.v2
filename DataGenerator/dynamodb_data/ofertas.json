@@ -1,0 +1,3986 @@
+[
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "oferta_id": "db359738-c309-4e61-8df3-8cd7aa480506",
+    "producto_nombre": "Empanaditas Chinas",
+    "fecha_inicio": "2025-11-30T18:35:31.354149",
+    "fecha_limite": "2025-12-25T18:35:31.354149",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "oferta_id": "4754f324-5804-4a36-82ea-d686ac92dbc9",
+    "producto_nombre": "Tallarín Saltado Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.354149",
+    "fecha_limite": "2025-12-14T18:35:31.354149",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "oferta_id": "39a5df46-19c6-4fc3-b3fe-0636d4cc7d23",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.354149",
+    "fecha_limite": "2025-12-23T18:35:31.354149",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "oferta_id": "2baf08ab-4c2e-48ab-8ae6-c60ed465c453",
+    "combo_id": "60f53eb4-07f0-4011-bb13-b27fc948f3d4",
+    "fecha_inicio": "2025-11-30T18:35:31.354149",
+    "fecha_limite": "2025-12-09T18:35:31.354149",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "oferta_id": "9879ca5f-de5d-419e-b787-501b0ad1fb06",
+    "combo_id": "163cd326-869a-43e2-ae3f-8af3e3bd8caa",
+    "fecha_inicio": "2025-11-30T18:35:31.354149",
+    "fecha_limite": "2025-12-08T18:35:31.354149",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "oferta_id": "4e9c3bf7-002f-4a6c-b76a-1fdca6470f4c",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "oferta_id": "2de34724-2a87-4f9d-9fe0-ac5766e87bcb",
+    "producto_nombre": "Carne Mongoliana",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "oferta_id": "7db297c8-036a-40a0-8abc-9eb028097102",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "oferta_id": "767c61fa-8473-44ae-a472-f229f7a5557e",
+    "combo_id": "6139ce96-7cb9-4869-b662-7ded19814d35",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "oferta_id": "6765dda1-3100-4128-94f0-ef5ecbfce6fb",
+    "combo_id": "0415148f-38d6-417d-ab8c-94d57accfb85",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "oferta_id": "6cfb5868-643f-48b8-81af-513f364fca63",
+    "producto_nombre": "Chancho con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-23T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "oferta_id": "5e900add-e299-4f9d-97d1-9fb45b3b371a",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "oferta_id": "3bf7a3a5-1e34-4d06-b26b-ce44b20107e4",
+    "producto_nombre": "Wantán Frito",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "oferta_id": "3648858c-809e-42ad-abe8-1c064252da4f",
+    "combo_id": "8f0f31aa-0fa4-4fa9-abe9-6e8b438ac735",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "oferta_id": "dc0c64c3-5f37-46a4-9a9a-4990be472056",
+    "combo_id": "bb75b403-f7dc-422a-9425-63fbd1f4b1e4",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "oferta_id": "fd67146d-cc39-4299-81d7-11117b89bda4",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "oferta_id": "3ff7826f-1a90-4d08-9f85-77edc3829a2d",
+    "producto_nombre": "Picarones",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "oferta_id": "984c1009-cf41-4c9d-98e3-770000353b4a",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-09T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "oferta_id": "024856a8-24a0-48a6-a57f-2553f2154d11",
+    "combo_id": "f46b6188-59c9-4bf0-912c-dffa8098768f",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "oferta_id": "7718989e-e6ff-458a-a751-5e10749160ac",
+    "combo_id": "507c8894-4ae7-40f8-961c-0461c9575d72",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-20T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "oferta_id": "0063552a-527b-43f1-a501-6767c3cb7e43",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "oferta_id": "23492c76-6bad-47ae-9e5f-78cbaf75fcd8",
+    "producto_nombre": "Chicharrón de Calamar",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-15T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "oferta_id": "4132ece4-a9a4-4643-a461-01adb9a41950",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "oferta_id": "7d87552c-2ebc-4737-9fa9-766bc2cf7659",
+    "combo_id": "9740d98b-47dc-4bdb-9dac-d30a319c6cea",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "oferta_id": "6c2e9def-8ead-4bfb-a917-b2d0ff0003e0",
+    "combo_id": "913b9c81-8f05-424e-818a-0f8a31d6bbe6",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "oferta_id": "5b22783b-467d-4236-bfe2-0a283aa6141d",
+    "producto_nombre": "Arroz Blanco",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-22T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "oferta_id": "a976d0cf-bb97-4d54-b8fb-d457cded8199",
+    "producto_nombre": "Empanaditas Chinas",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "oferta_id": "e22bf73f-ab00-4024-96e8-42e010198d24",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "oferta_id": "71f72819-7ebf-427c-84ad-06a3d32fc4db",
+    "combo_id": "1b76374d-8b61-4d47-8a04-66f9ea2e6d6f",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "oferta_id": "2a209de2-1cec-4478-9db0-5fc32e4c417d",
+    "combo_id": "eb71c60c-78f2-4c18-9d1b-e9887f5094de",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "oferta_id": "c366aec5-4567-44d5-9cfb-78aad0a1a9b3",
+    "producto_nombre": "Arroz Chaufa de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "oferta_id": "a5bd280b-f59b-45a2-8d6c-b5e384a81d48",
+    "producto_nombre": "Carne con Verduras al Wok",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "oferta_id": "c84aa6aa-a70a-4900-a4a4-28098a1271d1",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "oferta_id": "1669da9d-1ed9-4287-8df6-543b327f0409",
+    "combo_id": "175b18e3-4864-45bd-9bd2-6072de9faf6b",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-25T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "oferta_id": "eb650ef3-30b7-42ff-88c9-eb5d8be5df6b",
+    "combo_id": "80f433cf-75c8-4bfa-9deb-20d724c059e2",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "oferta_id": "8feefc28-e64b-4b05-8e4d-4e1070b94ebc",
+    "producto_nombre": "Pollo Chi Jau Kay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "oferta_id": "65efb3dc-5a5f-4325-98ea-4baca45958a4",
+    "producto_nombre": "Arroz Chaufa Especial",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-23T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "oferta_id": "ad3bcbad-a16a-4592-a95c-be40a4341045",
+    "producto_nombre": "Chapsui de Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "oferta_id": "343fd20b-899f-4b74-9a09-0a05fbb954c7",
+    "combo_id": "de2b2754-fa3a-4e69-8906-bb5294d55763",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "oferta_id": "a41a6187-7af3-41eb-98c3-4bbbfb8942d5",
+    "combo_id": "31bd96a2-c845-411b-9359-7ffd64426a60",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "oferta_id": "bca50e9d-3f9f-40e6-972c-ce9a0e5c7e77",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "oferta_id": "d9c951ab-45c0-47bf-809e-ae91bdc2f4a9",
+    "producto_nombre": "Chancho con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "oferta_id": "366e6e36-a682-4565-96f3-6e61b7224e48",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "oferta_id": "5c316a46-8fbb-4b35-8690-5038b69f0a06",
+    "combo_id": "57a54322-e789-4a63-b40d-fdc2208c079e",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "oferta_id": "0d286bc8-0564-4509-9018-c3bba8e563e3",
+    "combo_id": "6beefb27-1ae4-4577-a727-d3df9dbb30ee",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "oferta_id": "5b80993e-80e8-47a8-a051-75b83210ac59",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "oferta_id": "ab7dd1c9-2300-4996-a740-690d0cede1d4",
+    "producto_nombre": "Tallarín Saltado de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "oferta_id": "e1a87910-0a97-43d3-87af-d7ce1fd6dc0c",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-23T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "oferta_id": "c3b6242f-5ce6-487b-99bc-397f02985088",
+    "combo_id": "25a06472-a6e6-41d5-808b-dbadbf2d03af",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "oferta_id": "4e8d5b52-b6df-4a6f-890c-efbbd861c574",
+    "combo_id": "25a06472-a6e6-41d5-808b-dbadbf2d03af",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "oferta_id": "875e5ffd-2e2e-48e0-866b-e0a1977c8532",
+    "producto_nombre": "Pollo Chi Jau Kay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "oferta_id": "8896ff00-e1d1-4aaa-93e0-a092af382cac",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "oferta_id": "817931c6-bffb-4fc3-99a3-b825ad577146",
+    "producto_nombre": "Pollo Chi Jau Kay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "oferta_id": "ae311089-65be-4066-b5d3-26e4b993823c",
+    "combo_id": "69a9daaa-a2f8-4fc6-a1a1-f755e27e46f7",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "oferta_id": "7109ce77-b867-4ced-8524-d68987d220d8",
+    "combo_id": "796a6f22-2295-431f-b641-e08c63412e43",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "oferta_id": "af0e264d-40a0-4001-88ba-9e6769fff281",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "oferta_id": "c792e3a9-4ba0-4b43-bff4-9457539e8bfe",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-20T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "aaf6ef85-6ff5-4209-a3ce-067fe80d05e0",
+    "oferta_id": "dd984842-67a4-4a8f-88e1-cfef7c6c9f5b",
+    "producto_nombre": "Chicharrón de Calamar",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "oferta_id": "dfd6c910-570a-4e79-a7cc-1e59963780fb",
+    "producto_nombre": "Arroz Chaufa de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "oferta_id": "bd0f5afe-761a-4f7d-8b96-9626ac90a03e",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "oferta_id": "c51296a0-d569-4812-a2ee-9c9de1a99063",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "oferta_id": "15fe7e91-c996-42ee-ba7a-f90b536f2c26",
+    "combo_id": "93d8a34d-6e93-43f8-9d70-ba8f3bf9e597",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "oferta_id": "3f0f1885-d33e-4d16-9e52-b3f7835b6695",
+    "combo_id": "93d8a34d-6e93-43f8-9d70-ba8f3bf9e597",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "oferta_id": "ba859375-8829-4cb3-a91c-6cff6933b33e",
+    "producto_nombre": "Chancho con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "oferta_id": "60d110b6-2c17-459c-a0cd-f6ff329aab2e",
+    "producto_nombre": "Pollo Chi Jau Kay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "oferta_id": "61437aad-ca6e-4d50-98f4-ed56f62396dd",
+    "producto_nombre": "Cerdo al Sillao",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "oferta_id": "ff97d645-5408-47b3-b327-94e517fe4561",
+    "combo_id": "287d2916-8d95-43a7-a5b9-58dd12ec4fe7",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-20T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "oferta_id": "2231539a-2deb-4e67-836c-471ddbb9dd8a",
+    "combo_id": "287d2916-8d95-43a7-a5b9-58dd12ec4fe7",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "oferta_id": "d30cbec7-fb9d-46be-9405-29489f5a516d",
+    "producto_nombre": "Picarones",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "oferta_id": "ffd86d9d-fc45-46d0-a82f-a615f19f0e0f",
+    "producto_nombre": "Tallarín Saltado Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-09T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "oferta_id": "093a70db-4a7e-4e46-a6ae-33cc3bc50ad3",
+    "producto_nombre": "Tallarín Saltado de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-08T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "oferta_id": "c2206a4e-1acc-41d0-811c-5f87b61d6286",
+    "combo_id": "da4d8113-5104-475e-a6ce-34bea874257d",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "oferta_id": "6ba2fc53-cefe-4f32-8653-51014d1d61d9",
+    "combo_id": "f28a3843-4d2c-4941-8952-c9fe3cbd27d2",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "oferta_id": "a9f9668f-a5a4-405f-90d0-d8991fa7e733",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "oferta_id": "99248527-28b8-4d73-87df-4c56f5626738",
+    "producto_nombre": "Pollo Tipakay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "oferta_id": "f16e465f-9aa6-4665-8f24-33b8a6a6b587",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "oferta_id": "00ea87f6-c5e1-46a8-b8e2-1fad7da2ad8a",
+    "combo_id": "c5ca7871-9eaa-4c5b-9219-5218cf019925",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-08T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "oferta_id": "6b69dca8-bd7b-4ec2-b672-110b09844b37",
+    "combo_id": "c5ca7871-9eaa-4c5b-9219-5218cf019925",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "oferta_id": "6fd73be6-c9e8-40c3-8b3c-2e4a2f0d801c",
+    "producto_nombre": "Chapsui de Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "oferta_id": "7213a74e-82eb-49fe-8447-0debc5142cab",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-21T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "oferta_id": "1e5fbe91-21bd-4020-a359-88c5f65f2511",
+    "producto_nombre": "Pollo con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "oferta_id": "d4b38bb5-7e7e-48c5-aa0e-194d0db88232",
+    "combo_id": "6cc535e2-60fa-4fff-8721-74967e13525b",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "oferta_id": "4b9b4b54-605d-465b-a1e9-9a8768be12d0",
+    "combo_id": "d6fb38ec-5d63-4774-b3cb-ff9f6260f4db",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "oferta_id": "12c1e9c4-ec3d-48de-abc3-16cca936fb44",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "oferta_id": "19449928-8deb-4d8e-bcc2-c74b2640079a",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "oferta_id": "a3cd5e00-2efa-4474-a89f-80096ff0f0f9",
+    "producto_nombre": "Empanaditas Chinas",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "oferta_id": "ff015e96-f93b-444a-82a0-a1adc994e43d",
+    "combo_id": "391c54b9-5398-4d1a-a735-c1fe11d5c9b5",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "oferta_id": "f8a12046-6ea7-45e7-98c2-d7a4999574f5",
+    "combo_id": "eb1bfe9e-04e0-4335-ac7b-d1ae142c0e9f",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "oferta_id": "fbd000f7-348b-4bd6-8d6c-0f17cf140149",
+    "producto_nombre": "Pollo Chi Jau Kay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "oferta_id": "ce496612-e869-4279-8af5-aeaa53f09e57",
+    "producto_nombre": "Cerdo al Sillao",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-09T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "oferta_id": "814598ef-0ff7-42c6-bb98-176adab632c4",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "oferta_id": "526edd29-61ae-4e24-a8ed-76cc44f338fe",
+    "combo_id": "2d2efd37-263d-4dd3-afd1-60bb73b0770d",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "oferta_id": "7860be03-abe6-4235-95e8-03f57d9b9e73",
+    "combo_id": "2d2efd37-263d-4dd3-afd1-60bb73b0770d",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "oferta_id": "a820b691-acf1-48fb-a1c2-3f02da6a3b5d",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "oferta_id": "871dfb26-df03-418a-9810-b51ca7dee1a9",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-08T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "oferta_id": "b4703cd8-795c-4108-9d85-66965468f484",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "oferta_id": "6d2a50f4-bde9-4b66-be90-267b6d151415",
+    "combo_id": "dc803051-904c-402e-bfdd-2b05c3cd393e",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-08T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "oferta_id": "3d7fd4cd-0d8d-41a0-85b7-c744b2ea981d",
+    "combo_id": "4559027a-3b7b-448f-bd22-cb5f91e10606",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "oferta_id": "295fe74f-ec51-4d67-af45-f0ed55824457",
+    "producto_nombre": "Arroz Chaufa Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "oferta_id": "f164018d-18d0-43ab-bae2-6ee733bc049b",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "oferta_id": "925dfd73-d084-4959-b414-b22909aec378",
+    "producto_nombre": "Arroz Blanco",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-20T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "oferta_id": "67a4e54c-4031-49f5-8fe0-5860f55c8fcf",
+    "combo_id": "d134ce14-408f-4647-9e02-72fbb27ce372",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-09T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "oferta_id": "fea0f656-59fc-448f-9b88-0f93d255e303",
+    "combo_id": "54d7c859-48f2-4dbb-9603-e89afabbf119",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "oferta_id": "786ceef1-0834-4254-9df6-c7b0209c645c",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-21T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "oferta_id": "552ee45b-ba37-48e0-8f86-4f47c824cea7",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "oferta_id": "a2f3c535-1d66-46ef-9047-fc6d8ae8208b",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "oferta_id": "99679356-9d11-4bd0-8818-4d4ce7c57ba7",
+    "combo_id": "f3dc6f10-de8a-4a3c-a3da-cc02458f8414",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "oferta_id": "237f0403-d886-455e-8ec5-c87e9fc6d488",
+    "combo_id": "5b7d4e77-75e9-4882-bf74-3d784981aa47",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "oferta_id": "bd309285-1914-4c3a-9928-b7dac83addae",
+    "producto_nombre": "Empanaditas Chinas",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "oferta_id": "ab0555f4-2fd6-4584-912e-5f143aea8569",
+    "producto_nombre": "Picarones",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "oferta_id": "5ed460c8-c9c8-41cc-a9d7-62f8407bc162",
+    "producto_nombre": "Wantanes Fritos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-20T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "oferta_id": "dc601b2b-abec-4067-9982-01f209c99730",
+    "combo_id": "f099accb-96ce-4af8-9929-be1efe9e5c58",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "oferta_id": "b051de15-4a08-408e-b447-b2d3be5d6117",
+    "combo_id": "fcfb366e-e306-4947-8e2e-ae442c4f9270",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "oferta_id": "327617ec-6b06-41e3-98ab-52527d03dc15",
+    "producto_nombre": "Chapsui de Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "oferta_id": "31d7363b-1753-4e2b-a8ac-3c7a7080b8f7",
+    "producto_nombre": "Arroz Chaufa Especial",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "oferta_id": "74c98898-4ddb-456b-998c-43043eb7dd38",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-15T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "oferta_id": "7b9e5424-ea8f-4dcc-9877-8f2c874cf964",
+    "combo_id": "0c7411f8-cdea-4388-86a7-132e252d6443",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "oferta_id": "fa996fed-64b7-4829-8066-195abf0b081d",
+    "combo_id": "0c7411f8-cdea-4388-86a7-132e252d6443",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-10T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "oferta_id": "d316244a-9246-4f8c-ba7e-bd2c5deabd77",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "oferta_id": "89a8c860-c910-4469-abc2-8d12362091a4",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "oferta_id": "d6abc609-5cbe-45d8-9820-a9a1e9f3a2ec",
+    "producto_nombre": "Carne Mongoliana",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-10T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "oferta_id": "28a13378-34e3-4f1d-838a-17bb872560ec",
+    "combo_id": "f7bca3aa-0ef8-4db3-bc78-5c3b96580ab2",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "oferta_id": "0c3af87b-ae5d-4c3d-bc46-edd85ab52a4e",
+    "combo_id": "41a0e67e-6ed7-4a1e-8c5f-eb99014c8f0d",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "oferta_id": "f0eca15e-d6db-403a-b387-08f9a468a00b",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "oferta_id": "4d6b7bc3-53cc-430a-bc5e-ca9d3f3fadea",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-25T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "oferta_id": "fe6046df-8942-49e1-a5ec-6e44dc8c3ccd",
+    "producto_nombre": "Arroz Chaufa de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-15T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "oferta_id": "2f47132c-c5a4-4b39-ba2b-6a4a91764e28",
+    "combo_id": "eacec4e9-c4b7-40bf-9f54-ed6454039dd5",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-10T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "oferta_id": "ef3033ea-3faf-4c47-afab-fdc09d9c3de8",
+    "combo_id": "eacec4e9-c4b7-40bf-9f54-ed6454039dd5",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "oferta_id": "58b2f7a0-8f60-4725-a40f-824bf88ebd31",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "oferta_id": "cd571739-94e3-4c67-aa0c-c1cff9ae8ffa",
+    "producto_nombre": "Pollo Tipakay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-20T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "oferta_id": "ead25280-29c3-4777-8201-76bc4c527192",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "oferta_id": "75bbb5ad-5b2a-453b-affe-3d99edc94aed",
+    "combo_id": "47a78bb3-23b6-4b58-962f-af59341ecfe3",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "oferta_id": "602a6e7f-77a2-4b72-b91d-32581f264543",
+    "combo_id": "e766d695-bcd5-41c4-b399-0a58e758c7d9",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-10T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "oferta_id": "fec4fa33-389b-477f-bb4e-b61c6481fed1",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-21T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "oferta_id": "31e3aa2c-b20f-4ced-87bd-e8950a656a2f",
+    "producto_nombre": "Carne con Verduras al Wok",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "oferta_id": "24fcf1fd-85a8-4cf4-b518-b1daed63d63d",
+    "producto_nombre": "Arroz Chaufa de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "oferta_id": "3845634e-ac81-44fb-b7ea-a4b4cf9a3a6d",
+    "combo_id": "e437f682-7a90-4445-b7eb-4a92ae326e22",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "oferta_id": "160a95d5-961c-41fe-b660-1ba8eec20989",
+    "combo_id": "b59df0b0-cbf1-4db6-a481-48440b8862c9",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "oferta_id": "da0c2b79-6e9f-42f0-afc1-fae83ac42db5",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "oferta_id": "12d9b348-cdca-444a-8cde-fa1360dcc046",
+    "producto_nombre": "Carne con Ostión",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "oferta_id": "414618a0-6319-4763-abf2-ef0d91c99990",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-22T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "oferta_id": "abef5560-f028-4f89-8617-805823881c35",
+    "combo_id": "a6e90a9e-c384-436a-aa5f-bde79bb1a6ec",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-15T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "oferta_id": "0c657a56-e25e-415c-bca2-b947a85fcc70",
+    "combo_id": "60575cd3-9d75-4183-a8b5-e8336f44cdcb",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "oferta_id": "2a66d456-4998-49b8-87b2-813303489ccc",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "oferta_id": "3f5d2bb2-64ce-4d2d-9f05-d2bb29901f7d",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-22T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "oferta_id": "7b91f1f0-bd7b-44e0-a93c-1bfcb7403fbd",
+    "producto_nombre": "Empanaditas Chinas",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-10T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "oferta_id": "8d0959e8-05b7-4d6b-8db8-1d84bfa0d206",
+    "combo_id": "eeaed2cc-1cf7-41fd-903f-20f765bf91c2",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "oferta_id": "1d66aec3-517b-4a0c-9ee1-2bcbe80eb4df",
+    "combo_id": "c3b40abe-e021-4fc6-ac4e-bc93aa41a0df",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "oferta_id": "dee4c981-9bb0-407a-be0f-db8cf70c6b63",
+    "producto_nombre": "Arroz Chaufa Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "oferta_id": "06f7bd9d-393a-4ade-bef8-2fbdcbbe8800",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "oferta_id": "98d8e738-d03d-4f99-b39c-430a29470645",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-07T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "oferta_id": "d595d601-50f0-485d-a916-7a2a9b2536d2",
+    "combo_id": "855ab11d-1b9f-4365-be46-e5d274808e47",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "oferta_id": "f7a2f1bc-35e4-4b52-956e-d11b23bc40b3",
+    "combo_id": "c99fb8a1-8706-48ef-a2b5-d76dd2aacd54",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "oferta_id": "60157f8c-15a4-47f8-b1d6-7345bd49a046",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "oferta_id": "c4564ce6-0cc4-4822-8ec2-6638058c7510",
+    "producto_nombre": "Pollo Tipakay",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "oferta_id": "f2a6bbb6-6682-4cc1-ac00-21167b9649e2",
+    "producto_nombre": "Wantán Frito",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "oferta_id": "6e57f95a-304f-4364-af1b-0755d1999524",
+    "combo_id": "daf3df06-f28b-4142-bc1e-f539ed8c5411",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-17T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "oferta_id": "5e7190a8-13f8-4406-9a7a-9bd8d08e94f8",
+    "combo_id": "7ec7cfd1-f508-4aad-88a6-bf712aa2e5fe",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "oferta_id": "7cfc8db5-5161-4b2b-8cb0-681e80d81334",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-23T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "oferta_id": "88264f0b-e6d9-4558-9afa-68d5c5749ec6",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-10T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "oferta_id": "3ab8d98b-8351-4739-a423-b69afc0a02ca",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "oferta_id": "b83f71de-cc12-463f-84cd-b624097a5e02",
+    "combo_id": "f0f99425-0d1b-4f0e-abce-7db35aac7b63",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-21T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "oferta_id": "3e56857b-fc1e-4af1-987a-3be5b30ca4d0",
+    "combo_id": "b1a5684d-2760-4754-a21a-244349c92c05",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "oferta_id": "6683e751-1d04-48d2-a8e8-c73566db2ffa",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "oferta_id": "2b2d72de-3c1e-4803-9f25-5fe3defce444",
+    "producto_nombre": "Sopa Wantán",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-15T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "oferta_id": "bc7c13d2-5e88-434e-bea0-af9ba915f941",
+    "producto_nombre": "Arroz Chaufa de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-14T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "oferta_id": "e4e5610d-7ed6-4775-831b-f67483ee0cf4",
+    "combo_id": "21bd390b-ff90-49e5-bb99-5a1f59fa23ee",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "oferta_id": "d5a4e05f-853e-470b-b9b5-a0398c8eeb22",
+    "combo_id": "21bd390b-ff90-49e5-bb99-5a1f59fa23ee",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "oferta_id": "961f3470-0180-422a-a3e0-59e317c6dc34",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-12T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "oferta_id": "aa817412-41f4-4878-9e55-768b954ca5c2",
+    "producto_nombre": "Agua Mineral 625ml",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-28T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "oferta_id": "e2e0b816-602e-4aa1-9cec-293f99da47c5",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-10T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "oferta_id": "9498b62f-bc6c-42af-b928-1016e7f3fc07",
+    "combo_id": "0cb706b8-51bd-4ad1-8ef8-ac98aaa15b95",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "oferta_id": "5551e077-305b-48b6-b86a-6a0e1e961e0d",
+    "combo_id": "0cb706b8-51bd-4ad1-8ef8-ac98aaa15b95",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-13T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "oferta_id": "310ea313-41f0-449f-a1b6-7693070ea749",
+    "producto_nombre": "Arroz Chaufa Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "oferta_id": "9edc2a44-cd27-490b-8056-5f274747fc5b",
+    "producto_nombre": "Tallarín Saltado Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-19T18:35:31.355640",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "oferta_id": "a76a86ba-5f32-497b-a904-dff34e1ccddb",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "oferta_id": "94761e3a-ffbb-4f2b-8589-3c523546c0ca",
+    "combo_id": "7234c1e2-e90d-4963-9419-f43229d83d57",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-09T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "oferta_id": "bb560759-e5c4-4ca0-9b6d-26ec7c973b67",
+    "combo_id": "7234c1e2-e90d-4963-9419-f43229d83d57",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "oferta_id": "f6f65871-f123-408c-b9e5-e0a5f95ac4f8",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-09T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "oferta_id": "bd137dbb-9b0c-4c4e-bad8-eee9eb2078e2",
+    "producto_nombre": "Arroz Chaufa Especial",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-24T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "oferta_id": "5f45230f-46b5-4e1b-b34f-025ed7dd852a",
+    "producto_nombre": "Carne con Verduras al Wok",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-08T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "oferta_id": "d7e618a2-9305-4511-ba68-844de4286ec5",
+    "combo_id": "31165a92-49bc-43d8-b8d9-c6faf7b6b48f",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-23T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "oferta_id": "5c7895b2-03cb-4f29-9069-2ee734b3a45f",
+    "combo_id": "1d97ee3b-7131-430f-8b0b-3e27324109a1",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "oferta_id": "fc8ffc6a-8e22-4c09-93b6-0baa360c037d",
+    "producto_nombre": "Pollo con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-22T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "oferta_id": "fa1aa30d-5b26-4b6b-a1cc-4cd87d76bb13",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-11T18:35:31.355640",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "oferta_id": "971a28de-822c-427d-a7fa-4d1c9d9efd58",
+    "producto_nombre": "Carne Mongoliana",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-25T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "oferta_id": "2ef083b2-5ee6-429f-aee2-051b8fb4d26f",
+    "combo_id": "4331b9ad-37b8-4264-9ae9-429137272b40",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-08T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "oferta_id": "0c6aeecc-6210-49ca-a4c6-38914f9c0755",
+    "combo_id": "4331b9ad-37b8-4264-9ae9-429137272b40",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-30T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "oferta_id": "ff7c778d-0f59-426f-8ac8-541bbddd6cff",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-27T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "oferta_id": "e79ed705-b7fb-4b51-ac07-b70498eea951",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-18T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "oferta_id": "7b7af8b7-82ac-4408-88b7-0d06badd5426",
+    "producto_nombre": "Arroz Chaufa Especial",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-26T18:35:31.355640",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "oferta_id": "7a325190-2de9-43af-849d-2719ead93840",
+    "combo_id": "98350fdf-6c05-451e-90d4-88f8c1933379",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-22T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "oferta_id": "54a7b57c-7957-47b5-b591-595423ca4248",
+    "combo_id": "9d9031af-ea79-40e3-a79f-a63bc1291f8a",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-16T18:35:31.355640",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "oferta_id": "8c8db1c6-396a-45c4-af89-982761b019e4",
+    "producto_nombre": "Wantanes Fritos",
+    "fecha_inicio": "2025-11-30T18:35:31.355640",
+    "fecha_limite": "2025-12-29T18:35:31.355640",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "oferta_id": "46e03f06-b543-44bc-9843-d5d870f85b8c",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-07T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "oferta_id": "69b00b38-d5e7-4d7e-917b-59e8a51f9d58",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "oferta_id": "7e6b54dd-e1d1-4e9a-adf4-88d149fc89ee",
+    "combo_id": "38330ef8-cc76-4b93-9117-19436fed86f1",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "oferta_id": "61542e9d-beff-44ba-bba5-77d3e482a807",
+    "combo_id": "38330ef8-cc76-4b93-9117-19436fed86f1",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "oferta_id": "28a0edc7-2fe0-43bd-8b53-ffe48512ecd6",
+    "producto_nombre": "Chicharrón de Calamar",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "oferta_id": "f2dc8875-2b0b-41f6-8534-163658c977cf",
+    "producto_nombre": "Picarones",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "oferta_id": "8403fcf9-51d4-4532-abc0-553ab4da1d5e",
+    "producto_nombre": "Wantán Frito",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-08T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "oferta_id": "3b8da77a-355e-4cf4-a229-3cc0ba1fdbde",
+    "combo_id": "bff71e95-f360-4e7e-a826-b927057456d8",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "oferta_id": "f3b37519-037b-41f8-8835-ca632ad142b2",
+    "combo_id": "1c128deb-c860-43ea-9559-65da39d2781a",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "oferta_id": "42d0d745-db65-437f-a174-6fbb64958332",
+    "producto_nombre": "Cerdo al Sillao",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "oferta_id": "d00487f3-1d5c-4b3c-bbd1-ee6dbaea668a",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "oferta_id": "e61478bf-7356-4808-873d-89295d8a8d50",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "oferta_id": "e0945be8-5901-46fa-9662-d38f6ab0ff9b",
+    "combo_id": "22c159a8-806f-4d45-b27a-48aa2f45aef5",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-25T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "oferta_id": "f4eb9887-66f9-4b40-9b04-1aaad04608b6",
+    "combo_id": "1b496884-1a2c-41fc-aa85-0d18fa5215e3",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "oferta_id": "d75f5ed2-9c27-4396-ba51-f59133df3b91",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "oferta_id": "892577e9-4f29-4676-8934-cf5fc8249910",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "oferta_id": "009d03d0-08e2-44f3-937c-cc6e50b504ab",
+    "producto_nombre": "Agua Mineral 625ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "oferta_id": "b865cde9-9f9f-4b4d-b9e2-c767c18c4952",
+    "combo_id": "9b48ebb0-bf2b-4828-a042-e806e4346b9a",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "oferta_id": "0f7db7e0-ea7c-4aa8-bca2-76ba5066fb95",
+    "combo_id": "83ecf9dd-6a44-49a1-a187-debbd49c0201",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "oferta_id": "bca96589-7b81-495c-b297-34b7aee5b6ed",
+    "producto_nombre": "Carne con Ostión",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "oferta_id": "86279dc4-1b95-4617-aa19-5b14334bd0b1",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-16T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "oferta_id": "747b14a2-e4a1-4dee-ab05-a2a17a6da0b2",
+    "producto_nombre": "Chapsui de Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "oferta_id": "f1f78039-b499-4ca6-ac06-f7c47416c867",
+    "combo_id": "c32c9c65-4cf5-4acd-87cd-a082ec705976",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "oferta_id": "ef5343eb-ce77-4c6d-bfb1-f29b1d2369ce",
+    "combo_id": "77233297-7c3d-4260-b626-07036bac5ae8",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "oferta_id": "e9cbd592-df3c-4f66-bc85-d269854de62f",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "oferta_id": "3ec2a6bf-0249-42f0-bde3-e6e32dc3cec0",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "oferta_id": "8d21c555-690c-4ec6-9ec2-4f138f6d8d1c",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "oferta_id": "4e478a60-2823-48ff-bed6-643b608c9765",
+    "combo_id": "63fd794f-750c-4128-8ecf-0cc432138044",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "oferta_id": "bb7cca24-3006-4971-9b87-505b885cb58e",
+    "combo_id": "abe85ea8-8c95-4dd1-baee-a57ae1ee82b3",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-16T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "oferta_id": "cbfed537-9534-4222-a623-8674afd161c9",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "oferta_id": "767c483c-802c-45cf-a22d-99bc09d50975",
+    "producto_nombre": "Cerdo al Sillao",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-07T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "oferta_id": "fdbf958f-3b94-4e92-bd95-10338aa626ab",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "oferta_id": "95dc09f9-a0a9-4127-952c-7fee6f058a11",
+    "combo_id": "3ad99b18-4101-4684-a2cc-1a8ccb77b9eb",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-07T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "oferta_id": "13a57969-bdab-42e8-9de8-68104cb885e2",
+    "combo_id": "fb08aa38-c50b-4f87-a15a-ab2c09cfe1a7",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "oferta_id": "edf2e58d-5d10-420c-a162-bb49f30e8983",
+    "producto_nombre": "Picarones",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "oferta_id": "a26b9056-b72f-4852-b97e-91506afb97ac",
+    "producto_nombre": "Arroz Chaufa de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "oferta_id": "60135575-6a3c-42a3-86be-ffe6734549bd",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "oferta_id": "eaac9f5d-4df8-47a4-8533-39ed19b97849",
+    "combo_id": "4b3761fa-3949-43af-b07e-dde3c7bfda3b",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "oferta_id": "ae076299-4b8b-4223-a7ec-f716b564da29",
+    "combo_id": "7f8300bf-8dc6-4ca8-a6dd-698ccfffd442",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "oferta_id": "9e6d9a17-55c2-416b-893c-57afcf058983",
+    "producto_nombre": "Sopa Wantán",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "oferta_id": "3c3d7d04-e88a-4dde-84fb-33c0f066e947",
+    "producto_nombre": "Arroz Chaufa Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-07T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "oferta_id": "22dc9d33-862a-4c29-a7e6-a05534b993aa",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "oferta_id": "26502b7f-e279-4481-ba3c-4e05315d6752",
+    "combo_id": "5cec40c0-64ed-4227-971a-9da252aae3d0",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "oferta_id": "94c66a12-a5de-492a-88d7-607b9deadb64",
+    "combo_id": "87978485-d062-4fe5-a3f6-95cfb94a2d1a",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "oferta_id": "3200855d-468b-4b7d-989c-eff44c450e10",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "oferta_id": "2b916a51-e1d8-42a4-abb0-121134b359ee",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "oferta_id": "af4f6227-0162-4a36-861c-79990fc2250a",
+    "producto_nombre": "Cerdo al Sillao",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "oferta_id": "c5bd7260-2043-47e1-87ed-34e63b99e57e",
+    "combo_id": "4cb7ee67-6159-4a46-83a0-9bd0233666d6",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-25T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "oferta_id": "6e416f5c-a016-4a3c-9ff5-848c6fe65b6e",
+    "combo_id": "493433ae-a943-498b-b8ff-c5ec644de901",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-20T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "oferta_id": "c15d5c71-4a86-464a-a33c-4f5fc0fc27a5",
+    "producto_nombre": "Carne Mongoliana",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "oferta_id": "02ed19ad-b865-42fe-8ddb-03749d270175",
+    "producto_nombre": "Pollo Chi Jau Kay",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "oferta_id": "81ae80bb-dc31-4d0f-8263-b0194bfb2908",
+    "producto_nombre": "Cerdo al Sillao",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "oferta_id": "8ebb6f09-080a-4528-ab62-a5993722fe29",
+    "combo_id": "0da9593b-6504-4bdb-bb7e-79f01deb61b2",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "oferta_id": "04d3a025-d454-4097-b7df-34b738c02357",
+    "combo_id": "350b8f91-1537-4ffd-8950-6c0ba0124357",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "oferta_id": "0a366f53-c807-4f14-8959-e7dd5096b9f8",
+    "producto_nombre": "Tallarín Saltado Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "oferta_id": "c1d13d67-188f-493f-a582-7a4306e3c8c6",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "oferta_id": "7e999792-cb5d-4f15-a5bc-bfd81efe9d26",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "oferta_id": "f112791f-de40-4104-811d-0c717b3484af",
+    "combo_id": "4c54865f-c65b-42c5-bf2a-b7bedb743350",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-16T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "oferta_id": "c434cdd1-1d93-4651-8890-cb571913e1d1",
+    "combo_id": "20f892c3-829c-417b-9e36-5d03c071875d",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "oferta_id": "33f85114-61af-46f1-a1a9-633acdd1037e",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-20T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "oferta_id": "51e663d2-cc08-460c-8cc6-422648bf262f",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "oferta_id": "500da559-adbf-4158-aa99-a908976ad85c",
+    "producto_nombre": "Agua Mineral 625ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "oferta_id": "f95d8246-cabf-4a12-b9ad-a695f9ce3e0d",
+    "combo_id": "7053c4d4-4b82-4c71-aa21-ce7d4a73f9ce",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "oferta_id": "26f9646e-1046-48f6-b7e5-6bc91f68b77e",
+    "combo_id": "7053c4d4-4b82-4c71-aa21-ce7d4a73f9ce",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "oferta_id": "7cc9054e-bdb8-4a4d-b89c-5ef8e415954b",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "oferta_id": "6142d3bf-962a-4341-8510-77d1864baa2e",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-20T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "oferta_id": "e23c6cb8-ddf1-4b2c-bd38-2a0a4a15e68a",
+    "producto_nombre": "Tallarín Saltado Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "oferta_id": "04eaa398-583d-42bd-9290-0400b471732c",
+    "combo_id": "0572db4d-5583-4ef1-a663-ce231dc9df6a",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "oferta_id": "42d25dd8-f167-44de-a7d0-56c6d17fb986",
+    "combo_id": "0572db4d-5583-4ef1-a663-ce231dc9df6a",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "oferta_id": "81e3e3b1-4f81-41bb-a8e5-8cc7ada29c55",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "oferta_id": "3bc77610-bc90-4d5d-b464-cfc007510c81",
+    "producto_nombre": "Chijaukai de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "oferta_id": "0c667324-c50c-4d39-aa74-c17d6d3cb949",
+    "producto_nombre": "Arroz Chaufa de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "oferta_id": "e1a17e4b-4090-4501-a96c-bd6903515216",
+    "combo_id": "167b0c38-e839-4b4a-94c2-8bff24db40e2",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "oferta_id": "341e2780-d77a-49af-80ec-fd4ea563c53a",
+    "combo_id": "af6f2faf-d7f9-4563-af6f-062e63d46f8d",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "oferta_id": "377dd969-c6e6-4bbd-bee5-61cc77455fdc",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "oferta_id": "a8aa0bcc-e728-4c63-975e-b54c57aa9644",
+    "producto_nombre": "Carne con Verduras al Wok",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "oferta_id": "ee794bf4-93bf-4c97-9e97-712ae1910ad8",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "oferta_id": "46fffc7d-0d34-47aa-a360-ceff894987a6",
+    "combo_id": "94801933-7012-48b1-aa67-c15f12a168ab",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "oferta_id": "81b8faf1-d924-4f85-8363-62283d4c86fc",
+    "combo_id": "fb0e9787-dbef-4f62-8d9c-ded5bfb34173",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "oferta_id": "399be759-3d4d-4403-a156-a18b5e4f558a",
+    "producto_nombre": "Wantán Frito",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "oferta_id": "b470eb9c-a78e-4984-9242-d74dd1463729",
+    "producto_nombre": "Pollo con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-15T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "oferta_id": "61fd93a3-fba5-4dab-8f82-cf857f45209e",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "oferta_id": "a53af186-b4eb-4432-8663-5ad54a1add8b",
+    "combo_id": "1e81ab6d-9133-4973-a3f8-f54d6a1c2634",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "oferta_id": "d5eba6c8-22f2-40fa-abb7-fa1a6afe25c5",
+    "combo_id": "9ad7bd37-0be8-4d78-96dc-dc52aa352dc3",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "oferta_id": "e7ae223b-d498-4cd0-aa25-8eb17268f11e",
+    "producto_nombre": "Wantán Frito",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "oferta_id": "2bfc9b22-05e4-4228-a3fa-8e5770d3d660",
+    "producto_nombre": "Arroz Chaufa de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-08T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "oferta_id": "f22b2390-7dcb-42ea-9a24-2c9dc1fdb704",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "oferta_id": "35f20e22-cf30-4896-9bfd-fb9dd3710fd7",
+    "combo_id": "12aefb93-3904-43a5-a6ae-a15742386c29",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "oferta_id": "ff2a9738-70ba-44ae-bb8a-d8e44d93295e",
+    "combo_id": "aa605e1e-03f0-47b1-b424-f071e83b2a2b",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "oferta_id": "9a451642-3d1a-404a-b91e-42ea8b698c50",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "oferta_id": "bba96d53-7963-4d00-a497-00e7ad218e5b",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "oferta_id": "d901e1b8-c6f0-4d70-bbee-b63c5e3ab150",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-11T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "oferta_id": "d25df2bc-d3df-4524-b7e1-e551d5ac5d2e",
+    "combo_id": "17d3d431-49f1-4489-b4d2-675a17f7bb1b",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "oferta_id": "d17d95ab-b069-46fd-a858-41ff208835b9",
+    "combo_id": "50586678-1d84-4816-a6da-f4c377672340",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-08T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "oferta_id": "27e3d994-b090-417f-a9fe-0095cfcdeeb1",
+    "producto_nombre": "Wantán Frito",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "oferta_id": "36ea04c1-3143-40bc-a6bf-2d7859d94ede",
+    "producto_nombre": "Chancho con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "oferta_id": "be7fffac-b8af-4bb5-ad5f-966a0bf4f0ba",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-11T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "oferta_id": "6e4f3440-bca2-44f3-a939-9d1893eea24f",
+    "combo_id": "29bedcd1-6046-43c6-82f9-00fe220f2adb",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "oferta_id": "ac72df5f-fd3b-4911-b061-277fbbf8dbcc",
+    "combo_id": "1c1aabbc-e0aa-49c6-a404-a0e5720b124a",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "oferta_id": "0b4980ad-be95-4743-ba1c-dc351e379161",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "oferta_id": "1acd314a-6b56-4fb4-8440-a620982ab9ed",
+    "producto_nombre": "Chicha Morada 1L",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "oferta_id": "98dba30e-b7c3-46ed-bbd1-532e8cc0c9bd",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "oferta_id": "1bfeda67-03c7-41d2-a8ac-2aaefc85bb63",
+    "combo_id": "0eb94463-84f3-4afd-aae5-e0e783d73a05",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "oferta_id": "5aab222d-d370-43bf-a926-938fc5bf1306",
+    "combo_id": "a2fbb14a-eb83-4942-9560-e93fe2fa13c2",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-15T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "oferta_id": "7264536c-8251-43f8-812d-07f888d67c6a",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "oferta_id": "2bdaed35-b9eb-4e18-97a5-62a5bc768c3e",
+    "producto_nombre": "Chancho con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "oferta_id": "837aa5e2-83d8-49c5-bb0c-70aa5bbb92df",
+    "producto_nombre": "Tallarín Saltado de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "oferta_id": "53baed83-bb24-4835-991a-e53ac6d05e58",
+    "combo_id": "085f8c21-81bb-4b72-a776-467773f81087",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "oferta_id": "b1996f16-2392-4324-a014-743d66062a56",
+    "combo_id": "86f50df5-862f-4baa-b466-8bb888df2968",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "oferta_id": "974a5379-ad30-4857-a1bf-aed337d5a624",
+    "producto_nombre": "Sopa Wantán",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-20T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "oferta_id": "0c7e0b39-8c7c-482c-9ff8-7e56f4120e5c",
+    "producto_nombre": "Arroz Chaufa de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "oferta_id": "e8b89ec9-e9e9-48d9-b798-ab0c5c67bc45",
+    "producto_nombre": "Chijaukai de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "oferta_id": "53987cca-3e86-4411-bb9e-0f1a4490e0cb",
+    "combo_id": "dcf21317-b39c-46a6-87d8-127717e95e1c",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "oferta_id": "c9ab7aea-1315-4b0e-84a5-8a8786b0114f",
+    "combo_id": "44de30ce-2fff-49da-b14b-0cd7d9e760bb",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "oferta_id": "04fe29b4-cddb-4d5f-9eb6-f312e68686ac",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "oferta_id": "ac89cdb8-fad5-4b4b-a789-5a112e9cfe1b",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "oferta_id": "ff9a020e-68da-4059-b83e-d8c9ad4254a2",
+    "producto_nombre": "Arroz Chaufa Especial",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "oferta_id": "9d4b5d96-528b-46b6-bdee-68088f28bf86",
+    "combo_id": "54df5830-9f60-4257-a5d9-60456efbb224",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "oferta_id": "fb6bbf6c-642a-43c4-8140-dc75fbd03534",
+    "combo_id": "b6dfdcec-9e67-415d-be9e-43f04ae8da95",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "oferta_id": "bb9e13f9-9fc5-474c-b222-4037f888f3d4",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "oferta_id": "0ef7713d-1dfb-47a6-b0fa-73579d6ac052",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-11T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "oferta_id": "a6a76ff2-83d8-48b7-aaa7-da907af7c8c7",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "oferta_id": "8b610c13-6fd1-4cff-a96e-d02ab19358da",
+    "combo_id": "f96a8432-7314-4ef5-a36e-9c0504bf15d6",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-11T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "oferta_id": "87cd98fd-b8ac-4932-af6b-cd0e4974dc66",
+    "combo_id": "1aaaa480-9633-4163-97a1-ae0332dee43a",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "oferta_id": "f97b1a4d-e313-4a07-add8-228401451690",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "oferta_id": "5b064968-2e09-40b7-a141-f8755c32a316",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "oferta_id": "e10f5a85-b126-4ffe-aead-0e710506d5e5",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "oferta_id": "d740cbfd-e1b5-4ff8-99a2-5afbd447d00e",
+    "combo_id": "f77ba517-e500-43ba-a869-6486fc6614f9",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "oferta_id": "7e78a3ef-b236-4aa9-ba24-872092e677bf",
+    "combo_id": "f77ba517-e500-43ba-a869-6486fc6614f9",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "oferta_id": "867f2474-f6c3-4607-b6b6-72147ff28a8f",
+    "producto_nombre": "Sopa Wantán",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "oferta_id": "8fb302a5-3ec5-4639-867e-51fe82c8417a",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "oferta_id": "46aadca7-55b7-4835-8f6d-97400abce5d9",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-16T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "oferta_id": "3497e4c2-747c-4c75-a652-ae2e9f64cf37",
+    "combo_id": "1e124594-5a29-4344-93f9-6d2831bebda2",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "oferta_id": "7231b934-1424-4895-9f66-e80f397d8d7e",
+    "combo_id": "06a7687c-90e9-4272-8b75-1fd54501b250",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "oferta_id": "9065561e-5556-437e-bbca-52e3d8f85f7e",
+    "producto_nombre": "Empanaditas Chinas",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "oferta_id": "b1f86c94-61eb-4212-9c15-caf330d64aeb",
+    "producto_nombre": "Chicharrón de Calamar",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "oferta_id": "e2ef89e6-030a-4450-931c-758e88c9f022",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-07T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "oferta_id": "fb1ac1a5-32e2-49dd-8235-55a1fc3a7740",
+    "combo_id": "2a75861e-a2b9-4878-8a6f-0d2e5c1a2e87",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "oferta_id": "0223d6c9-8adb-4f78-b4ad-36f9c7a1e80f",
+    "combo_id": "ee106a2d-5963-4600-846b-fbac45b5f57f",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "oferta_id": "a78b94da-c679-4dda-9ead-7b403a236ed3",
+    "producto_nombre": "Tallarín Saltado Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "oferta_id": "bee9c796-9857-445a-b031-f8e22ba614f5",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "oferta_id": "84fe5a3e-8ba0-4a95-a561-13783031ea58",
+    "producto_nombre": "Picarones",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "oferta_id": "469d9238-c230-4398-809a-ad45ea1f9c1f",
+    "combo_id": "448d9dec-347d-4ae1-af36-746048c22a7f",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "oferta_id": "4cec157f-ab8f-4792-ac9a-b552330dd2c4",
+    "combo_id": "d64c53f4-2652-4f27-97b3-5f980da390a5",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "oferta_id": "f9f1be43-f935-44b0-b831-a01292ec25bb",
+    "producto_nombre": "Arroz Chaufa de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "oferta_id": "da96a11b-4798-4b59-9800-6213a030f2aa",
+    "producto_nombre": "Pollo con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "oferta_id": "783518e7-e96b-4a99-ab28-b406006be28b",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "oferta_id": "af72427c-c6ac-429c-a471-27278e5109fb",
+    "combo_id": "cb8bc8d6-c97c-4ee2-b08e-2b743b98bb71",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "oferta_id": "3c4af449-161c-4d5b-9b0e-65ec61b99f59",
+    "combo_id": "cb8bc8d6-c97c-4ee2-b08e-2b743b98bb71",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "oferta_id": "b067aec0-5346-4f66-8ca0-1085e8503a5e",
+    "producto_nombre": "Arroz Chaufa Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-08T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "oferta_id": "c4188c39-cb75-487b-9720-1b0413500657",
+    "producto_nombre": "Pollo con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "oferta_id": "3421551a-1d3d-4e2c-a5d1-531023d04ea6",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "oferta_id": "50cb90b5-893c-4517-84d8-03345c499ba0",
+    "combo_id": "13252bee-0138-428b-8730-a732666e3abe",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "oferta_id": "ec4371f1-96a0-4b4e-8ba7-add47a77323c",
+    "combo_id": "372077f6-a72f-4ef6-a690-5ba5fb47fea7",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "oferta_id": "459bb4ea-f538-4551-bc90-2f49ad3005c3",
+    "producto_nombre": "Arroz Blanco",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "oferta_id": "4d06f083-432c-41ab-80e2-b22e87e5a84e",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "oferta_id": "a9e805a4-62b2-47f1-8912-76faba0067d8",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "oferta_id": "ea475bcc-2c55-4af9-a7b4-747caeebfc69",
+    "combo_id": "27e4e501-22df-4148-a4a3-8398a7f89fab",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "oferta_id": "38dc5fb6-823a-44aa-a544-dc57ae4753ce",
+    "combo_id": "bde6ae70-1752-4c7d-a7c4-3ca5a16ad333",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "oferta_id": "f9139c79-4ebd-45ec-b792-5d262eb088c9",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "oferta_id": "51150e1a-0526-4cc6-bca3-320519b670fc",
+    "producto_nombre": "Wantanes Fritos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "oferta_id": "34196a96-aac8-4edf-a8da-04694eafe6de",
+    "producto_nombre": "Arroz Chaufa Especial",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "oferta_id": "a27147bb-aad3-4272-9cae-ae9138e75a0f",
+    "combo_id": "65d6cb46-e964-493a-ab30-f13d0822e924",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "oferta_id": "3d4ea8c9-64d5-4580-ac04-d2c5bf89f248",
+    "combo_id": "510cacb6-1815-424e-92b2-fc8f3f98f4d4",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-08T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "oferta_id": "14592a7e-8a3c-47e3-b2c4-99aa10fe9a6a",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "oferta_id": "9ce62cb0-242b-4232-9c91-e437e7796c08",
+    "producto_nombre": "Tallarín Saltado de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-16T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "oferta_id": "12e1837f-2ef7-4ced-9eb7-f931d5503c38",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "oferta_id": "6a78fde1-edce-48fd-83c3-88ae8be19d92",
+    "combo_id": "04f979ea-1480-48f8-bb98-3419c5e73b29",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "oferta_id": "9aac1e8e-f592-4d78-a41b-75f157729af4",
+    "combo_id": "0ecb42a0-0b15-4809-9b8e-6205b186d9b6",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "oferta_id": "432c1f7d-455d-4f31-89b8-48c8fbf8f19e",
+    "producto_nombre": "Carne con Ostión",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "oferta_id": "6d328bc4-d796-46eb-b1f5-2209f5058129",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "oferta_id": "4843e437-6c9e-410b-96ee-b163d3956e2d",
+    "producto_nombre": "Wantanes Fritos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-20T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "oferta_id": "954617a6-4236-413a-bc4a-e5bcf30855d4",
+    "combo_id": "00818030-7dbf-4f6d-b5ec-36dec9fdd308",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "oferta_id": "17e30129-2fec-4c35-ba46-bda576be32e6",
+    "combo_id": "a00733f5-57d1-40d2-948d-578cd3442cdc",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "oferta_id": "8a70ce61-eee8-4260-bcf8-804b1abedf86",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "oferta_id": "747ff4ef-e33e-46e6-b898-5e87a60dbc6d",
+    "producto_nombre": "Arroz Chaufa de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "oferta_id": "c4e6c004-6eb6-4d2f-a148-5191df336eaf",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "oferta_id": "abb020d0-e9f5-4430-84ec-2e9e55d95bc4",
+    "combo_id": "abe81e5a-55e7-4906-8566-4dc81b612664",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "oferta_id": "f710b619-43c8-4863-9a0d-ed811c0f5884",
+    "combo_id": "abe81e5a-55e7-4906-8566-4dc81b612664",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "oferta_id": "51e6aec1-af84-47c8-ae73-b28dca97a7af",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "oferta_id": "1d475cd1-fc72-4871-a294-58fd70c2da07",
+    "producto_nombre": "Carne con Ostión",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "oferta_id": "e9ebcc8e-ed81-4922-88c9-9661d23985db",
+    "producto_nombre": "Pollo Tipakay",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "oferta_id": "fd27080f-b1d1-4328-a745-108d8b902cb9",
+    "combo_id": "89f3155b-69f1-4ae4-8a68-f6861f1c0d9f",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "oferta_id": "507fb847-543e-463f-86b5-dc5b3c9c4663",
+    "combo_id": "083c73b4-3357-43a7-a108-760bd081ede4",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "oferta_id": "d70c2814-a9c0-4e57-a8dc-e00c6c3d7a1a",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "oferta_id": "b4bd45d1-4fe2-420c-b40c-17b0e781d57e",
+    "producto_nombre": "Chicharrón de Calamar",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "oferta_id": "fb32771d-af62-401d-953a-48f9aa2c6aeb",
+    "producto_nombre": "Carne con Verduras al Wok",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-17T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "oferta_id": "0992902b-c851-46a1-8d29-bfd18edb49a0",
+    "combo_id": "09463ed4-b98f-4c2c-a27c-670d1f473da9",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "oferta_id": "127eb579-8c34-4e12-8f4f-7fcdfba1e09d",
+    "combo_id": "d6a91a9c-af84-4e04-a1b8-53440d4e5b9d",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "oferta_id": "1e3b9596-cbc4-46e1-83d5-e0eee9c40e31",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-08T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "oferta_id": "d360e08c-dfb2-4a26-a0a6-128a988a5e48",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "oferta_id": "89a458ca-28a6-42c8-aba7-8a0f305a727a",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-25T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "oferta_id": "2527d2b0-fba5-49bc-89d1-895cfc2e9691",
+    "combo_id": "2d55fa9a-739f-40bc-a309-ebd16b4c3b91",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "oferta_id": "ce2da753-706c-4992-919d-c62fd4ab65b3",
+    "combo_id": "d612d278-a93d-481c-bdd1-fb90cb8d9f86",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "oferta_id": "a6fe8da7-faab-437a-aa56-35616f12d16b",
+    "producto_nombre": "Arroz Chaufa Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "oferta_id": "a8e2cade-0939-45dc-8110-1abfe3e58060",
+    "producto_nombre": "Arroz Chaufa de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-28T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "oferta_id": "0949afcb-629c-4cdd-a4f4-bebb5eed476b",
+    "producto_nombre": "Tallarín Saltado de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-15T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "oferta_id": "ea3ad5fe-5ea3-4a7b-93ad-0c0832822d8b",
+    "combo_id": "2e75f778-0f68-439b-8fce-8b4ce0916ff1",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-18T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "oferta_id": "0888d3e5-162e-4930-bb1f-51022221444b",
+    "combo_id": "f1417c84-99bf-4eab-81b7-d6bec4940e09",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-09T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "oferta_id": "13adfd12-9772-4013-87a6-c197033bafa4",
+    "producto_nombre": "Carne con Verduras al Wok",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "oferta_id": "ea125a18-1b9b-44c3-9c51-f87e8126e781",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "oferta_id": "12245799-db99-42f9-b389-369cddcc6947",
+    "producto_nombre": "Pollo Tipakay",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-21T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "oferta_id": "60dd607e-9b98-4d58-9d84-02581311dfb2",
+    "combo_id": "724d56f8-8a67-4144-8bd4-89baae09c9e6",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-29T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "oferta_id": "2bc83020-de96-4278-89c0-fb935dd32583",
+    "combo_id": "a6e669b5-4ec6-4f37-aed0-4510164a6214",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "oferta_id": "e8c50088-3250-42ac-bfa5-572bfbb5710f",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-26T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "oferta_id": "eaca5567-15a3-4f15-8d53-c2a5eda4d10e",
+    "producto_nombre": "Arroz Chaufa Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-10T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "oferta_id": "c35f9bc7-8c0b-403e-beb1-95f892ff7aea",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-13T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "oferta_id": "5fe934c0-5c23-491e-abaf-7399aab5e3e1",
+    "combo_id": "47c62a82-279a-419c-868e-7eca8823c570",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "oferta_id": "013477f0-2357-42ef-8d2c-e9328eb1fb55",
+    "combo_id": "47c62a82-279a-419c-868e-7eca8823c570",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-30T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "oferta_id": "b51d8ac9-609a-44bd-be26-6820a55893fe",
+    "producto_nombre": "Wantanes Fritos",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-19T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "oferta_id": "f68f4b40-6e64-4d41-b472-c332d4ec28b5",
+    "producto_nombre": "Chicharrón de Calamar",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "oferta_id": "09bd9669-5468-477d-a05c-820d37fc00e1",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-16T18:35:31.356639",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "oferta_id": "dd7c8253-3e04-4239-b3a2-56b79211b6e5",
+    "combo_id": "c8045907-cec5-454a-a920-e5a13a348c98",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "oferta_id": "e3436c17-0370-48d5-aeca-8382fb71cb6f",
+    "combo_id": "8b050597-7f99-4ac5-a1aa-157822ba4fab",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-15T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "oferta_id": "84886512-edd0-49d3-aac5-4ec15cfbafbc",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-22T18:35:31.356639",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "oferta_id": "cd3eeba4-83d8-4ea9-926b-7fef8835b939",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-14T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "oferta_id": "ab6e0cd1-e2fd-40b7-ba09-a8e5457e748c",
+    "producto_nombre": "Empanaditas Chinas",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-07T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "oferta_id": "319c3994-124c-498f-8ef2-b22dd426758b",
+    "combo_id": "9f66a36e-050b-4409-a5dc-4c82d25f9830",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-24T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "oferta_id": "caaf9644-a838-41d8-a169-5bf99a1094e8",
+    "combo_id": "c8201920-43b6-4d47-9699-c8071a530251",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "oferta_id": "2dbc2f32-c2b6-48f5-b15f-7eb01e6a6e8b",
+    "producto_nombre": "Carne con Verduras al Wok",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "oferta_id": "de8ea9f2-3a52-44f5-81fb-e6cfc3566824",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-23T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "oferta_id": "e103844b-dd00-4737-b383-75f4d0566021",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-27T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "oferta_id": "89b8bd2c-962c-4672-9992-cf1689778ed7",
+    "combo_id": "200ce538-564e-4414-8149-f344928bd1a1",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-07T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "oferta_id": "92e59827-b8a2-4859-9015-55f9da407727",
+    "combo_id": "d5887b57-e829-4d70-92fc-49b1ce1209c3",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-16T18:35:31.356639",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "oferta_id": "25068f25-d625-4672-86a9-5f8fb1940e2b",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "oferta_id": "527d94b7-eacb-4449-ae5f-867fbc0e5a2c",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.356639",
+    "fecha_limite": "2025-12-12T18:35:31.356639",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "oferta_id": "f0ec8a92-fe27-41dd-b471-660ce1d046e6",
+    "producto_nombre": "Chapsui de Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-17T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "oferta_id": "a35aa86e-a048-4a8b-bd6c-abd23e3a1558",
+    "combo_id": "5f23dba8-cdae-41d6-b436-b93ebafddba2",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-29T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "oferta_id": "4b1dc1a1-a3ec-413c-ae6e-108a440249af",
+    "combo_id": "7d9430c9-5e93-47f3-a561-be74cc6dafbb",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-10T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "oferta_id": "902a569a-e6dd-4837-9d0f-166345c17681",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-28T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "oferta_id": "1efad51c-db4a-4f3e-b979-566ed0213038",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-22T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "oferta_id": "c39a1705-6d65-4733-a030-9537d45c47d6",
+    "producto_nombre": "Sopa de Gallina China",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-26T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "oferta_id": "2c4dbd74-1631-434a-a346-c60759d66b5b",
+    "combo_id": "d2b87c21-69bb-42c1-b8cf-32ee5a881c40",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-23T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "oferta_id": "08f26f33-d5f7-4fa3-808f-2f9102692760",
+    "combo_id": "a7d38d14-face-4681-8982-3f854006a26b",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-17T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "oferta_id": "eae28c7d-3df9-4b8c-af92-15ca4dc922a7",
+    "producto_nombre": "Arroz Chaufa de Carne",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-07T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "oferta_id": "6cd36511-fc76-4be3-9cea-4309797dfe65",
+    "producto_nombre": "Arroz Chaufa de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-27T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "oferta_id": "920c1390-e05a-40eb-846d-b12dddb5238f",
+    "producto_nombre": "Wantanes Fritos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-12T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "oferta_id": "32d5f731-bedd-4cfc-a945-5117b33fc5a8",
+    "combo_id": "19005ff0-7af3-4c31-985f-a39de6c2c75b",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-29T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "oferta_id": "8ef0d975-2784-4a25-862b-a7cf125243ee",
+    "combo_id": "19005ff0-7af3-4c31-985f-a39de6c2c75b",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-25T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "oferta_id": "927b92db-e885-40f5-8634-480f21ed2119",
+    "producto_nombre": "Arroz Blanco",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-15T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "oferta_id": "1792f65b-d584-4724-b4b7-d2340248af3d",
+    "producto_nombre": "Carne Mongoliana",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-15T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "oferta_id": "030f8ead-2f53-4fc8-a9a7-c99739a2659f",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-07T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "oferta_id": "c2add829-8f21-4d9b-80f7-823054fb9f89",
+    "combo_id": "a7ea30fc-0c7d-4b8a-9c36-3ae280cbf11b",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-27T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "oferta_id": "da9d6a3f-b5f9-48ea-9764-4e5354f37bbc",
+    "combo_id": "1eadc0a6-ae79-4263-8ae7-f45c850b862d",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-11T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "oferta_id": "20b9acfc-4a1f-4e83-9c4a-4816680cf97a",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-28T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "oferta_id": "110ab7d9-74e7-47a0-9c12-656d8909c05a",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-12T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "oferta_id": "c1e19d7e-8dbd-4026-a350-2babd8483855",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-20T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "oferta_id": "9465cef5-374b-42f1-b421-4f2ce0cde5f6",
+    "combo_id": "6c31b6b8-b10a-42de-9d99-04fd774bf384",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-13T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "oferta_id": "060884f7-e567-45da-a997-4ac1174be1da",
+    "combo_id": "6c31b6b8-b10a-42de-9d99-04fd774bf384",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-30T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "oferta_id": "fcd82962-95e1-4d55-a156-1f744fa357e3",
+    "producto_nombre": "Sopa Min",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-29T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "oferta_id": "1d7160f2-26bc-4931-8841-bda54c2fd0b7",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-18T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "oferta_id": "3bf68344-c337-4288-8bff-0cf545267056",
+    "producto_nombre": "Arroz Blanco",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-11T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "oferta_id": "be074f68-04c1-4e0d-a73c-6cdcbd91e34a",
+    "combo_id": "7b59adbe-2449-4c74-9df3-6b0ea837d638",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-21T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "oferta_id": "45092eb0-c1a9-4b55-bded-ab4f2f151cf4",
+    "combo_id": "f81435e0-c208-45f0-8599-243a8ed73516",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-09T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "oferta_id": "4f4a2a97-1222-497f-b380-278b946d2e9a",
+    "producto_nombre": "Carne con Ostión",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-08T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "oferta_id": "83c0c130-dd05-488e-9693-3e4d90416852",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-27T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "oferta_id": "b9e4ad50-1749-4d3e-99d5-fe1974963047",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-08T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "oferta_id": "6192f55f-775e-4637-ab90-07bc2da9f9cc",
+    "combo_id": "cde05145-6b12-4a4c-860a-6d78f98bd6a7",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-27T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "oferta_id": "2bfc31b1-612e-4b68-bcf1-feb04211c75a",
+    "combo_id": "61d0cc6b-34f2-4fba-a1b6-df364148a8f2",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-26T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "oferta_id": "72335a44-6b6a-4704-857e-522c8b7c14ce",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-22T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "oferta_id": "bdf08e95-79d0-49b1-8499-86dae83c44a3",
+    "producto_nombre": "Siu Mai",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-10T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "oferta_id": "52aece44-d0b7-4be2-b831-ba6d0d0a20b5",
+    "producto_nombre": "Tallarín Saltado Mixto",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-25T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "oferta_id": "7754bf7b-a99d-436c-8eec-7228d42b27cc",
+    "combo_id": "d269f009-ff40-4125-a9b6-d21da2ff645f",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-29T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "oferta_id": "3184ac7d-05db-4137-bafd-051781352ad3",
+    "combo_id": "31ac80e0-dfc1-4f33-91be-63f346379bcb",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-10T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "oferta_id": "06f044ae-64c6-485f-99b9-806fad532d75",
+    "producto_nombre": "Chijaukai de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-28T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "oferta_id": "545c37d5-4359-43d5-b2a1-480a538ba5b4",
+    "producto_nombre": "Agua Mineral 625ml",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-12T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "oferta_id": "44561958-3e23-4403-8f11-d4c557ff9089",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-12T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "oferta_id": "cd7975d0-6e55-42ef-873f-ce923e5db27d",
+    "combo_id": "38949d3c-4622-4327-828a-906987274046",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-14T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "oferta_id": "41c85967-a3f0-43d3-913a-c68ad50f87f2",
+    "combo_id": "fab7509f-6268-4ad4-b132-919363ad04fc",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-17T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "oferta_id": "a7649539-3193-4cbc-9db2-4e77f2b90e2c",
+    "producto_nombre": "Rollitos Primavera",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-17T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "oferta_id": "8bb4c2a8-dbea-4623-8f1d-0f5b0926c6a8",
+    "producto_nombre": "Chancho con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-07T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "oferta_id": "8971a7d6-aeb3-4ebe-8096-dbc364a5ba37",
+    "producto_nombre": "Agua Mineral 625ml",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-14T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "oferta_id": "86043c95-ad20-4d47-ab06-59003967aa79",
+    "combo_id": "aae46dd9-0abe-4a4f-aa6d-5dd1d314b6f5",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-08T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "oferta_id": "a6654235-f1f0-4013-beb9-1509e0debea8",
+    "combo_id": "a794b679-c11b-40f5-ad7f-9419e4883de4",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-28T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "oferta_id": "c3e67fb1-926e-4f0e-a976-2d1b632c3e36",
+    "producto_nombre": "Pollo con Verduras",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-16T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "oferta_id": "4037fc90-0d34-48df-95ce-8e5b780ad1fd",
+    "producto_nombre": "Lomo Saltado",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-11T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "oferta_id": "dd726373-8203-447d-8b89-cb18c3a3fc8d",
+    "producto_nombre": "Helado de Lúcuma",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-23T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "oferta_id": "b76c543d-3338-4de8-88f2-68ef5a787a20",
+    "combo_id": "89bd536d-3e40-45db-b939-f9b4e7353c4f",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-28T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "oferta_id": "0bb0fcf3-daba-4f3c-afa5-80e9207ac1c9",
+    "combo_id": "9920ba48-52d5-48d4-8797-f0114d0c1b79",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-23T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "oferta_id": "d345b4d4-3b89-44b7-9749-258783eed9a9",
+    "producto_nombre": "Tallarín Saltado de Pollo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-27T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "oferta_id": "8ee820d0-432d-4263-afa4-b7859746532f",
+    "producto_nombre": "Chijaukai de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-11T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "oferta_id": "cbc0c8ca-8b22-4039-919c-ddd511a751ed",
+    "producto_nombre": "Arroz Chaufa de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-21T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "oferta_id": "c142997a-d554-420b-879c-cf59255d7437",
+    "combo_id": "6309d183-69e2-46c7-972f-107841f69d82",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-23T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "oferta_id": "f4b4360b-ab73-49f2-96de-07e0271c1875",
+    "combo_id": "6309d183-69e2-46c7-972f-107841f69d82",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-28T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "oferta_id": "2543236e-afa9-4684-af66-c06d321f9826",
+    "producto_nombre": "Chijaukai de Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-23T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "oferta_id": "4d05d544-decb-4fef-bd14-ffb34b8e2913",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-08T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "oferta_id": "78205898-dd86-4185-b8e6-64a9ad68fae6",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-16T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "oferta_id": "cbb5b348-26d8-4129-bd8d-4f8be3813261",
+    "combo_id": "8d6dd35e-4be4-4229-ad65-619da7881e8f",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-10T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "oferta_id": "6715b495-ae16-405c-a5b3-2e52985e814c",
+    "combo_id": "8d6dd35e-4be4-4229-ad65-619da7881e8f",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-29T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "oferta_id": "6bf9c860-20d0-4ed9-9746-63adc1ac5599",
+    "producto_nombre": "Arroz con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-16T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "oferta_id": "4cd6394d-9557-43f9-a7a2-ba632376eb2d",
+    "producto_nombre": "Tallarín con Mariscos",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-10T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "oferta_id": "cda7eaac-9385-4b4a-b1cf-a1932861425f",
+    "producto_nombre": "Té Helado 500ml",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-22T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "oferta_id": "5e7c5b10-8216-43b9-a789-63d36c5755a5",
+    "combo_id": "baba7e77-8aa3-4cba-8c64-e47f2b324837",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-07T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "oferta_id": "8e997641-fdcc-41e1-85ae-f5646e1f065b",
+    "combo_id": "8c800541-61ab-4ad9-8ca3-1d0dad85cc0e",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-10T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "oferta_id": "c42147e4-61e0-4404-92cc-e69f9c532456",
+    "producto_nombre": "Cerdo Agridulce",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-23T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "oferta_id": "1f43ce88-080d-4591-af93-1fa5b71b12db",
+    "producto_nombre": "Mazamorra Morada",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-21T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "oferta_id": "f2dadf58-6da2-46fe-a095-f305c665a8d8",
+    "producto_nombre": "Sopa Wantán",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-16T18:35:31.357638",
+    "porcentaje_descuento": 25
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "oferta_id": "2ab62f37-35c4-49d3-933a-ac26dd5e3fef",
+    "combo_id": "bb7c0a2b-ccaf-4f2f-b6a7-fc6215bc31d3",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-23T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "oferta_id": "cd248c82-6c03-4380-9840-3f507ff5c660",
+    "combo_id": "a80dcbfa-6445-4d91-84f5-1428edca52e8",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-28T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "oferta_id": "5723b0b6-c0d4-49b1-ba3d-6ff0abf91684",
+    "producto_nombre": "Camarones al Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-24T18:35:31.357638",
+    "porcentaje_descuento": 20
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "oferta_id": "7b4c19b7-bdfd-4b70-a6bc-da1fa1a9cf40",
+    "producto_nombre": "Inca Kola 1.5L",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-18T18:35:31.357638",
+    "porcentaje_descuento": 30
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "oferta_id": "72afb2f2-8e4e-4b5f-a95d-4b8d1d28aaf8",
+    "producto_nombre": "Pollo con Tamarindo",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-20T18:35:31.357638",
+    "porcentaje_descuento": 10
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "oferta_id": "62ee3cb2-6818-46fd-ad39-5be8e2e81ac0",
+    "combo_id": "f55966a5-4f3e-4e94-be6c-46f67d9b5769",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-15T18:35:31.357638",
+    "porcentaje_descuento": 15
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "oferta_id": "0c898960-74e6-4d42-8410-1d736408fc58",
+    "combo_id": "864f88cf-d991-4f78-af83-6ba544138014",
+    "fecha_inicio": "2025-11-30T18:35:31.357638",
+    "fecha_limite": "2025-12-17T18:35:31.357638",
+    "porcentaje_descuento": 20
+  }
+]

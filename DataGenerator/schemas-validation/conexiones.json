@@ -1,0 +1,41 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "WebSocket Connection",
+    "description": "Schema para conexiones WebSocket activas de usuarios",
+    "type": "object",
+    "x-dynamodb": {
+        "partition_key": "usuario_correo",
+        "sort_key": "pedido_id"
+    },
+    "properties": {
+        "usuario_correo": {
+            "type": "string",
+            "format": "email",
+            "description": "Email del usuario conectado (Partition Key)"
+        },
+        "connection_id": {
+            "type": "string",
+            "description": "ID único de conexión de API Gateway WebSocket (Sort Key)"
+        },
+        "connected_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "Timestamp ISO 8601 de cuándo se estableció la conexión"
+        },
+        "pedido_id": {
+            "type": "string",
+            "description": "ID del pedido que está rastreando (opcional)"
+        },
+        "ttl": {
+            "type": "number",
+            "description": "Timestamp Unix para auto-eliminación (24 horas desde conexión)"
+        }
+    },
+    "required": [
+        "usuario_correo",
+        "connection_id",
+        "connected_at",
+        "pedido_id"
+    ],
+    "additionalProperties": false
+}

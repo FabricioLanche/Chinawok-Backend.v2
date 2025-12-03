@@ -1,0 +1,5982 @@
+[
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "combo_id": "f96a8432-7314-4ef5-a36e-9c0504bf15d6",
+    "nombre": "Combo f96a8432",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 40.37,
+    "disponible": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "7bbd24d4-1a1d-4ade-84d4-2c85fb639685",
+    "nombre": "Combo 7bbd24d4",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Helado de Lúcuma",
+      "Cerdo Agridulce"
+    ],
+    "precio": 88.6,
+    "disponible": true
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "combo_id": "f099accb-96ce-4af8-9929-be1efe9e5c58",
+    "nombre": "Combo f099accb",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Picarones",
+      "Rollitos Primavera",
+      "Chicha Morada 1L"
+    ],
+    "precio": 106.15,
+    "disponible": true
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "combo_id": "864f88cf-d991-4f78-af83-6ba544138014",
+    "nombre": "Combo 864f88cf",
+    "productos_nombres": [
+      "Inca Kola 1.5L",
+      "Arroz Chaufa de Pollo",
+      "Tallarín Saltado de Pollo",
+      "Arroz Chaufa de Carne"
+    ],
+    "precio": 81.7,
+    "disponible": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "9154ab49-a1e1-43b0-860b-ef2098f91f1e",
+    "nombre": "Combo 9154ab49",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Chicharrón de Calamar",
+      "Pollo con Verduras",
+      "Empanaditas Chinas"
+    ],
+    "precio": 113.92,
+    "disponible": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "combo_id": "a52db142-757f-4197-b329-5f275fbf8e68",
+    "nombre": "Combo a52db142",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Chicha Morada 1L"
+    ],
+    "precio": 66.68,
+    "disponible": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "combo_id": "ca199be1-627c-4379-ae37-4930f19ec552",
+    "nombre": "Combo ca199be1",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Chicha Morada 1L",
+      "Sopa Wantán"
+    ],
+    "precio": 80.71,
+    "disponible": true
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "combo_id": "c2d84f55-a63e-4218-b633-be677ad6f4b4",
+    "nombre": "Combo c2d84f55",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Picarones",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 71.92,
+    "disponible": true
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "combo_id": "fb69dbb4-2872-4d08-8eef-4fedaefee9b9",
+    "nombre": "Combo fb69dbb4",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Wantán Frito",
+      "Mazamorra Morada"
+    ],
+    "precio": 78.42,
+    "disponible": true
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "combo_id": "ae2ecbc1-2d97-466c-b2da-ae0424991f47",
+    "nombre": "Combo ae2ecbc1",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Chapsui de Verduras",
+      "Carne con Ostión",
+      "Wantán Frito"
+    ],
+    "precio": 82.61,
+    "disponible": true
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "combo_id": "41a0e67e-6ed7-4a1e-8c5f-eb99014c8f0d",
+    "nombre": "Combo 41a0e67e",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Sopa Wantán",
+      "Arroz Chaufa de Carne",
+      "Té Helado 500ml"
+    ],
+    "precio": 108.57,
+    "disponible": true
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "combo_id": "fb08aa38-c50b-4f87-a15a-ab2c09cfe1a7",
+    "nombre": "Combo fb08aa38",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Chicha Morada 1L",
+      "Agua Mineral 625ml",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 118.01,
+    "disponible": true
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "combo_id": "a2fbb14a-eb83-4942-9560-e93fe2fa13c2",
+    "nombre": "Combo a2fbb14a",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 46.01,
+    "disponible": true
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "combo_id": "4a658c14-ffeb-496d-8053-6a709d76ac22",
+    "nombre": "Combo 4a658c14",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Cerdo Agridulce",
+      "Helado de Lúcuma"
+    ],
+    "precio": 69.06,
+    "disponible": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "combo_id": "18e293e3-eb72-4e31-828f-c4621b7b1f99",
+    "nombre": "Combo 18e293e3",
+    "productos_nombres": [
+      "Inca Kola 1.5L",
+      "Sopa Wantán",
+      "Sopa Min"
+    ],
+    "precio": 83.38,
+    "disponible": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "combo_id": "391e0a2a-e327-484c-a5dc-80e59ef36c4d",
+    "nombre": "Combo 391e0a2a",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Cerdo Agridulce"
+    ],
+    "precio": 29.38,
+    "disponible": true
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "combo_id": "8aedd3cc-8434-4dce-98cf-c2d46e88c2bf",
+    "nombre": "Combo 8aedd3cc",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Lomo Saltado"
+    ],
+    "precio": 36.99,
+    "disponible": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "combo_id": "a7234ef2-71ad-4c41-9947-a646d5aee8d5",
+    "nombre": "Combo a7234ef2",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Té Helado 500ml",
+      "Chijaukai de Mariscos",
+      "Cerdo Agridulce"
+    ],
+    "precio": 98.81,
+    "disponible": false
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "combo_id": "7d6dcc74-b710-422b-9029-592e0c0c9a1b",
+    "nombre": "Combo 7d6dcc74",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Cerdo al Sillao"
+    ],
+    "precio": 40.7,
+    "disponible": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "combo_id": "7a961c56-e4fe-43bf-894f-362fa6377dea",
+    "nombre": "Combo 7a961c56",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Pollo con Verduras",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 55.13,
+    "disponible": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "combo_id": "56261abf-b80f-41b9-9a9f-aa6d482e1533",
+    "nombre": "Combo 56261abf",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Inca Kola 1.5L",
+      "Chijaukai de Mariscos",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 85.37,
+    "disponible": true
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "combo_id": "38949d3c-4622-4327-828a-906987274046",
+    "nombre": "Combo 38949d3c",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Inca Kola 1.5L",
+      "Tallarín Saltado Mixto",
+      "Arroz con Mariscos"
+    ],
+    "precio": 73.44,
+    "disponible": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "combo_id": "54df5830-9f60-4257-a5d9-60456efbb224",
+    "nombre": "Combo 54df5830",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 40.62,
+    "disponible": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "combo_id": "8cd34eeb-df31-4f7c-8c68-e8debde1f904",
+    "nombre": "Combo 8cd34eeb",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Cerdo Agridulce",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 68.65,
+    "disponible": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "d52ef9d9-bb49-4331-bbe3-19ff637a90d7",
+    "nombre": "Combo d52ef9d9",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Arroz con Mariscos",
+      "Pollo Chi Jau Kay",
+      "Helado de Lúcuma"
+    ],
+    "precio": 88.72,
+    "disponible": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "combo_id": "aae46dd9-0abe-4a4f-aa6d-5dd1d314b6f5",
+    "nombre": "Combo aae46dd9",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Rollitos Primavera"
+    ],
+    "precio": 58.23,
+    "disponible": true
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "c99f8f6b-2fcf-4ef3-9fb7-3e9417a88568",
+    "nombre": "Combo c99f8f6b",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 27.37,
+    "disponible": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "combo_id": "8892b4b6-4c7e-4bd7-b724-1bbd7b52470c",
+    "nombre": "Combo 8892b4b6",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Chancho con Tamarindo",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 87.38,
+    "disponible": true
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "combo_id": "fcfb366e-e306-4947-8e2e-ae442c4f9270",
+    "nombre": "Combo fcfb366e",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Chicharrón de Calamar",
+      "Pollo con Tamarindo",
+      "Lomo Saltado"
+    ],
+    "precio": 119.03,
+    "disponible": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "combo_id": "9d9031af-ea79-40e3-a79f-a63bc1291f8a",
+    "nombre": "Combo 9d9031af",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Chapsui de Verduras",
+      "Chijaukai de Mariscos",
+      "Chicha Morada 1L"
+    ],
+    "precio": 103.25,
+    "disponible": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "combo_id": "f81435e0-c208-45f0-8599-243a8ed73516",
+    "nombre": "Combo f81435e0",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Mazamorra Morada",
+      "Wantanes Fritos"
+    ],
+    "precio": 76.53,
+    "disponible": false
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "combo_id": "9493ed7d-4344-4cd6-9c45-e8985cca5dff",
+    "nombre": "Combo 9493ed7d",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 28.07,
+    "disponible": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "8a95c157-5528-4779-aa76-a275d4ac02b1",
+    "nombre": "Combo 8a95c157",
+    "productos_nombres": [
+      "Picarones",
+      "Pollo Chi Jau Kay",
+      "Carne con Ostión"
+    ],
+    "precio": 53.81,
+    "disponible": true
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "combo_id": "d6fb38ec-5d63-4774-b3cb-ff9f6260f4db",
+    "nombre": "Combo d6fb38ec",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 55.43,
+    "disponible": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "combo_id": "0cd42c78-6489-4b81-995c-2ddd2145256b",
+    "nombre": "Combo 0cd42c78",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Arroz con Mariscos"
+    ],
+    "precio": 42.18,
+    "disponible": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "combo_id": "085f8c21-81bb-4b72-a776-467773f81087",
+    "nombre": "Combo 085f8c21",
+    "productos_nombres": [
+      "Picarones",
+      "Mazamorra Morada",
+      "Sopa Wantán",
+      "Wantán Frito"
+    ],
+    "precio": 109.06,
+    "disponible": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "6c31b6b8-b10a-42de-9d99-04fd774bf384",
+    "nombre": "Combo 6c31b6b8",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Camarones al Tamarindo",
+      "Wantán Frito",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 72.08,
+    "disponible": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "combo_id": "1f762780-ef4e-4e6f-8f94-c0a5df449c3c",
+    "nombre": "Combo 1f762780",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Tallarín Saltado de Pollo",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 51.94,
+    "disponible": true
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "combo_id": "946e7edb-1403-476c-8cd1-e16befbcb68d",
+    "nombre": "Combo 946e7edb",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Cerdo al Sillao"
+    ],
+    "precio": 53.45,
+    "disponible": true
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "combo_id": "913b9c81-8f05-424e-818a-0f8a31d6bbe6",
+    "nombre": "Combo 913b9c81",
+    "productos_nombres": [
+      "Inca Kola 1.5L",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 48.51,
+    "disponible": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "combo_id": "d0b5772f-3467-4b11-9290-e5a4a7a6f9ca",
+    "nombre": "Combo d0b5772f",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Chapsui de Verduras",
+      "Wantanes Fritos"
+    ],
+    "precio": 67.55,
+    "disponible": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "combo_id": "d963eb37-f007-449b-a344-3ac5a89853f9",
+    "nombre": "Combo d963eb37",
+    "productos_nombres": [
+      "Picarones",
+      "Tallarín con Mariscos",
+      "Wantán Frito"
+    ],
+    "precio": 67.92,
+    "disponible": true
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "combo_id": "91cba44d-4798-491f-8047-a3890467188a",
+    "nombre": "Combo 91cba44d",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 74.68,
+    "disponible": true
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "combo_id": "21c55dd9-39be-40ce-9296-9bb6bec4aee0",
+    "nombre": "Combo 21c55dd9",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Mazamorra Morada",
+      "Wantán Frito",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 120.85,
+    "disponible": true
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "combo_id": "010fc6ab-7ef1-4fe9-a7ce-0d53b4105e7d",
+    "nombre": "Combo 010fc6ab",
+    "productos_nombres": [
+      "Sopa Min",
+      "Arroz Chaufa de Pollo",
+      "Inca Kola 1.5L",
+      "Arroz Blanco"
+    ],
+    "precio": 86.13,
+    "disponible": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "combo_id": "ac53732e-b879-42bc-9e65-3967d8f637d0",
+    "nombre": "Combo ac53732e",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Agua Mineral 625ml",
+      "Picarones",
+      "Lomo Saltado"
+    ],
+    "precio": 82.17,
+    "disponible": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "combo_id": "b0cf0121-5383-4a65-bef3-8a01d62a761a",
+    "nombre": "Combo b0cf0121",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Chancho con Tamarindo",
+      "Lomo Saltado"
+    ],
+    "precio": 98.08,
+    "disponible": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "combo_id": "89659035-c132-4bcf-b7a4-afb2c1c9ecd1",
+    "nombre": "Combo 89659035",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Arroz Chaufa de Carne",
+      "Chancho con Tamarindo",
+      "Empanaditas Chinas"
+    ],
+    "precio": 127.46,
+    "disponible": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "660caf81-bc3c-483e-ab6e-d98b4211df23",
+    "nombre": "Combo 660caf81",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Chicha Morada 1L",
+      "Agua Mineral 625ml",
+      "Chapsui de Verduras"
+    ],
+    "precio": 106.55,
+    "disponible": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "combo_id": "8b050597-7f99-4ac5-a1aa-157822ba4fab",
+    "nombre": "Combo 8b050597",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Tallarín Saltado de Carne",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 74.41,
+    "disponible": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "combo_id": "c8201920-43b6-4d47-9699-c8071a530251",
+    "nombre": "Combo c8201920",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 62.35,
+    "disponible": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "combo_id": "8937ae02-2ede-4553-9f7e-cc7e43f33b67",
+    "nombre": "Combo 8937ae02",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Camarones al Tamarindo",
+      "Wantanes Fritos"
+    ],
+    "precio": 51.24,
+    "disponible": true
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "combo_id": "92947ed6-3740-4848-904e-01180f7b42c7",
+    "nombre": "Combo 92947ed6",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Sopa Wantán",
+      "Sopa Min",
+      "Cerdo al Sillao"
+    ],
+    "precio": 108.25,
+    "disponible": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "combo_id": "0da9593b-6504-4bdb-bb7e-79f01deb61b2",
+    "nombre": "Combo 0da9593b",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Arroz Blanco",
+      "Cerdo Agridulce"
+    ],
+    "precio": 72.5,
+    "disponible": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "2e5754c8-b218-4b5c-896d-d6a11368872f",
+    "nombre": "Combo 2e5754c8",
+    "productos_nombres": [
+      "Siu Mai",
+      "Cerdo al Sillao",
+      "Pollo con Verduras"
+    ],
+    "precio": 53.25,
+    "disponible": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "combo_id": "d5887b57-e829-4d70-92fc-49b1ce1209c3",
+    "nombre": "Combo d5887b57",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Wantanes Fritos",
+      "Pollo con Verduras"
+    ],
+    "precio": 64.86,
+    "disponible": true
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "combo_id": "9740d98b-47dc-4bdb-9dac-d30a319c6cea",
+    "nombre": "Combo 9740d98b",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 33.29,
+    "disponible": true
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "combo_id": "06a7687c-90e9-4272-8b75-1fd54501b250",
+    "nombre": "Combo 06a7687c",
+    "productos_nombres": [
+      "Siu Mai",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 18.21,
+    "disponible": true
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "combo_id": "4fe9ec95-4b71-4317-9aee-eadf36dabeb6",
+    "nombre": "Combo 4fe9ec95",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Sopa de Gallina China",
+      "Mazamorra Morada",
+      "Sopa Wantán"
+    ],
+    "precio": 122.75,
+    "disponible": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "combo_id": "38330ef8-cc76-4b93-9117-19436fed86f1",
+    "nombre": "Combo 38330ef8",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Arroz Chaufa de Pollo",
+      "Lomo Saltado"
+    ],
+    "precio": 75.08,
+    "disponible": true
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "combo_id": "426fbc42-c6b1-46ef-808d-d9db720ed2cb",
+    "nombre": "Combo 426fbc42",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Tallarín Saltado de Pollo",
+      "Siu Mai"
+    ],
+    "precio": 39.03,
+    "disponible": true
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "combo_id": "53d8faa0-9e26-4d02-a9ee-bd0aaef8e7f5",
+    "nombre": "Combo 53d8faa0",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Pollo con Verduras"
+    ],
+    "precio": 45.85,
+    "disponible": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "c3b40abe-e021-4fc6-ac4e-bc93aa41a0df",
+    "nombre": "Combo c3b40abe",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Sopa de Gallina China"
+    ],
+    "precio": 48.97,
+    "disponible": true
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "combo_id": "f5fd77fd-befd-4eaa-b3e0-80d1dd8be638",
+    "nombre": "Combo f5fd77fd",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Tallarín Saltado de Carne",
+      "Wantán Frito"
+    ],
+    "precio": 81.2,
+    "disponible": true
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "combo_id": "1858f447-ec22-49d6-a62f-1ba0bab64abd",
+    "nombre": "Combo 1858f447",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 52.81,
+    "disponible": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "combo_id": "afe43aea-dbf3-4a6b-9126-6bd908b1914a",
+    "nombre": "Combo afe43aea",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 64.39,
+    "disponible": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "combo_id": "507c8894-4ae7-40f8-961c-0461c9575d72",
+    "nombre": "Combo 507c8894",
+    "productos_nombres": [
+      "Picarones",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 48.68,
+    "disponible": true
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "combo_id": "98350fdf-6c05-451e-90d4-88f8c1933379",
+    "nombre": "Combo 98350fdf",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Siu Mai",
+      "Chicha Morada 1L",
+      "Carne Mongoliana"
+    ],
+    "precio": 105.73,
+    "disponible": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "combo_id": "6309d183-69e2-46c7-972f-107841f69d82",
+    "nombre": "Combo 6309d183",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Chijaukai de Mariscos",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 92.51,
+    "disponible": true
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "1c1aabbc-e0aa-49c6-a404-a0e5720b124a",
+    "nombre": "Combo 1c1aabbc",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Rollitos Primavera",
+      "Tallarín con Mariscos",
+      "Arroz con Mariscos"
+    ],
+    "precio": 113.55,
+    "disponible": true
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "combo_id": "d79a9a66-fa91-424c-9b64-ae4f3419c3cf",
+    "nombre": "Combo d79a9a66",
+    "productos_nombres": [
+      "Siu Mai",
+      "Arroz Chaufa de Carne",
+      "Chicharrón de Calamar",
+      "Carne con Ostión"
+    ],
+    "precio": 65.52,
+    "disponible": true
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "combo_id": "936aca61-f5ca-4886-a992-8f410db9fbac",
+    "nombre": "Combo 936aca61",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Tallarín Saltado de Carne",
+      "Wantán Frito"
+    ],
+    "precio": 66.8,
+    "disponible": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "combo_id": "90b1357f-8b78-452e-9ea2-c749053bd018",
+    "nombre": "Combo 90b1357f",
+    "productos_nombres": [
+      "Picarones",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 43.08,
+    "disponible": false
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "combo_id": "8d6dd35e-4be4-4229-ad65-619da7881e8f",
+    "nombre": "Combo 8d6dd35e",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Arroz Chaufa de Pollo",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 73.06,
+    "disponible": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "c3d50faa-6297-4b0f-9f99-f6380146a34d",
+    "nombre": "Combo c3d50faa",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Lomo Saltado",
+      "Arroz con Mariscos",
+      "Siu Mai"
+    ],
+    "precio": 75.44,
+    "disponible": true
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "combo_id": "1f45eb1a-9641-4b51-8113-8b9c9d712da8",
+    "nombre": "Combo 1f45eb1a",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Arroz con Mariscos",
+      "Wantanes Fritos"
+    ],
+    "precio": 55.11,
+    "disponible": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "combo_id": "aeb4ab23-a279-4491-a9e8-8f003269a41b",
+    "nombre": "Combo aeb4ab23",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 52.97,
+    "disponible": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "combo_id": "6beefb27-1ae4-4577-a727-d3df9dbb30ee",
+    "nombre": "Combo 6beefb27",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Chapsui de Verduras",
+      "Arroz Chaufa de Pollo",
+      "Siu Mai"
+    ],
+    "precio": 78.73,
+    "disponible": true
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "combo_id": "90fb73eb-baed-4564-8767-199360b818fa",
+    "nombre": "Combo 90fb73eb",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Wantanes Fritos",
+      "Arroz Chaufa de Carne",
+      "Mazamorra Morada"
+    ],
+    "precio": 106.15,
+    "disponible": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "combo_id": "e954a5d6-6526-4b8f-9895-c11df37ada13",
+    "nombre": "Combo e954a5d6",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Pollo con Tamarindo",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 86.3,
+    "disponible": true
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "combo_id": "4c54865f-c65b-42c5-bf2a-b7bedb743350",
+    "nombre": "Combo 4c54865f",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Siu Mai"
+    ],
+    "precio": 30.21,
+    "disponible": true
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "combo_id": "1216109b-7e56-40a8-a551-21fe5d7ed2c9",
+    "nombre": "Combo 1216109b",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Mazamorra Morada"
+    ],
+    "precio": 52.31,
+    "disponible": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "combo_id": "fbb02736-eda3-4ce0-a183-7393480badf3",
+    "nombre": "Combo fbb02736",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Wantán Frito"
+    ],
+    "precio": 64.62,
+    "disponible": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "combo_id": "055d4b9c-e5b4-4a4a-9b38-d8aab44e8b55",
+    "nombre": "Combo 055d4b9c",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Chancho con Tamarindo",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 99.52,
+    "disponible": true
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "combo_id": "e02101c0-eff4-4def-951a-ea7e163b6e5d",
+    "nombre": "Combo e02101c0",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Tallarín Saltado de Pollo",
+      "Arroz Chaufa de Pollo",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 75.31,
+    "disponible": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "7585b46f-e0ad-41e3-8e97-ae2ca3036a91",
+    "nombre": "Combo 7585b46f",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 60.87,
+    "disponible": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "6418dc76-d9c2-4ef0-8743-1d815f960d3e",
+    "nombre": "Combo 6418dc76",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Sopa de Gallina China",
+      "Agua Mineral 625ml",
+      "Pollo con Verduras"
+    ],
+    "precio": 103.37,
+    "disponible": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "combo_id": "e572d566-74b1-4775-bb85-6a7f39c9ace5",
+    "nombre": "Combo e572d566",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Lomo Saltado",
+      "Sopa Wantán",
+      "Picarones"
+    ],
+    "precio": 94.08,
+    "disponible": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "75606dd8-d423-4041-abbd-89c4bbbc45be",
+    "nombre": "Combo 75606dd8",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Tallarín con Mariscos",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 60.8,
+    "disponible": true
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "91b7cfef-fd7e-4fba-aa4f-83697ab7e376",
+    "nombre": "Combo 91b7cfef",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Carne Mongoliana",
+      "Chijaukai de Mariscos",
+      "Arroz Chaufa de Carne"
+    ],
+    "precio": 120.87,
+    "disponible": true
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "combo_id": "6c7b1184-637b-4b83-95b5-9211ef8d2564",
+    "nombre": "Combo 6c7b1184",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Wantanes Fritos",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 65.08,
+    "disponible": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "combo_id": "60575cd3-9d75-4183-a8b5-e8336f44cdcb",
+    "nombre": "Combo 60575cd3",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Chicharrón de Calamar",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 64.67,
+    "disponible": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "combo_id": "7be3cfe4-65f7-4f38-86b5-3e95db2ae8c9",
+    "nombre": "Combo 7be3cfe4",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Chicha Morada 1L",
+      "Carne Mongoliana",
+      "Mazamorra Morada"
+    ],
+    "precio": 113.81,
+    "disponible": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "combo_id": "86abdbfb-fd70-4d40-a2b6-70265e227dcf",
+    "nombre": "Combo 86abdbfb",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Sopa Min",
+      "Arroz Chaufa de Carne",
+      "Sopa Wantán"
+    ],
+    "precio": 143.2,
+    "disponible": true
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "combo_id": "7abf4d21-1643-4dc3-aa66-defdc74af69c",
+    "nombre": "Combo 7abf4d21",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Chicha Morada 1L",
+      "Sopa de Gallina China",
+      "Sopa Wantán"
+    ],
+    "precio": 140.78,
+    "disponible": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "combo_id": "11ffa266-fd66-48a9-8115-8134cd1b6c08",
+    "nombre": "Combo 11ffa266",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Sopa Wantán"
+    ],
+    "precio": 50.61,
+    "disponible": true
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "combo_id": "94801933-7012-48b1-aa67-c15f12a168ab",
+    "nombre": "Combo 94801933",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Arroz Chaufa Mixto",
+      "Té Helado 500ml"
+    ],
+    "precio": 62.56,
+    "disponible": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "58684663-19dd-475a-b965-e08ece769918",
+    "nombre": "Combo 58684663",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 68.9,
+    "disponible": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "combo_id": "1eadc0a6-ae79-4263-8ae7-f45c850b862d",
+    "nombre": "Combo 1eadc0a6",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Chicha Morada 1L"
+    ],
+    "precio": 53.68,
+    "disponible": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "4559027a-3b7b-448f-bd22-cb5f91e10606",
+    "nombre": "Combo 4559027a",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Helado de Lúcuma",
+      "Arroz Blanco"
+    ],
+    "precio": 71.08,
+    "disponible": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "combo_id": "a80dcbfa-6445-4d91-84f5-1428edca52e8",
+    "nombre": "Combo a80dcbfa",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Arroz Chaufa de Carne"
+    ],
+    "precio": 59.32,
+    "disponible": true
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "combo_id": "f46b6188-59c9-4bf0-912c-dffa8098768f",
+    "nombre": "Combo f46b6188",
+    "productos_nombres": [
+      "Picarones",
+      "Arroz Chaufa de Carne"
+    ],
+    "precio": 42.98,
+    "disponible": true
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "combo_id": "e437f682-7a90-4445-b7eb-4a92ae326e22",
+    "nombre": "Combo e437f682",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Empanaditas Chinas",
+      "Arroz Chaufa de Carne",
+      "Chapsui de Verduras"
+    ],
+    "precio": 125.17,
+    "disponible": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "combo_id": "b6de0111-239c-48da-8ae5-bd33de722661",
+    "nombre": "Combo b6de0111",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Camarones al Tamarindo",
+      "Pollo Chi Jau Kay",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 65.54,
+    "disponible": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "392cafad-d2c1-4f05-a179-b70144c06f94",
+    "nombre": "Combo 392cafad",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Wantanes Fritos"
+    ],
+    "precio": 56.47,
+    "disponible": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "combo_id": "33bef943-d286-4ddc-b129-6d3ac1dd2382",
+    "nombre": "Combo 33bef943",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Cerdo Agridulce",
+      "Inca Kola 1.5L",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 76.02,
+    "disponible": true
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "3e784d99-2524-4b0a-b18d-1fa763fa1462",
+    "nombre": "Combo 3e784d99",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Mazamorra Morada"
+    ],
+    "precio": 67.35,
+    "disponible": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "combo_id": "9920ba48-52d5-48d4-8797-f0114d0c1b79",
+    "nombre": "Combo 9920ba48",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Empanaditas Chinas"
+    ],
+    "precio": 71.43,
+    "disponible": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "combo_id": "af2fd810-437d-4e29-bd82-dbf36e61e748",
+    "nombre": "Combo af2fd810",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Arroz Chaufa de Carne",
+      "Carne Mongoliana",
+      "Té Helado 500ml"
+    ],
+    "precio": 118.37,
+    "disponible": true
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "combo_id": "75e2259a-16ab-4c63-8cf0-2c73535c7adc",
+    "nombre": "Combo 75e2259a",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 36.49,
+    "disponible": true
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "combo_id": "9f854a92-ba4a-44c5-b032-3307579f5a1f",
+    "nombre": "Combo 9f854a92",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Arroz Chaufa Especial",
+      "Arroz Chaufa de Carne",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 96.36,
+    "disponible": true
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "combo_id": "c9c5aa88-67d3-43bf-a0fb-d89bb47abd1a",
+    "nombre": "Combo c9c5aa88",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Mazamorra Morada",
+      "Empanaditas Chinas",
+      "Pollo con Verduras"
+    ],
+    "precio": 106.72,
+    "disponible": true
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "combo_id": "7a38e1e6-bab4-4406-8409-d14ccfddec6b",
+    "nombre": "Combo 7a38e1e6",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Pollo Tipakay"
+    ],
+    "precio": 76.83,
+    "disponible": false
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "combo_id": "7f4baaaa-cd6d-4bc6-b1c9-b5263a1a68be",
+    "nombre": "Combo 7f4baaaa",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Sopa Min"
+    ],
+    "precio": 55.4,
+    "disponible": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "combo_id": "7053c4d4-4b82-4c71-aa21-ce7d4a73f9ce",
+    "nombre": "Combo 7053c4d4",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Lomo Saltado",
+      "Picarones",
+      "Sopa de Gallina China"
+    ],
+    "precio": 69.33,
+    "disponible": true
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "combo_id": "e93f5ebe-d77e-4d56-a1cb-efeaa1974947",
+    "nombre": "Combo e93f5ebe",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Té Helado 500ml",
+      "Cerdo Agridulce"
+    ],
+    "precio": 63.42,
+    "disponible": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "combo_id": "de2b2754-fa3a-4e69-8906-bb5294d55763",
+    "nombre": "Combo de2b2754",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Arroz Blanco",
+      "Pollo con Tamarindo",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 117.19,
+    "disponible": true
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "1c128deb-c860-43ea-9559-65da39d2781a",
+    "nombre": "Combo 1c128deb",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Siu Mai"
+    ],
+    "precio": 34.12,
+    "disponible": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "combo_id": "d2b87c21-69bb-42c1-b8cf-32ee5a881c40",
+    "nombre": "Combo d2b87c21",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 63.44,
+    "disponible": true
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "dc803051-904c-402e-bfdd-2b05c3cd393e",
+    "nombre": "Combo dc803051",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Helado de Lúcuma",
+      "Arroz Chaufa Mixto",
+      "Wantanes Fritos"
+    ],
+    "precio": 111.31,
+    "disponible": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "combo_id": "10aa0000-9efd-49a5-aa18-b06c35edd88a",
+    "nombre": "Combo 10aa0000",
+    "productos_nombres": [
+      "Siu Mai",
+      "Chicha Morada 1L"
+    ],
+    "precio": 42.92,
+    "disponible": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "6be63145-07dc-407f-9eef-c117bd8cebe9",
+    "nombre": "Combo 6be63145",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Pollo con Verduras",
+      "Arroz Chaufa Mixto",
+      "Té Helado 500ml"
+    ],
+    "precio": 96.47,
+    "disponible": false
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "combo_id": "17de26fb-33e6-476c-a4d0-d8b5430ea832",
+    "nombre": "Combo 17de26fb",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 69.42,
+    "disponible": false
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "combo_id": "69a9daaa-a2f8-4fc6-a1a1-f755e27e46f7",
+    "nombre": "Combo 69a9daaa",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Pollo con Tamarindo",
+      "Pollo Tipakay"
+    ],
+    "precio": 73.1,
+    "disponible": true
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "combo_id": "dcad5ddb-74a4-4aea-9f3f-fe9afe8c70fc",
+    "nombre": "Combo dcad5ddb",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Empanaditas Chinas",
+      "Pollo con Verduras"
+    ],
+    "precio": 63.89,
+    "disponible": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "combo_id": "8c800541-61ab-4ad9-8ca3-1d0dad85cc0e",
+    "nombre": "Combo 8c800541",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 51.68,
+    "disponible": true
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "combo_id": "50586678-1d84-4816-a6da-f4c377672340",
+    "nombre": "Combo 50586678",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Chijaukai de Mariscos",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 70.86,
+    "disponible": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "combo_id": "0c7411f8-cdea-4388-86a7-132e252d6443",
+    "nombre": "Combo 0c7411f8",
+    "productos_nombres": [
+      "Siu Mai",
+      "Mazamorra Morada",
+      "Tallarín Saltado Mixto",
+      "Arroz Blanco"
+    ],
+    "precio": 72.07,
+    "disponible": true
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "combo_id": "1d97ee3b-7131-430f-8b0b-3e27324109a1",
+    "nombre": "Combo 1d97ee3b",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Tallarín Saltado Mixto",
+      "Chapsui de Verduras"
+    ],
+    "precio": 67.28,
+    "disponible": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "combo_id": "42aaf4c0-c57a-4918-a1f0-0ae59b942ad2",
+    "nombre": "Combo 42aaf4c0",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Tallarín Saltado de Carne",
+      "Rollitos Primavera",
+      "Mazamorra Morada"
+    ],
+    "precio": 128.26,
+    "disponible": true
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "52b49b83-1bb2-4ecf-904e-dec3724fd439",
+    "nombre": "Combo 52b49b83",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Arroz Chaufa Especial",
+      "Chapsui de Verduras",
+      "Cerdo al Sillao"
+    ],
+    "precio": 102.67,
+    "disponible": true
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "combo_id": "7d9430c9-5e93-47f3-a561-be74cc6dafbb",
+    "nombre": "Combo 7d9430c9",
+    "productos_nombres": [
+      "Siu Mai",
+      "Chicha Morada 1L"
+    ],
+    "precio": 49.3,
+    "disponible": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "781f3c03-982c-4215-b9e3-a0dfad1e4f84",
+    "nombre": "Combo 781f3c03",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Chicharrón de Calamar",
+      "Arroz con Mariscos",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 78.77,
+    "disponible": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "combo_id": "33e501c6-2efb-4f40-8ede-1b9c21809abf",
+    "nombre": "Combo 33e501c6",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Pollo Chi Jau Kay",
+      "Sopa Wantán",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 112.31,
+    "disponible": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "combo_id": "f97e4209-72b2-4ac6-8f72-ba0513ada9f7",
+    "nombre": "Combo f97e4209",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Arroz Chaufa de Carne",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 85.62,
+    "disponible": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "combo_id": "183c3a2f-f85e-4b9a-8731-0909694c53cb",
+    "nombre": "Combo 183c3a2f",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Lomo Saltado"
+    ],
+    "precio": 25.98,
+    "disponible": true
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "combo_id": "a13fdcd0-46ca-48bd-9c6c-28abe1298385",
+    "nombre": "Combo a13fdcd0",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 60.81,
+    "disponible": true
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "combo_id": "91babc3c-a789-4972-b24a-3ea1b32bf85c",
+    "nombre": "Combo 91babc3c",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Carne con Ostión",
+      "Lomo Saltado",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 90.8,
+    "disponible": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "combo_id": "4d720021-82b4-42cc-914e-2550d4fc13e3",
+    "nombre": "Combo 4d720021",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Sopa Wantán",
+      "Pollo con Verduras"
+    ],
+    "precio": 92.84,
+    "disponible": true
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "combo_id": "a794b679-c11b-40f5-ad7f-9419e4883de4",
+    "nombre": "Combo a794b679",
+    "productos_nombres": [
+      "Picarones",
+      "Siu Mai",
+      "Rollitos Primavera"
+    ],
+    "precio": 53.25,
+    "disponible": true
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "combo_id": "f1417c84-99bf-4eab-81b7-d6bec4940e09",
+    "nombre": "Combo f1417c84",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Agua Mineral 625ml",
+      "Tallarín Saltado Mixto",
+      "Carne con Ostión"
+    ],
+    "precio": 83.34,
+    "disponible": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "combo_id": "3d5af09a-4217-4b56-b98f-92917efbafcd",
+    "nombre": "Combo 3d5af09a",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Arroz Chaufa Mixto",
+      "Arroz con Mariscos",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 76.14,
+    "disponible": true
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "combo_id": "eacec4e9-c4b7-40bf-9f54-ed6454039dd5",
+    "nombre": "Combo eacec4e9",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Inca Kola 1.5L",
+      "Tallarín con Mariscos",
+      "Picarones"
+    ],
+    "precio": 99.2,
+    "disponible": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "combo_id": "f3dc6f10-de8a-4a3c-a3da-cc02458f8414",
+    "nombre": "Combo f3dc6f10",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Helado de Lúcuma"
+    ],
+    "precio": 68.43,
+    "disponible": true
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "d6a91a9c-af84-4e04-a1b8-53440d4e5b9d",
+    "nombre": "Combo d6a91a9c",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Arroz Chaufa Especial",
+      "Carne Mongoliana",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 107.42,
+    "disponible": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "combo_id": "050fba34-fbf1-4558-adc7-04b2a99b191d",
+    "nombre": "Combo 050fba34",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Agua Mineral 625ml",
+      "Pollo con Tamarindo",
+      "Carne con Ostión"
+    ],
+    "precio": 76.9,
+    "disponible": false
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "combo_id": "47d22185-66a5-421c-b774-dee755bd1103",
+    "nombre": "Combo 47d22185",
+    "productos_nombres": [
+      "Picarones",
+      "Sopa Wantán"
+    ],
+    "precio": 54.26,
+    "disponible": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "combo_id": "f46e2e45-6856-4d86-9c49-8cd5f70285b3",
+    "nombre": "Combo f46e2e45",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Wantanes Fritos",
+      "Carne con Ostión",
+      "Pollo con Verduras"
+    ],
+    "precio": 98.95,
+    "disponible": true
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "d628105d-9818-4bf9-87dd-ac81a5dd9765",
+    "nombre": "Combo d628105d",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Rollitos Primavera"
+    ],
+    "precio": 56.22,
+    "disponible": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "combo_id": "dc4d89b4-fa62-4d8c-9853-4032086845a0",
+    "nombre": "Combo dc4d89b4",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Pollo Chi Jau Kay",
+      "Rollitos Primavera"
+    ],
+    "precio": 94.55,
+    "disponible": true
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "combo_id": "fcbdc5d8-22a9-4468-bf34-027719a0b3ce",
+    "nombre": "Combo fcbdc5d8",
+    "productos_nombres": [
+      "Siu Mai",
+      "Arroz Chaufa Especial"
+    ],
+    "precio": 27.59,
+    "disponible": true
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "combo_id": "75871cb6-b4df-4a93-ade1-0631c26fead0",
+    "nombre": "Combo 75871cb6",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Arroz Blanco"
+    ],
+    "precio": 41.9,
+    "disponible": true
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "combo_id": "a7ea30fc-0c7d-4b8a-9c36-3ae280cbf11b",
+    "nombre": "Combo a7ea30fc",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 38.63,
+    "disponible": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "combo_id": "c99fb8a1-8706-48ef-a2b5-d76dd2aacd54",
+    "nombre": "Combo c99fb8a1",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Tallarín Saltado de Pollo",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 72.46,
+    "disponible": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "bc298ed2-b64d-48e1-878b-83b5ffae4d76",
+    "nombre": "Combo bc298ed2",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 40.83,
+    "disponible": true
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "03838f26-586c-49c7-8fb6-cc8cb1d2f065",
+    "nombre": "Combo 03838f26",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Sopa Wantán",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 82.22,
+    "disponible": true
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "083c73b4-3357-43a7-a108-760bd081ede4",
+    "nombre": "Combo 083c73b4",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 44.09,
+    "disponible": false
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "combo_id": "1e35eef7-330a-42af-a753-b3f7f7328666",
+    "nombre": "Combo 1e35eef7",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Arroz Chaufa Mixto",
+      "Wantanes Fritos"
+    ],
+    "precio": 65.08,
+    "disponible": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "combo_id": "f9cc9dc0-c917-4999-951f-21361bc4744e",
+    "nombre": "Combo f9cc9dc0",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 42.73,
+    "disponible": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "combo_id": "9daf828e-30d7-491f-b854-9827063edae9",
+    "nombre": "Combo 9daf828e",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Arroz Blanco",
+      "Pollo Tipakay",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 75.9,
+    "disponible": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "095c7225-ee73-403b-849d-7a3ef6ed437d",
+    "nombre": "Combo 095c7225",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Pollo con Verduras",
+      "Chicha Morada 1L",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 113.48,
+    "disponible": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "combo_id": "7f534b19-884c-4f08-8266-88a5d74d293e",
+    "nombre": "Combo 7f534b19",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 62.68,
+    "disponible": true
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "combo_id": "ee9d73cd-5908-414e-a625-1ec72781c6ac",
+    "nombre": "Combo ee9d73cd",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Arroz Blanco",
+      "Wantán Frito",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 73.89,
+    "disponible": false
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "combo_id": "e99dfa2a-4c9b-4dea-bffb-8b18daf8cd96",
+    "nombre": "Combo e99dfa2a",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 51.56,
+    "disponible": true
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "combo_id": "1e81ab6d-9133-4973-a3f8-f54d6a1c2634",
+    "nombre": "Combo 1e81ab6d",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Arroz con Mariscos",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 57.88,
+    "disponible": true
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "combo_id": "013093ac-816a-4ef4-8cbd-66522c964c74",
+    "nombre": "Combo 013093ac",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Picarones",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 61.61,
+    "disponible": true
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "combo_id": "6683793f-2685-41d0-8afe-33497f8bd91b",
+    "nombre": "Combo 6683793f",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Sopa Wantán"
+    ],
+    "precio": 57.91,
+    "disponible": true
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "combo_id": "05c2fedf-95ba-45fb-9a2d-e24061f6af2f",
+    "nombre": "Combo 05c2fedf",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 71.77,
+    "disponible": false
+  },
+  {
+    "local_id": "baef98d2-e7f0-40d9-a833-30d57113815d",
+    "combo_id": "815ab60e-3eb0-4b2d-8248-1a42b94476e0",
+    "nombre": "Combo 815ab60e",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Chancho con Tamarindo",
+      "Arroz Chaufa Especial"
+    ],
+    "precio": 69.44,
+    "disponible": true
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "combo_id": "e95f3b14-ec74-4ea6-b1c2-9194d7885d63",
+    "nombre": "Combo e95f3b14",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Cerdo al Sillao",
+      "Té Helado 500ml"
+    ],
+    "precio": 79.02,
+    "disponible": true
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "2eafdb40-28cb-484b-812f-540e876e2b4e",
+    "nombre": "Combo 2eafdb40",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Pollo con Verduras",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 60.03,
+    "disponible": false
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "combo_id": "b1a5684d-2760-4754-a21a-244349c92c05",
+    "nombre": "Combo b1a5684d",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Arroz Chaufa de Mariscos",
+      "Wantán Frito"
+    ],
+    "precio": 90.24,
+    "disponible": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "combo_id": "f55966a5-4f3e-4e94-be6c-46f67d9b5769",
+    "nombre": "Combo f55966a5",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Pollo con Verduras"
+    ],
+    "precio": 42.11,
+    "disponible": true
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "combo_id": "1bce3f3d-9019-4ac5-9241-d0c422ca9e30",
+    "nombre": "Combo 1bce3f3d",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 59.59,
+    "disponible": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "5ebb7130-52b2-4734-82a6-323f6bcda731",
+    "nombre": "Combo 5ebb7130",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Té Helado 500ml",
+      "Wantán Frito",
+      "Empanaditas Chinas"
+    ],
+    "precio": 103.31,
+    "disponible": true
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "combo_id": "f7bca3aa-0ef8-4db3-bc78-5c3b96580ab2",
+    "nombre": "Combo f7bca3aa",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Chijaukai de Mariscos",
+      "Arroz con Mariscos"
+    ],
+    "precio": 75.61,
+    "disponible": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "combo_id": "2a75861e-a2b9-4878-8a6f-0d2e5c1a2e87",
+    "nombre": "Combo 2a75861e",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 34.52,
+    "disponible": true
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "combo_id": "4ea04f6c-9619-47a8-bb43-734103e8a07f",
+    "nombre": "Combo 4ea04f6c",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Tallarín Saltado Mixto",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 54.72,
+    "disponible": true
+  },
+  {
+    "local_id": "f2909c18-f05b-4a61-a8e8-b053454f0baa",
+    "combo_id": "fbcae5fc-df27-4267-9976-aaffe38f8fcc",
+    "nombre": "Combo fbcae5fc",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Pollo Tipakay",
+      "Picarones",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 110.07,
+    "disponible": true
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "combo_id": "163cd326-869a-43e2-ae3f-8af3e3bd8caa",
+    "nombre": "Combo 163cd326",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 20.88,
+    "disponible": true
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "54d7c859-48f2-4dbb-9603-e89afabbf119",
+    "nombre": "Combo 54d7c859",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 71.95,
+    "disponible": true
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "combo_id": "39054b10-04d4-4b2d-8fb0-75dc5d8895c7",
+    "nombre": "Combo 39054b10",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Cerdo Agridulce",
+      "Tallarín Saltado Mixto",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 102.74,
+    "disponible": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "combo_id": "c9472fbf-374b-4431-af0b-53a28d7daa57",
+    "nombre": "Combo c9472fbf",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Arroz Chaufa Especial"
+    ],
+    "precio": 48.32,
+    "disponible": false
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "7cf3b201-49c2-4df3-a23d-f496cb52e187",
+    "nombre": "Combo 7cf3b201",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Sopa Wantán"
+    ],
+    "precio": 56.0,
+    "disponible": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "combo_id": "567dbdc9-6954-45c8-9192-6767f9547202",
+    "nombre": "Combo 567dbdc9",
+    "productos_nombres": [
+      "Inca Kola 1.5L",
+      "Tallarín Saltado de Carne",
+      "Rollitos Primavera",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 104.95,
+    "disponible": true
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "12ee9c63-302b-48d8-bb20-3664b9bd6336",
+    "nombre": "Combo 12ee9c63",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Té Helado 500ml",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 65.46,
+    "disponible": false
+  },
+  {
+    "local_id": "a048fa60-da47-42f6-918a-4c06788ce50c",
+    "combo_id": "ee106a2d-5963-4600-846b-fbac45b5f57f",
+    "nombre": "Combo ee106a2d",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Cerdo Agridulce",
+      "Tallarín Saltado Mixto",
+      "Chicha Morada 1L"
+    ],
+    "precio": 95.05,
+    "disponible": true
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "42ef7d9f-f686-4cad-8b03-ecc3913eafdb",
+    "nombre": "Combo 42ef7d9f",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 52.39,
+    "disponible": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "combo_id": "b90323ea-0734-49fc-a16a-d6a545c30c91",
+    "nombre": "Combo b90323ea",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 55.15,
+    "disponible": true
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "combo_id": "87978485-d062-4fe5-a3f6-95cfb94a2d1a",
+    "nombre": "Combo 87978485",
+    "productos_nombres": [
+      "Siu Mai",
+      "Té Helado 500ml",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 64.73,
+    "disponible": true
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "combo_id": "89bd536d-3e40-45db-b939-f9b4e7353c4f",
+    "nombre": "Combo 89bd536d",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Té Helado 500ml",
+      "Pollo Chi Jau Kay",
+      "Sopa de Gallina China"
+    ],
+    "precio": 102.51,
+    "disponible": true
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "combo_id": "061bf788-6677-4291-9484-84756d89a74e",
+    "nombre": "Combo 061bf788",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Arroz con Mariscos",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 45.32,
+    "disponible": true
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "combo_id": "e09cbf29-4dc9-463d-b9a8-9e40e529cc3d",
+    "nombre": "Combo e09cbf29",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Tallarín Saltado de Pollo",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 52.67,
+    "disponible": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "8a4ead4a-d822-49f6-bbe1-f6c7eba2cad8",
+    "nombre": "Combo 8a4ead4a",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Arroz Chaufa Mixto",
+      "Inca Kola 1.5L",
+      "Pollo con Verduras"
+    ],
+    "precio": 66.9,
+    "disponible": false
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "combo_id": "daf3df06-f28b-4142-bc1e-f539ed8c5411",
+    "nombre": "Combo daf3df06",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Helado de Lúcuma",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 93.12,
+    "disponible": false
+  },
+  {
+    "local_id": "39efd8eb-056a-473d-9934-8d4f3357d1b6",
+    "combo_id": "fb0e9787-dbef-4f62-8d9c-ded5bfb34173",
+    "nombre": "Combo fb0e9787",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Arroz Chaufa de Carne",
+      "Arroz Chaufa Mixto",
+      "Mazamorra Morada"
+    ],
+    "precio": 113.32,
+    "disponible": true
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "combo_id": "8cf5ff53-b483-4e9f-ab0c-69b52c41420c",
+    "nombre": "Combo 8cf5ff53",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 51.25,
+    "disponible": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "ed564a4d-2f65-4e85-8714-443a7cb2bd55",
+    "nombre": "Combo ed564a4d",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Chijaukai de Mariscos",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 68.61,
+    "disponible": true
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "combo_id": "2d55fa9a-739f-40bc-a309-ebd16b4c3b91",
+    "nombre": "Combo 2d55fa9a",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Camarones al Tamarindo",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 70.83,
+    "disponible": true
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "combo_id": "bee6b6b4-4bcb-4639-a4f9-e4fa1a540478",
+    "nombre": "Combo bee6b6b4",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Lomo Saltado"
+    ],
+    "precio": 38.06,
+    "disponible": true
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "combo_id": "63fd794f-750c-4128-8ecf-0cc432138044",
+    "nombre": "Combo 63fd794f",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Mazamorra Morada",
+      "Inca Kola 1.5L",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 99.33,
+    "disponible": false
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "combo_id": "375255b2-3ac7-444c-aa74-5dbba32a6287",
+    "nombre": "Combo 375255b2",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Arroz con Mariscos"
+    ],
+    "precio": 49.16,
+    "disponible": true
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "combo_id": "05704f23-3bd0-481e-8fd8-5a5923b11989",
+    "nombre": "Combo 05704f23",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Chijaukai de Mariscos",
+      "Wantanes Fritos",
+      "Chicha Morada 1L"
+    ],
+    "precio": 127.96,
+    "disponible": true
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "combo_id": "1278c4b5-39d9-4924-8586-4c1622889d01",
+    "nombre": "Combo 1278c4b5",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 52.8,
+    "disponible": true
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "b675b737-fc6b-420e-ad68-c77b59b850ce",
+    "nombre": "Combo b675b737",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 53.49,
+    "disponible": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "combo_id": "d269f009-ff40-4125-a9b6-d21da2ff645f",
+    "nombre": "Combo d269f009",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Té Helado 500ml"
+    ],
+    "precio": 47.06,
+    "disponible": true
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "combo_id": "7e2a9646-d8cf-4cbb-a9ed-a0e65c751428",
+    "nombre": "Combo 7e2a9646",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Chijaukai de Mariscos",
+      "Pollo con Verduras",
+      "Té Helado 500ml"
+    ],
+    "precio": 87.28,
+    "disponible": true
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "combo_id": "7f8300bf-8dc6-4ca8-a6dd-698ccfffd442",
+    "nombre": "Combo 7f8300bf",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Chapsui de Verduras",
+      "Sopa de Gallina China",
+      "Sopa Wantán"
+    ],
+    "precio": 114.26,
+    "disponible": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "combo_id": "ce207f81-e9d7-4c26-9823-919a243be4eb",
+    "nombre": "Combo ce207f81",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Picarones",
+      "Sopa Min",
+      "Lomo Saltado"
+    ],
+    "precio": 102.33,
+    "disponible": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "combo_id": "a8be47c6-5be1-411f-869c-9fb09cad02c2",
+    "nombre": "Combo a8be47c6",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Té Helado 500ml",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 75.56,
+    "disponible": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "combo_id": "62ea7ffa-7f61-4171-950e-967926420e8e",
+    "nombre": "Combo 62ea7ffa",
+    "productos_nombres": [
+      "Picarones",
+      "Wantanes Fritos",
+      "Rollitos Primavera"
+    ],
+    "precio": 69.86,
+    "disponible": true
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "combo_id": "dd898e45-4280-470b-afc0-2b746881366e",
+    "nombre": "Combo dd898e45",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Arroz con Mariscos"
+    ],
+    "precio": 48.36,
+    "disponible": true
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "combo_id": "9e9c18b8-221d-4e77-8f0d-48eebbea2669",
+    "nombre": "Combo 9e9c18b8",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Pollo Chi Jau Kay"
+    ],
+    "precio": 45.59,
+    "disponible": true
+  },
+  {
+    "local_id": "c48b52f6-95a9-47d6-bf09-4de26493da90",
+    "combo_id": "200ce538-564e-4414-8149-f344928bd1a1",
+    "nombre": "Combo 200ce538",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Carne Mongoliana",
+      "Lomo Saltado",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 85.85,
+    "disponible": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "combo_id": "c3fa6c2f-48ef-4b59-b726-947482a57124",
+    "nombre": "Combo c3fa6c2f",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Chapsui de Verduras"
+    ],
+    "precio": 42.44,
+    "disponible": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "combo_id": "167b0c38-e839-4b4a-94c2-8bff24db40e2",
+    "nombre": "Combo 167b0c38",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Chicharrón de Calamar",
+      "Lomo Saltado"
+    ],
+    "precio": 79.63,
+    "disponible": false
+  },
+  {
+    "local_id": "69a6f864-5945-491b-ba79-a90d27713ef2",
+    "combo_id": "a194cd53-f3fd-4b79-a7aa-f294102388d5",
+    "nombre": "Combo a194cd53",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Cerdo al Sillao"
+    ],
+    "precio": 47.56,
+    "disponible": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "combo_id": "5f23dba8-cdae-41d6-b436-b93ebafddba2",
+    "nombre": "Combo 5f23dba8",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Arroz Chaufa Mixto",
+      "Té Helado 500ml"
+    ],
+    "precio": 72.15,
+    "disponible": false
+  },
+  {
+    "local_id": "7a4a5d51-1c02-4a50-a3fc-968c31ab9e67",
+    "combo_id": "3ad99b18-4101-4684-a2cc-1a8ccb77b9eb",
+    "nombre": "Combo 3ad99b18",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Arroz con Mariscos"
+    ],
+    "precio": 32.72,
+    "disponible": true
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "combo_id": "f5a72ee7-1e49-4ab5-9ffa-92997a8c12f7",
+    "nombre": "Combo f5a72ee7",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Sopa Wantán",
+      "Carne Mongoliana",
+      "Rollitos Primavera"
+    ],
+    "precio": 125.92,
+    "disponible": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "3d1303db-65fe-4fca-a77f-f371f0296c19",
+    "nombre": "Combo 3d1303db",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Pollo Chi Jau Kay"
+    ],
+    "precio": 50.0,
+    "disponible": true
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "a6e669b5-4ec6-4f37-aed0-4510164a6214",
+    "nombre": "Combo a6e669b5",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Wantanes Fritos",
+      "Mazamorra Morada",
+      "Empanaditas Chinas"
+    ],
+    "precio": 130.62,
+    "disponible": false
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "combo_id": "0bd299b3-aa0c-49c8-bbe4-f05332ece382",
+    "nombre": "Combo 0bd299b3",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Arroz con Mariscos",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 88.13,
+    "disponible": true
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "a5f3f733-484c-49a0-8352-3c2afc0e6ac5",
+    "nombre": "Combo a5f3f733",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Picarones",
+      "Arroz Chaufa Mixto",
+      "Pollo con Verduras"
+    ],
+    "precio": 92.35,
+    "disponible": false
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "combo_id": "b92da754-11bc-4cc4-95ca-88f756d548a2",
+    "nombre": "Combo b92da754",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Helado de Lúcuma"
+    ],
+    "precio": 57.62,
+    "disponible": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "combo_id": "12aefb93-3904-43a5-a6ae-a15742386c29",
+    "nombre": "Combo 12aefb93",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Carne con Ostión",
+      "Pollo Chi Jau Kay"
+    ],
+    "precio": 73.43,
+    "disponible": true
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "combo_id": "fdf0f0b9-3014-42ed-a616-ef5da1487ec1",
+    "nombre": "Combo fdf0f0b9",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Arroz Blanco"
+    ],
+    "precio": 47.83,
+    "disponible": true
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "combo_id": "0eb94463-84f3-4afd-aae5-e0e783d73a05",
+    "nombre": "Combo 0eb94463",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Pollo con Tamarindo",
+      "Siu Mai",
+      "Cerdo al Sillao"
+    ],
+    "precio": 92.67,
+    "disponible": true
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "combo_id": "70079c9a-7a2d-4871-9733-3793eab63f2c",
+    "nombre": "Combo 70079c9a",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 63.07,
+    "disponible": false
+  },
+  {
+    "local_id": "35739400-71d0-4a91-b6c0-2ab1e8fe4acf",
+    "combo_id": "abe85ea8-8c95-4dd1-baee-a57ae1ee82b3",
+    "nombre": "Combo abe85ea8",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 48.49,
+    "disponible": true
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "combo_id": "a365de15-62ba-4b9f-8eea-98338c4a1e2f",
+    "nombre": "Combo a365de15",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Lomo Saltado"
+    ],
+    "precio": 50.51,
+    "disponible": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "9843ab1b-4e18-448c-a075-1711ab3313f9",
+    "nombre": "Combo 9843ab1b",
+    "productos_nombres": [
+      "Siu Mai",
+      "Tallarín Saltado de Carne",
+      "Pollo Chi Jau Kay",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 68.44,
+    "disponible": true
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "9283fbcc-d7cd-4a39-8b9a-b5b8d847421a",
+    "nombre": "Combo 9283fbcc",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Carne con Ostión"
+    ],
+    "precio": 28.36,
+    "disponible": true
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "combo_id": "13252bee-0138-428b-8730-a732666e3abe",
+    "nombre": "Combo 13252bee",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Rollitos Primavera"
+    ],
+    "precio": 56.8,
+    "disponible": true
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "combo_id": "d352dd48-02ea-4aa5-8960-d48df1b6525b",
+    "nombre": "Combo d352dd48",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Chicha Morada 1L",
+      "Sopa Wantán",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 143.8,
+    "disponible": true
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "combo_id": "3d94b670-380d-47eb-bc49-f5d56398048e",
+    "nombre": "Combo 3d94b670",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Tallarín Saltado de Pollo",
+      "Wantanes Fritos"
+    ],
+    "precio": 63.93,
+    "disponible": true
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "combo_id": "0de258ad-d5fc-484b-9277-fc918fac0120",
+    "nombre": "Combo 0de258ad",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Pollo Tipakay",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 65.35,
+    "disponible": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "combo_id": "5b7d4e77-75e9-4882-bf74-3d784981aa47",
+    "nombre": "Combo 5b7d4e77",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Empanaditas Chinas"
+    ],
+    "precio": 45.81,
+    "disponible": false
+  },
+  {
+    "local_id": "4ac880de-0c9c-4294-b4e8-acecd742012d",
+    "combo_id": "b59df0b0-cbf1-4db6-a481-48440b8862c9",
+    "nombre": "Combo b59df0b0",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Inca Kola 1.5L",
+      "Pollo con Verduras"
+    ],
+    "precio": 67.94,
+    "disponible": true
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "combo_id": "04f979ea-1480-48f8-bb98-3419c5e73b29",
+    "nombre": "Combo 04f979ea",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Tallarín Saltado Mixto",
+      "Rollitos Primavera",
+      "Sopa Wantán"
+    ],
+    "precio": 107.66,
+    "disponible": true
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "combo_id": "996794d0-2043-4410-8d33-35f82e25caeb",
+    "nombre": "Combo 996794d0",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Sopa Min",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 80.52,
+    "disponible": true
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "combo_id": "97ab6e1b-2666-409f-b865-5bb00d546528",
+    "nombre": "Combo 97ab6e1b",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Empanaditas Chinas"
+    ],
+    "precio": 45.97,
+    "disponible": false
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "combo_id": "113b889c-1661-47c1-bf72-17edcc9e54af",
+    "nombre": "Combo 113b889c",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Pollo Tipakay"
+    ],
+    "precio": 75.67,
+    "disponible": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "8577fe26-0c30-4dba-a337-1a1758354ce3",
+    "nombre": "Combo 8577fe26",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Té Helado 500ml"
+    ],
+    "precio": 49.05,
+    "disponible": true
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "combo_id": "f0f99425-0d1b-4f0e-abce-7db35aac7b63",
+    "nombre": "Combo f0f99425",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 26.24,
+    "disponible": false
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "combo_id": "5d46f67a-ff48-47f1-af28-c437129e3b75",
+    "nombre": "Combo 5d46f67a",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 48.3,
+    "disponible": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "c86eff9e-8d16-4f2a-833b-4e41ee25c96e",
+    "nombre": "Combo c86eff9e",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Chicha Morada 1L",
+      "Pollo Tipakay",
+      "Arroz con Mariscos"
+    ],
+    "precio": 111.06,
+    "disponible": true
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "combo_id": "af05afa2-f84e-4400-92a9-5c1d4b51c952",
+    "nombre": "Combo af05afa2",
+    "productos_nombres": [
+      "Inca Kola 1.5L",
+      "Chapsui de Verduras",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 69.3,
+    "disponible": false
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "combo_id": "50d9e72d-b5aa-4162-8baf-631416b02219",
+    "nombre": "Combo 50d9e72d",
+    "productos_nombres": [
+      "Siu Mai",
+      "Chapsui de Verduras"
+    ],
+    "precio": 45.29,
+    "disponible": true
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "combo_id": "b64300f2-c86d-4330-9cd6-d39250705ba4",
+    "nombre": "Combo b64300f2",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Pollo Chi Jau Kay",
+      "Té Helado 500ml",
+      "Wantanes Fritos"
+    ],
+    "precio": 95.72,
+    "disponible": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "combo_id": "c4baa0ba-63e1-468f-b315-10df4c5d3bb6",
+    "nombre": "Combo c4baa0ba",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Cerdo al Sillao",
+      "Carne con Ostión"
+    ],
+    "precio": 69.62,
+    "disponible": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "dc76307a-31f6-4429-b6b5-c91fa5aeeffb",
+    "nombre": "Combo dc76307a",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Té Helado 500ml"
+    ],
+    "precio": 53.93,
+    "disponible": true
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "092afeac-6c4a-4347-b979-c2e5b290ce56",
+    "nombre": "Combo 092afeac",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Sopa Min"
+    ],
+    "precio": 68.62,
+    "disponible": false
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "combo_id": "5cec40c0-64ed-4227-971a-9da252aae3d0",
+    "nombre": "Combo 5cec40c0",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Chijaukai de Mariscos",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 65.31,
+    "disponible": true
+  },
+  {
+    "local_id": "5d313db3-4943-4ecd-a784-a50a5ff96c51",
+    "combo_id": "68d55bb5-1fb9-4fdb-bd35-970a019ef413",
+    "nombre": "Combo 68d55bb5",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Sopa Min"
+    ],
+    "precio": 76.04,
+    "disponible": true
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "combo_id": "0be49112-9086-4ae9-b4d4-c8b605dab88b",
+    "nombre": "Combo 0be49112",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Pollo Tipakay"
+    ],
+    "precio": 66.29,
+    "disponible": true
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "combo_id": "f4f1e02c-5d94-4e52-b4d2-ac6c728c3dcf",
+    "nombre": "Combo f4f1e02c",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Chicharrón de Calamar",
+      "Tallarín Saltado de Carne",
+      "Sopa Wantán"
+    ],
+    "precio": 94.25,
+    "disponible": true
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "combo_id": "4147593d-22e1-4d3b-9cd2-740a4880a027",
+    "nombre": "Combo 4147593d",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Pollo con Verduras"
+    ],
+    "precio": 55.38,
+    "disponible": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "c7139df3-f2f8-4bc7-a99b-cbba3763294b",
+    "nombre": "Combo c7139df3",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Arroz Chaufa de Mariscos",
+      "Arroz con Mariscos"
+    ],
+    "precio": 68.25,
+    "disponible": false
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "combo_id": "697f0a36-89bf-4370-85a2-7acf695ee587",
+    "nombre": "Combo 697f0a36",
+    "productos_nombres": [
+      "Siu Mai",
+      "Lomo Saltado",
+      "Pollo con Tamarindo",
+      "Cerdo al Sillao"
+    ],
+    "precio": 91.54,
+    "disponible": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "81c3ef6f-3548-4354-9b12-6ef5cc9c18f1",
+    "nombre": "Combo 81c3ef6f",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Sopa Wantán",
+      "Arroz Chaufa de Carne",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 124.4,
+    "disponible": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "combo_id": "d8d5a3ed-b7f4-4d5d-8355-a4de0debe7f1",
+    "nombre": "Combo d8d5a3ed",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Carne con Ostión",
+      "Carne Mongoliana"
+    ],
+    "precio": 59.8,
+    "disponible": true
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "combo_id": "b89a5c1c-917f-48f0-ab7f-ca1df7d30549",
+    "nombre": "Combo b89a5c1c",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Helado de Lúcuma",
+      "Mazamorra Morada"
+    ],
+    "precio": 98.76,
+    "disponible": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "f04e565d-d162-49f5-943c-5ae802624cbd",
+    "nombre": "Combo f04e565d",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 30.58,
+    "disponible": false
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "combo_id": "d6a82e58-36b2-4eef-928d-82bf1b5b6e63",
+    "nombre": "Combo d6a82e58",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Lomo Saltado",
+      "Arroz Chaufa de Carne",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 94.31,
+    "disponible": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "combo_id": "2e75f778-0f68-439b-8fce-8b4ce0916ff1",
+    "nombre": "Combo 2e75f778",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Sopa Min",
+      "Rollitos Primavera",
+      "Sopa de Gallina China"
+    ],
+    "precio": 124.15,
+    "disponible": true
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "bde6ae70-1752-4c7d-a7c4-3ca5a16ad333",
+    "nombre": "Combo bde6ae70",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 52.82,
+    "disponible": false
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "combo_id": "1d927861-3095-4ce5-b8cc-9bf128b009da",
+    "nombre": "Combo 1d927861",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Té Helado 500ml",
+      "Arroz Blanco",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 63.12,
+    "disponible": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "combo_id": "ceeb3837-af2e-48eb-97de-f45af300b291",
+    "nombre": "Combo ceeb3837",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Arroz Chaufa de Carne",
+      "Siu Mai"
+    ],
+    "precio": 60.96,
+    "disponible": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "combo_id": "29688b07-4ff1-42ce-9a59-703c9f9af599",
+    "nombre": "Combo 29688b07",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Chancho con Tamarindo",
+      "Arroz con Mariscos",
+      "Chapsui de Verduras"
+    ],
+    "precio": 112.06,
+    "disponible": true
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "combo_id": "e79e60b3-2577-4799-bcfe-babff0ed8319",
+    "nombre": "Combo e79e60b3",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Empanaditas Chinas"
+    ],
+    "precio": 51.88,
+    "disponible": true
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "combo_id": "83ce9ac3-b1a5-4a52-b222-230600aa0602",
+    "nombre": "Combo 83ce9ac3",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Tallarín con Mariscos",
+      "Arroz con Mariscos"
+    ],
+    "precio": 90.24,
+    "disponible": true
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "combo_id": "bf9f06eb-2b12-4e51-9051-9c85d64b4bb6",
+    "nombre": "Combo bf9f06eb",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Lomo Saltado"
+    ],
+    "precio": 25.96,
+    "disponible": false
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "combo_id": "47c62a82-279a-419c-868e-7eca8823c570",
+    "nombre": "Combo 47c62a82",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Chancho con Tamarindo",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 70.39,
+    "disponible": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "27e4e501-22df-4148-a4a3-8398a7f89fab",
+    "nombre": "Combo 27e4e501",
+    "productos_nombres": [
+      "Sopa Min",
+      "Rollitos Primavera"
+    ],
+    "precio": 65.57,
+    "disponible": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "0da20888-e7a0-4bda-afe5-7a9f33259d40",
+    "nombre": "Combo 0da20888",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Carne con Ostión"
+    ],
+    "precio": 48.37,
+    "disponible": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "e92936a9-6afe-4c26-b574-7c2e6348fbe6",
+    "nombre": "Combo e92936a9",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Sopa Wantán",
+      "Cerdo al Sillao"
+    ],
+    "precio": 86.5,
+    "disponible": true
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "bb6e7eed-746f-44f6-9676-2e2c399f4cc4",
+    "nombre": "Combo bb6e7eed",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Lomo Saltado",
+      "Arroz con Mariscos"
+    ],
+    "precio": 59.98,
+    "disponible": true
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "9b61847a-40f6-4744-98fa-0c43937e05be",
+    "nombre": "Combo 9b61847a",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Arroz Chaufa Especial",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 63.23,
+    "disponible": true
+  },
+  {
+    "local_id": "2b07019a-ddcd-42de-a04d-07054dabf321",
+    "combo_id": "a18dad4d-4556-4e87-a80e-1a4d71118e72",
+    "nombre": "Combo a18dad4d",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Sopa Wantán",
+      "Carne Mongoliana",
+      "Helado de Lúcuma"
+    ],
+    "precio": 129.61,
+    "disponible": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "combo_id": "36ced322-2515-4594-9015-0d78289b39ec",
+    "nombre": "Combo 36ced322",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Arroz Chaufa Especial",
+      "Arroz Chaufa Mixto",
+      "Pollo Chi Jau Kay"
+    ],
+    "precio": 90.36,
+    "disponible": true
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "07c285a5-7621-4945-a7f9-b1c27aa9a801",
+    "nombre": "Combo 07c285a5",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Sopa Min"
+    ],
+    "precio": 69.02,
+    "disponible": false
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "83ecf9dd-6a44-49a1-a187-debbd49c0201",
+    "nombre": "Combo 83ecf9dd",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Sopa Wantán",
+      "Wantanes Fritos"
+    ],
+    "precio": 74.52,
+    "disponible": false
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "combo_id": "0b61f0b8-3b4e-4f37-b9d0-5ddc674dad69",
+    "nombre": "Combo 0b61f0b8",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Arroz Chaufa de Pollo",
+      "Arroz Chaufa Especial"
+    ],
+    "precio": 89.61,
+    "disponible": false
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "combo_id": "dd8c5bb9-0ceb-4251-a8eb-d962a2fa058a",
+    "nombre": "Combo dd8c5bb9",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Arroz Chaufa Especial",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 85.88,
+    "disponible": true
+  },
+  {
+    "local_id": "899046c3-de44-4010-aada-539a26a0e514",
+    "combo_id": "28b0148d-2289-452e-a637-5463337015eb",
+    "nombre": "Combo 28b0148d",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Helado de Lúcuma"
+    ],
+    "precio": 77.72,
+    "disponible": true
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "combo_id": "714530fa-f1ab-49f1-b4b2-bbe4d68823ab",
+    "nombre": "Combo 714530fa",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Chicha Morada 1L"
+    ],
+    "precio": 70.61,
+    "disponible": false
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "combo_id": "21193b8a-ed71-40d4-9437-1ad22e0b7700",
+    "nombre": "Combo 21193b8a",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Cerdo al Sillao"
+    ],
+    "precio": 41.81,
+    "disponible": true
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "combo_id": "4839cf0a-c39a-4587-a31a-c00be84fce10",
+    "nombre": "Combo 4839cf0a",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Arroz Chaufa de Pollo",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 105.09,
+    "disponible": false
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "89f3155b-69f1-4ae4-8a68-f6861f1c0d9f",
+    "nombre": "Combo 89f3155b",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Arroz Chaufa de Mariscos",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 82.08,
+    "disponible": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "combo_id": "c3969b10-167d-4936-bc4c-69f7f2051992",
+    "nombre": "Combo c3969b10",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Empanaditas Chinas",
+      "Chijaukai de Mariscos",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 136.96,
+    "disponible": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "combo_id": "36cd160b-e089-4c86-a4e0-84b1d52d1b6c",
+    "nombre": "Combo 36cd160b",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Sopa Wantán",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 73.95,
+    "disponible": false
+  },
+  {
+    "local_id": "23dc8dec-c1ba-4833-80cc-bd2d9c18fa34",
+    "combo_id": "a761e142-4208-4e4d-a978-9fe059066386",
+    "nombre": "Combo a761e142",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Cerdo Agridulce"
+    ],
+    "precio": 38.54,
+    "disponible": false
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "combo_id": "736c8958-a9a9-4d08-ae8d-abe4d4e131c4",
+    "nombre": "Combo 736c8958",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Arroz con Mariscos",
+      "Sopa de Gallina China"
+    ],
+    "precio": 60.74,
+    "disponible": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "combo_id": "21bd390b-ff90-49e5-bb99-5a1f59fa23ee",
+    "nombre": "Combo 21bd390b",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Siu Mai"
+    ],
+    "precio": 23.78,
+    "disponible": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "combo_id": "7234c1e2-e90d-4963-9419-f43229d83d57",
+    "nombre": "Combo 7234c1e2",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Arroz Blanco"
+    ],
+    "precio": 37.98,
+    "disponible": true
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "combo_id": "4331b9ad-37b8-4264-9ae9-429137272b40",
+    "nombre": "Combo 4331b9ad",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Chapsui de Verduras",
+      "Camarones al Tamarindo",
+      "Helado de Lúcuma"
+    ],
+    "precio": 120.46,
+    "disponible": false
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "combo_id": "abe81e5a-55e7-4906-8566-4dc81b612664",
+    "nombre": "Combo abe81e5a",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Arroz Chaufa Mixto",
+      "Carne con Ostión",
+      "Pollo con Verduras"
+    ],
+    "precio": 80.83,
+    "disponible": true
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "c0928f99-139e-4f69-acad-9bc4a5f215d4",
+    "nombre": "Combo c0928f99",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Inca Kola 1.5L",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 46.91,
+    "disponible": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "combo_id": "dcf21317-b39c-46a6-87d8-127717e95e1c",
+    "nombre": "Combo dcf21317",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 58.38,
+    "disponible": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "combo_id": "d0bbf660-fb2f-4eda-ad7e-22c2f6cad776",
+    "nombre": "Combo d0bbf660",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Pollo con Verduras"
+    ],
+    "precio": 37.11,
+    "disponible": false
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "combo_id": "51540696-83e4-4b1f-b744-17a5b19b6df2",
+    "nombre": "Combo 51540696",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Inca Kola 1.5L",
+      "Empanaditas Chinas",
+      "Pollo Tipakay"
+    ],
+    "precio": 92.26,
+    "disponible": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "combo_id": "2fe0403b-b92a-402b-905f-d8b255d80e1c",
+    "nombre": "Combo 2fe0403b",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Sopa Wantán"
+    ],
+    "precio": 60.58,
+    "disponible": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "combo_id": "0802b05c-ab1a-4110-9d01-9c9df5127fb9",
+    "nombre": "Combo 0802b05c",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Cerdo Agridulce",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 91.66,
+    "disponible": false
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "3fb5f1d5-bb71-46dc-80ac-f056626367f0",
+    "nombre": "Combo 3fb5f1d5",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 38.53,
+    "disponible": false
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "combo_id": "16a097cf-ef61-4789-af04-ed2607a0e82f",
+    "nombre": "Combo 16a097cf",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Pollo con Tamarindo",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 83.84,
+    "disponible": true
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "combo_id": "80f433cf-75c8-4bfa-9deb-20d724c059e2",
+    "nombre": "Combo 80f433cf",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Wantán Frito",
+      "Chijaukai de Mariscos",
+      "Cerdo al Sillao"
+    ],
+    "precio": 94.64,
+    "disponible": true
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "combo_id": "52e4f219-e3f4-4ec2-9fbf-b49b1d975695",
+    "nombre": "Combo 52e4f219",
+    "productos_nombres": [
+      "Inca Kola 1.5L",
+      "Cerdo al Sillao",
+      "Carne con Verduras al Wok",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 65.49,
+    "disponible": false
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "combo_id": "e766d695-bcd5-41c4-b399-0a58e758c7d9",
+    "nombre": "Combo e766d695",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Sopa Wantán",
+      "Cerdo Agridulce"
+    ],
+    "precio": 86.46,
+    "disponible": true
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "combo_id": "0ea1762b-6d66-4c78-ac7e-0eaa75178ae4",
+    "nombre": "Combo 0ea1762b",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Wantán Frito"
+    ],
+    "precio": 40.0,
+    "disponible": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "987f43b4-8fd9-4bae-ac8b-a1be21127ba0",
+    "nombre": "Combo 987f43b4",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Arroz Blanco",
+      "Wantán Frito"
+    ],
+    "precio": 57.54,
+    "disponible": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "a6d869bb-a430-46e1-9c46-70ff84f7390e",
+    "nombre": "Combo a6d869bb",
+    "productos_nombres": [
+      "Sopa Min",
+      "Carne con Ostión",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 61.67,
+    "disponible": true
+  },
+  {
+    "local_id": "c70ce100-af9c-4ffd-aede-d698a2139bf8",
+    "combo_id": "f59d9559-31de-4286-b142-5e1662283ed8",
+    "nombre": "Combo f59d9559",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 63.58,
+    "disponible": true
+  },
+  {
+    "local_id": "68a31141-d9fe-4575-9ccb-6d8dd8075bf9",
+    "combo_id": "9ad7bd37-0be8-4d78-96dc-dc52aa352dc3",
+    "nombre": "Combo 9ad7bd37",
+    "productos_nombres": [
+      "Siu Mai",
+      "Chapsui de Verduras"
+    ],
+    "precio": 38.34,
+    "disponible": true
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "combo_id": "db9e6571-4734-41cc-92fe-8ffa9620b0f7",
+    "nombre": "Combo db9e6571",
+    "productos_nombres": [
+      "Wantanes Fritos",
+      "Wantán Frito",
+      "Sopa de Gallina China"
+    ],
+    "precio": 66.7,
+    "disponible": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "combo_id": "9f66a36e-050b-4409-a5dc-4c82d25f9830",
+    "nombre": "Combo 9f66a36e",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Wantán Frito"
+    ],
+    "precio": 47.92,
+    "disponible": false
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "combo_id": "60f53eb4-07f0-4011-bb13-b27fc948f3d4",
+    "nombre": "Combo 60f53eb4",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Té Helado 500ml",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 55.86,
+    "disponible": true
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "combo_id": "372077f6-a72f-4ef6-a690-5ba5fb47fea7",
+    "nombre": "Combo 372077f6",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Pollo Tipakay"
+    ],
+    "precio": 57.03,
+    "disponible": true
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "d58e9af1-15e3-4955-b7e5-84ff8603f87f",
+    "nombre": "Combo d58e9af1",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Arroz Blanco",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 56.71,
+    "disponible": true
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "143076b5-c2ab-4c10-99ac-2e986b5a8f9b",
+    "nombre": "Combo 143076b5",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Empanaditas Chinas"
+    ],
+    "precio": 38.22,
+    "disponible": true
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "combo_id": "93d8a34d-6e93-43f8-9d70-ba8f3bf9e597",
+    "nombre": "Combo 93d8a34d",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Tallarín Saltado de Pollo",
+      "Tallarín Saltado de Carne",
+      "Wantanes Fritos"
+    ],
+    "precio": 59.83,
+    "disponible": true
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "combo_id": "aa605e1e-03f0-47b1-b424-f071e83b2a2b",
+    "nombre": "Combo aa605e1e",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Tallarín Saltado de Carne",
+      "Chapsui de Verduras"
+    ],
+    "precio": 71.03,
+    "disponible": true
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "07d0513b-3676-407c-a66f-449f1b667270",
+    "nombre": "Combo 07d0513b",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Tallarín Saltado Mixto",
+      "Inca Kola 1.5L",
+      "Pollo Chi Jau Kay"
+    ],
+    "precio": 98.32,
+    "disponible": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "combo_id": "6cc535e2-60fa-4fff-8721-74967e13525b",
+    "nombre": "Combo 6cc535e2",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Wantanes Fritos",
+      "Carne Mongoliana",
+      "Wantán Frito"
+    ],
+    "precio": 97.48,
+    "disponible": true
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "combo_id": "c66edaf9-bcda-4d75-87f9-e612e19908d5",
+    "nombre": "Combo c66edaf9",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Sopa Wantán"
+    ],
+    "precio": 66.95,
+    "disponible": true
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "53f7db9b-5104-4ea3-8596-832dab53dcc3",
+    "nombre": "Combo 53f7db9b",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Pollo con Verduras",
+      "Rollitos Primavera"
+    ],
+    "precio": 82.33,
+    "disponible": false
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "combo_id": "5de1bfd7-a8ba-43ed-abe8-18a2fd33412d",
+    "nombre": "Combo 5de1bfd7",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Pollo Tipakay",
+      "Rollitos Primavera",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 112.88,
+    "disponible": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "combo_id": "0236572e-95e3-421e-a042-2264e19938eb",
+    "nombre": "Combo 0236572e",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 44.2,
+    "disponible": true
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "0ba84184-eb30-4249-9ff6-a15f46542c4d",
+    "nombre": "Combo 0ba84184",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Siu Mai",
+      "Pollo Chi Jau Kay",
+      "Sopa Min"
+    ],
+    "precio": 81.8,
+    "disponible": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "6139ce96-7cb9-4869-b662-7ded19814d35",
+    "nombre": "Combo 6139ce96",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Pollo con Verduras"
+    ],
+    "precio": 43.42,
+    "disponible": true
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "combo_id": "bb75b403-f7dc-422a-9425-63fbd1f4b1e4",
+    "nombre": "Combo bb75b403",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 26.65,
+    "disponible": true
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "combo_id": "909b33d3-3b4e-47b4-9e09-bf5733427b63",
+    "nombre": "Combo 909b33d3",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Chicha Morada 1L",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 97.06,
+    "disponible": true
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "combo_id": "1b496884-1a2c-41fc-aa85-0d18fa5215e3",
+    "nombre": "Combo 1b496884",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 31.78,
+    "disponible": true
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "combo_id": "1b76374d-8b61-4d47-8a04-66f9ea2e6d6f",
+    "nombre": "Combo 1b76374d",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Arroz Blanco",
+      "Chicha Morada 1L"
+    ],
+    "precio": 75.13,
+    "disponible": true
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "combo_id": "0572db4d-5583-4ef1-a663-ce231dc9df6a",
+    "nombre": "Combo 0572db4d",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Chicha Morada 1L",
+      "Té Helado 500ml",
+      "Mazamorra Morada"
+    ],
+    "precio": 96.17,
+    "disponible": true
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "9b48ebb0-bf2b-4828-a042-e806e4346b9a",
+    "nombre": "Combo 9b48ebb0",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 46.59,
+    "disponible": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "09463ed4-b98f-4c2c-a27c-670d1f473da9",
+    "nombre": "Combo 09463ed4",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Cerdo Agridulce",
+      "Pollo con Verduras"
+    ],
+    "precio": 85.03,
+    "disponible": true
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "combo_id": "493433ae-a943-498b-b8ff-c5ec644de901",
+    "nombre": "Combo 493433ae",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Chijaukai de Mariscos",
+      "Arroz Chaufa de Carne"
+    ],
+    "precio": 87.75,
+    "disponible": true
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "d134ce14-408f-4647-9e02-72fbb27ce372",
+    "nombre": "Combo d134ce14",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Arroz con Mariscos",
+      "Tallarín Saltado de Carne",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 70.35,
+    "disponible": false
+  },
+  {
+    "local_id": "5b4397c1-af94-49ab-ab56-470fbfe6a696",
+    "combo_id": "127ffb61-c8d6-4d15-8beb-d354b943a0d4",
+    "nombre": "Combo 127ffb61",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Wantán Frito",
+      "Wantanes Fritos"
+    ],
+    "precio": 70.24,
+    "disponible": false
+  },
+  {
+    "local_id": "dd5fd958-faa3-45af-866b-9c55fb7e4477",
+    "combo_id": "c8045907-cec5-454a-a920-e5a13a348c98",
+    "nombre": "Combo c8045907",
+    "productos_nombres": [
+      "Sopa Min",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 45.53,
+    "disponible": true
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "combo_id": "ec346f54-4c20-4c4b-90eb-97cb155285d8",
+    "nombre": "Combo ec346f54",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Carne Mongoliana",
+      "Tallarín Saltado Mixto",
+      "Carne con Ostión"
+    ],
+    "precio": 70.96,
+    "disponible": false
+  },
+  {
+    "local_id": "c00ce6c5-2ec2-4e01-b1cd-17b01a84944a",
+    "combo_id": "25a06472-a6e6-41d5-808b-dbadbf2d03af",
+    "nombre": "Combo 25a06472",
+    "productos_nombres": [
+      "Picarones",
+      "Wantán Frito",
+      "Arroz Blanco"
+    ],
+    "precio": 43.76,
+    "disponible": true
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "42ec0789-6258-4608-af55-227fdd46b203",
+    "nombre": "Combo 42ec0789",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Arroz Blanco",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 57.56,
+    "disponible": true
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "0d935fb4-756e-48c9-be74-606ead605975",
+    "nombre": "Combo 0d935fb4",
+    "productos_nombres": [
+      "Picarones",
+      "Chicha Morada 1L",
+      "Arroz Blanco"
+    ],
+    "precio": 66.09,
+    "disponible": true
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "combo_id": "c2d562f8-6714-422f-a232-bacc0d82f32e",
+    "nombre": "Combo c2d562f8",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Carne con Ostión",
+      "Arroz Chaufa de Mariscos",
+      "Siu Mai"
+    ],
+    "precio": 65.53,
+    "disponible": false
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "combo_id": "8c8b6989-43cc-4d2a-9bcb-052d45641c62",
+    "nombre": "Combo 8c8b6989",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Carne Mongoliana"
+    ],
+    "precio": 49.84,
+    "disponible": true
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "combo_id": "1bd7aef2-4f29-4b3f-ba77-38899d2d4064",
+    "nombre": "Combo 1bd7aef2",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Chapsui de Verduras"
+    ],
+    "precio": 73.7,
+    "disponible": true
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "combo_id": "927dcf4e-6b8b-4470-8707-a95b1e5d40c4",
+    "nombre": "Combo 927dcf4e",
+    "productos_nombres": [
+      "Picarones",
+      "Chicharrón de Calamar",
+      "Mazamorra Morada"
+    ],
+    "precio": 72.69,
+    "disponible": true
+  },
+  {
+    "local_id": "60d57397-8dde-49e2-b8f2-fa9f56291e08",
+    "combo_id": "f5e57610-4e9b-4a37-a99c-dee0f19a3be9",
+    "nombre": "Combo f5e57610",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Chapsui de Verduras",
+      "Arroz Chaufa Especial",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 110.78,
+    "disponible": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "combo_id": "4f33746c-d81b-4c2c-b7eb-659365dec407",
+    "nombre": "Combo 4f33746c",
+    "productos_nombres": [
+      "Chijaukai de Mariscos",
+      "Wantanes Fritos"
+    ],
+    "precio": 48.55,
+    "disponible": false
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "combo_id": "4649ca3d-45a4-49fb-851f-3c476d657fae",
+    "nombre": "Combo 4649ca3d",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Cerdo al Sillao"
+    ],
+    "precio": 41.2,
+    "disponible": true
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "combo_id": "b231e9cd-ff2c-4ca1-a19a-c4ce2c75c3c9",
+    "nombre": "Combo b231e9cd",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Pollo con Verduras",
+      "Wantán Frito"
+    ],
+    "precio": 90.23,
+    "disponible": false
+  },
+  {
+    "local_id": "bf6089e9-700c-4d60-9fd5-3c2c7148ac73",
+    "combo_id": "9a6af316-9855-48e9-8a87-af5cfdfbe530",
+    "nombre": "Combo 9a6af316",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Arroz Chaufa de Pollo",
+      "Arroz Chaufa de Carne",
+      "Sopa de Gallina China"
+    ],
+    "precio": 115.54,
+    "disponible": true
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "combo_id": "67f45305-bd4b-4837-9d2e-d59f72538c01",
+    "nombre": "Combo 67f45305",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Cerdo Agridulce"
+    ],
+    "precio": 57.09,
+    "disponible": false
+  },
+  {
+    "local_id": "7b9407eb-442f-4bf9-96a5-6cbc9a6320fa",
+    "combo_id": "baba7e77-8aa3-4cba-8c64-e47f2b324837",
+    "nombre": "Combo baba7e77",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Pollo con Tamarindo",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 92.44,
+    "disponible": true
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "combo_id": "448d9dec-347d-4ae1-af36-746048c22a7f",
+    "nombre": "Combo 448d9dec",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Arroz Blanco",
+      "Arroz Chaufa Especial",
+      "Cerdo Agridulce"
+    ],
+    "precio": 65.46,
+    "disponible": true
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "b2bc7c42-1da8-4501-96f6-e91316ce5e7c",
+    "nombre": "Combo b2bc7c42",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Tallarín Saltado Mixto",
+      "Sopa Wantán",
+      "Chicha Morada 1L"
+    ],
+    "precio": 115.89,
+    "disponible": false
+  },
+  {
+    "local_id": "9cc0d508-1765-4d63-ae44-60a9d8d1260c",
+    "combo_id": "31bd96a2-c845-411b-9359-7ffd64426a60",
+    "nombre": "Combo 31bd96a2",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Té Helado 500ml",
+      "Sopa Wantán"
+    ],
+    "precio": 83.25,
+    "disponible": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "combo_id": "20f892c3-829c-417b-9e36-5d03c071875d",
+    "nombre": "Combo 20f892c3",
+    "productos_nombres": [
+      "Empanaditas Chinas",
+      "Arroz Chaufa de Pollo",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 94.6,
+    "disponible": false
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "combo_id": "31ac80e0-dfc1-4f33-91be-63f346379bcb",
+    "nombre": "Combo 31ac80e0",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Carne Mongoliana",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 88.04,
+    "disponible": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "combo_id": "a92c32ed-a929-4fd6-a91f-1b192de85335",
+    "nombre": "Combo a92c32ed",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Cerdo al Sillao",
+      "Inca Kola 1.5L",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 77.58,
+    "disponible": true
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "combo_id": "47a78bb3-23b6-4b58-962f-af59341ecfe3",
+    "nombre": "Combo 47a78bb3",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Tallarín Saltado de Pollo",
+      "Wantán Frito",
+      "Cerdo Agridulce"
+    ],
+    "precio": 77.31,
+    "disponible": true
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "combo_id": "4114fd92-eb33-4212-99e3-69a088a82c32",
+    "nombre": "Combo 4114fd92",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 59.97,
+    "disponible": true
+  },
+  {
+    "local_id": "6446c002-7000-426f-b5b9-04c31313326f",
+    "combo_id": "e5c278ba-aa2d-4ce1-8aa4-e4b4aa154723",
+    "nombre": "Combo e5c278ba",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Chijaukai de Mariscos",
+      "Rollitos Primavera"
+    ],
+    "precio": 84.21,
+    "disponible": true
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "45967e40-479b-400f-89de-5e3035f605ef",
+    "nombre": "Combo 45967e40",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Sopa de Gallina China"
+    ],
+    "precio": 55.23,
+    "disponible": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "0415148f-38d6-417d-ab8c-94d57accfb85",
+    "nombre": "Combo 0415148f",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Chicharrón de Calamar",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 84.18,
+    "disponible": true
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "combo_id": "c1dba01d-d360-4e02-ba01-4338a32bbfcb",
+    "nombre": "Combo c1dba01d",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Carne con Ostión",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 64.3,
+    "disponible": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "combo_id": "da4854d6-1da0-4d39-9035-655fa1c1d96f",
+    "nombre": "Combo da4854d6",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Cerdo Agridulce",
+      "Cerdo al Sillao",
+      "Pollo con Verduras"
+    ],
+    "precio": 85.33,
+    "disponible": false
+  },
+  {
+    "local_id": "d1d44a26-cd66-41e0-8394-247c6ab51775",
+    "combo_id": "beb46818-cb3e-4bfc-bc41-e4ca3809a68d",
+    "nombre": "Combo beb46818",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Siu Mai",
+      "Mazamorra Morada",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 73.39,
+    "disponible": true
+  },
+  {
+    "local_id": "b7c69e6d-1a5d-445f-9927-a2c76254b5ba",
+    "combo_id": "0cb706b8-51bd-4ad1-8ef8-ac98aaa15b95",
+    "nombre": "Combo 0cb706b8",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Arroz Blanco"
+    ],
+    "precio": 34.67,
+    "disponible": true
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "bff71e95-f360-4e7e-a826-b927057456d8",
+    "nombre": "Combo bff71e95",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Carne con Verduras al Wok"
+    ],
+    "precio": 49.58,
+    "disponible": true
+  },
+  {
+    "local_id": "955d8916-22c5-4ed1-b456-1f56d44f5147",
+    "combo_id": "29f3911e-7346-44f9-b45b-d90f272aad72",
+    "nombre": "Combo 29f3911e",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Tallarín Saltado de Pollo",
+      "Empanaditas Chinas"
+    ],
+    "precio": 66.66,
+    "disponible": false
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "combo_id": "640e0ba4-951b-4826-bd60-5c9a67165343",
+    "nombre": "Combo 640e0ba4",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 50.6,
+    "disponible": true
+  },
+  {
+    "local_id": "92ad37a4-e35e-4581-9a5e-deccfcd61901",
+    "combo_id": "796a6f22-2295-431f-b641-e08c63412e43",
+    "nombre": "Combo 796a6f22",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Pollo con Tamarindo",
+      "Sopa Wantán",
+      "Wantán Frito"
+    ],
+    "precio": 106.66,
+    "disponible": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "combo_id": "fe914bf9-fff3-48c3-863e-4a7f03d2a151",
+    "nombre": "Combo fe914bf9",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Camarones al Tamarindo",
+      "Sopa de Gallina China",
+      "Pollo Chi Jau Kay"
+    ],
+    "precio": 100.92,
+    "disponible": true
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "57a42312-583a-495f-930c-17116c8f86b2",
+    "nombre": "Combo 57a42312",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Chapsui de Verduras",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 81.4,
+    "disponible": true
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "combo_id": "73046f16-3b73-4f12-a2ed-5b84118b4aab",
+    "nombre": "Combo 73046f16",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Pollo con Verduras"
+    ],
+    "precio": 54.54,
+    "disponible": true
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "combo_id": "eb1bfe9e-04e0-4335-ac7b-d1ae142c0e9f",
+    "nombre": "Combo eb1bfe9e",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Carne con Ostión",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 65.91,
+    "disponible": true
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "67713be1-d40b-4885-b8df-2184292c3e6c",
+    "nombre": "Combo 67713be1",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Carne con Verduras al Wok",
+      "Sopa de Gallina China"
+    ],
+    "precio": 75.25,
+    "disponible": true
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "7591c3c8-347e-49c0-8c24-b955a18eea62",
+    "nombre": "Combo 7591c3c8",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Arroz Chaufa de Carne",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 97.51,
+    "disponible": false
+  },
+  {
+    "local_id": "431d5695-adec-45d6-ae28-f9802e24f756",
+    "combo_id": "eb145b1a-4441-493e-95a6-b886fb1ae13a",
+    "nombre": "Combo eb145b1a",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 51.99,
+    "disponible": true
+  },
+  {
+    "local_id": "f4e37b46-cb32-43f4-ad92-59713454f25b",
+    "combo_id": "7d0ee792-b52a-4c72-b899-59d67a7df608",
+    "nombre": "Combo 7d0ee792",
+    "productos_nombres": [
+      "Siu Mai",
+      "Chicharrón de Calamar",
+      "Camarones al Tamarindo",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 51.28,
+    "disponible": true
+  },
+  {
+    "local_id": "ed6c0f41-f404-4f26-b446-d954f8e3137d",
+    "combo_id": "afb5d186-2443-4285-8918-105a5b7a7cc7",
+    "nombre": "Combo afb5d186",
+    "productos_nombres": [
+      "Siu Mai",
+      "Arroz con Mariscos",
+      "Arroz Chaufa de Pollo",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 87.01,
+    "disponible": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "7f015b6a-0a85-40c3-9a5f-961134b3d2e9",
+    "nombre": "Combo 7f015b6a",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Sopa de Gallina China",
+      "Arroz Blanco",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 76.15,
+    "disponible": true
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "5ba078c3-c76a-43a4-b99a-8f363846fe93",
+    "nombre": "Combo 5ba078c3",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Pollo Chi Jau Kay",
+      "Chapsui de Verduras",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 112.96,
+    "disponible": false
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "combo_id": "1a4ff487-28ac-450c-ac8a-0243f468dad7",
+    "nombre": "Combo 1a4ff487",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Camarones al Tamarindo",
+      "Picarones"
+    ],
+    "precio": 65.89,
+    "disponible": true
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "092566da-1a78-4221-82d3-2635a25d45d4",
+    "nombre": "Combo 092566da",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Cerdo Agridulce"
+    ],
+    "precio": 47.71,
+    "disponible": true
+  },
+  {
+    "local_id": "49871943-d593-4434-bb06-91f0e0466363",
+    "combo_id": "f6d46124-f183-4a82-be4a-18cd069dfaea",
+    "nombre": "Combo f6d46124",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Arroz Chaufa Especial",
+      "Tallarín Saltado de Carne",
+      "Lomo Saltado"
+    ],
+    "precio": 91.82,
+    "disponible": true
+  },
+  {
+    "local_id": "0f55263e-5d37-46ba-b890-64dd61c5b981",
+    "combo_id": "4e1622eb-5484-4eab-b0f3-4a889d32d95e",
+    "nombre": "Combo 4e1622eb",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Carne con Verduras al Wok",
+      "Chicha Morada 1L",
+      "Arroz Chaufa de Carne"
+    ],
+    "precio": 111.41,
+    "disponible": true
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "29bedcd1-6046-43c6-82f9-00fe220f2adb",
+    "nombre": "Combo 29bedcd1",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Sopa de Gallina China"
+    ],
+    "precio": 57.83,
+    "disponible": true
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "combo_id": "e1e122ef-92c4-4f29-a4c1-ba27fb9a9ece",
+    "nombre": "Combo e1e122ef",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Arroz Blanco"
+    ],
+    "precio": 35.41,
+    "disponible": false
+  },
+  {
+    "local_id": "d7c5cf1b-e792-4471-a484-4e13731fbd02",
+    "combo_id": "f77ba517-e500-43ba-a869-6486fc6614f9",
+    "nombre": "Combo f77ba517",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Sopa de Gallina China",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 96.8,
+    "disponible": true
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "combo_id": "bb7c0a2b-ccaf-4f2f-b6a7-fc6215bc31d3",
+    "nombre": "Combo bb7c0a2b",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 50.9,
+    "disponible": true
+  },
+  {
+    "local_id": "9693594e-b147-4f47-8e6d-ec6927a89995",
+    "combo_id": "1b066a4d-c9cf-447b-9b09-079a16805e89",
+    "nombre": "Combo 1b066a4d",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 41.35,
+    "disponible": true
+  },
+  {
+    "local_id": "7ec09e6e-9fca-4844-bb92-11c8973288b8",
+    "combo_id": "7ec7cfd1-f508-4aad-88a6-bf712aa2e5fe",
+    "nombre": "Combo 7ec7cfd1",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Chicha Morada 1L",
+      "Cerdo Agridulce",
+      "Mazamorra Morada"
+    ],
+    "precio": 126.98,
+    "disponible": true
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "combo_id": "c63223ea-6934-4391-8e54-b326b3f79ca2",
+    "nombre": "Combo c63223ea",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Empanaditas Chinas",
+      "Tallarín Saltado Mixto",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 109.43,
+    "disponible": true
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "06e7431d-8449-4b0c-a7ef-9015631c7bbb",
+    "nombre": "Combo 06e7431d",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Arroz Chaufa de Carne",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 55.61,
+    "disponible": true
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "combo_id": "85d413e0-3328-4eb1-b90d-211c68277e76",
+    "nombre": "Combo 85d413e0",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Mazamorra Morada",
+      "Arroz Blanco"
+    ],
+    "precio": 62.36,
+    "disponible": true
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "combo_id": "572d8f01-a172-4398-a83c-dbea78b88444",
+    "nombre": "Combo 572d8f01",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Sopa de Gallina China"
+    ],
+    "precio": 55.08,
+    "disponible": false
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "combo_id": "287d2916-8d95-43a7-a5b9-58dd12ec4fe7",
+    "nombre": "Combo 287d2916",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Wantán Frito",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 59.49,
+    "disponible": true
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "combo_id": "a0d13098-e755-4b64-8b96-7ac11ccfcb6f",
+    "nombre": "Combo a0d13098",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Arroz Chaufa de Mariscos",
+      "Tallarín con Mariscos",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 98.83,
+    "disponible": false
+  },
+  {
+    "local_id": "881d5563-4fb3-4b29-818f-cc738aef6434",
+    "combo_id": "521ba939-6f72-4205-a533-764b0377a8cd",
+    "nombre": "Combo 521ba939",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Tallarín Saltado Mixto",
+      "Arroz con Mariscos",
+      "Chijaukai de Mariscos"
+    ],
+    "precio": 86.21,
+    "disponible": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "combo_id": "17d3d431-49f1-4489-b4d2-675a17f7bb1b",
+    "nombre": "Combo 17d3d431",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Picarones",
+      "Arroz Chaufa Especial"
+    ],
+    "precio": 79.61,
+    "disponible": false
+  },
+  {
+    "local_id": "2061a121-1f3b-46ea-b06e-ef399a7ce2b2",
+    "combo_id": "828bbfc0-8d20-4466-9301-bf59eb3b0c6d",
+    "nombre": "Combo 828bbfc0",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Sopa Min",
+      "Sopa Wantán",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 126.29,
+    "disponible": true
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "combo_id": "61d0cc6b-34f2-4fba-a1b6-df364148a8f2",
+    "nombre": "Combo 61d0cc6b",
+    "productos_nombres": [
+      "Tallarín Saltado de Pollo",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 31.21,
+    "disponible": false
+  },
+  {
+    "local_id": "548c0057-cb2c-4408-8e91-3c6c45538c79",
+    "combo_id": "e081fca7-d6cc-4768-8cff-782be4df7767",
+    "nombre": "Combo e081fca7",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Empanaditas Chinas",
+      "Arroz Chaufa de Carne",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 130.11,
+    "disponible": false
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "361befcb-78ef-4a69-b2e9-2238cd39ffd7",
+    "nombre": "Combo 361befcb",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 51.59,
+    "disponible": true
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "87850d7e-8476-4803-b012-d833825627bb",
+    "nombre": "Combo 87850d7e",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Chijaukai de Mariscos",
+      "Cerdo Agridulce"
+    ],
+    "precio": 91.77,
+    "disponible": true
+  },
+  {
+    "local_id": "16294a76-d537-4368-a704-ae0ba24a39c8",
+    "combo_id": "48eb808c-a9cb-4c84-8baf-fcf95fed4225",
+    "nombre": "Combo 48eb808c",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 66.7,
+    "disponible": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "combo_id": "3bbacd02-edeb-438b-80ee-2b6ae1024dda",
+    "nombre": "Combo 3bbacd02",
+    "productos_nombres": [
+      "Siu Mai",
+      "Chapsui de Verduras",
+      "Lomo Saltado",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 76.07,
+    "disponible": false
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "combo_id": "77233297-7c3d-4260-b626-07036bac5ae8",
+    "nombre": "Combo 77233297",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Rollitos Primavera"
+    ],
+    "precio": 75.04,
+    "disponible": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "a2b19f1f-943c-40b4-a649-0ab58995d379",
+    "nombre": "Combo a2b19f1f",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Pollo con Tamarindo",
+      "Inca Kola 1.5L",
+      "Carne Mongoliana"
+    ],
+    "precio": 104.11,
+    "disponible": true
+  },
+  {
+    "local_id": "582352d5-1a5f-40d6-8ea8-5dcc3ef69dd2",
+    "combo_id": "709d2a06-2567-4af9-8fcd-f61383e8dc8c",
+    "nombre": "Combo 709d2a06",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Pollo Chi Jau Kay",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 54.6,
+    "disponible": false
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "ffbe7333-7caf-4977-aa49-7750a9163afb",
+    "nombre": "Combo ffbe7333",
+    "productos_nombres": [
+      "Picarones",
+      "Camarones al Tamarindo",
+      "Arroz Chaufa de Mariscos",
+      "Helado de Lúcuma"
+    ],
+    "precio": 104.45,
+    "disponible": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "combo_id": "57a54322-e789-4a63-b40d-fdc2208c079e",
+    "nombre": "Combo 57a54322",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Sopa de Gallina China",
+      "Rollitos Primavera",
+      "Té Helado 500ml"
+    ],
+    "precio": 103.01,
+    "disponible": true
+  },
+  {
+    "local_id": "9da00e5e-a1a2-428e-841c-e66de3d83b81",
+    "combo_id": "9b5714bf-3b77-43ee-8f5f-15d73946b509",
+    "nombre": "Combo 9b5714bf",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Chancho con Tamarindo",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 83.04,
+    "disponible": true
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "combo_id": "f385e422-bdb7-4946-af26-b7f2bce00639",
+    "nombre": "Combo f385e422",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Empanaditas Chinas",
+      "Chicha Morada 1L",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 111.71,
+    "disponible": false
+  },
+  {
+    "local_id": "9de42b61-353a-475c-b9b3-c227701e31a6",
+    "combo_id": "44de30ce-2fff-49da-b14b-0cd7d9e760bb",
+    "nombre": "Combo 44de30ce",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Arroz Chaufa de Mariscos",
+      "Empanaditas Chinas"
+    ],
+    "precio": 87.43,
+    "disponible": true
+  },
+  {
+    "local_id": "af876d64-3c07-4e3a-b666-54a46a28d0a7",
+    "combo_id": "cb8bc8d6-c97c-4ee2-b08e-2b743b98bb71",
+    "nombre": "Combo cb8bc8d6",
+    "productos_nombres": [
+      "Siu Mai",
+      "Chancho con Tamarindo",
+      "Arroz Chaufa Especial",
+      "Sopa de Gallina China"
+    ],
+    "precio": 92.86,
+    "disponible": true
+  },
+  {
+    "local_id": "338d9aa4-bf1e-4de4-a753-3486b3a52bcd",
+    "combo_id": "d851a353-c765-4406-b9c2-474e43f8d5f3",
+    "nombre": "Combo d851a353",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Arroz con Mariscos",
+      "Empanaditas Chinas",
+      "Sopa Min"
+    ],
+    "precio": 102.93,
+    "disponible": true
+  },
+  {
+    "local_id": "56bad4d5-a879-43a5-b369-3b08401c9e7f",
+    "combo_id": "65e75e7e-4dd8-4ebd-ab22-7c07154818a4",
+    "nombre": "Combo 65e75e7e",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Chicha Morada 1L",
+      "Siu Mai"
+    ],
+    "precio": 66.91,
+    "disponible": true
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "combo_id": "5c315c0a-6b8d-45ba-8a59-7f6103c50365",
+    "nombre": "Combo 5c315c0a",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Picarones",
+      "Rollitos Primavera",
+      "Té Helado 500ml"
+    ],
+    "precio": 81.53,
+    "disponible": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "combo_id": "b3247be6-d1b8-4dd2-8134-ba55742a64e0",
+    "nombre": "Combo b3247be6",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Inca Kola 1.5L",
+      "Tallarín Saltado Mixto",
+      "Chancho con Tamarindo"
+    ],
+    "precio": 78.65,
+    "disponible": false
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "combo_id": "a5147c81-e93c-4cef-a173-67bbf4937870",
+    "nombre": "Combo a5147c81",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Arroz Chaufa de Carne",
+      "Sopa Min"
+    ],
+    "precio": 72.59,
+    "disponible": true
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "combo_id": "ccf5877f-19d5-4760-9312-b2644572e4a9",
+    "nombre": "Combo ccf5877f",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Wantán Frito"
+    ],
+    "precio": 51.93,
+    "disponible": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "combo_id": "a6e90a9e-c384-436a-aa5f-bde79bb1a6ec",
+    "nombre": "Combo a6e90a9e",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Arroz con Mariscos",
+      "Tallarín Saltado de Pollo",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 73.67,
+    "disponible": true
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "b69a5516-3be6-4b19-ae39-83c55981ba6e",
+    "nombre": "Combo b69a5516",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 70.57,
+    "disponible": false
+  },
+  {
+    "local_id": "4a47f100-a031-420a-a475-bd2adaa8e2d3",
+    "combo_id": "fab7509f-6268-4ad4-b132-919363ad04fc",
+    "nombre": "Combo fab7509f",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Arroz Chaufa Mixto",
+      "Wantán Frito",
+      "Lomo Saltado"
+    ],
+    "precio": 72.75,
+    "disponible": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "combo_id": "f38ffd14-0a8a-45e3-a014-ad9848d802c6",
+    "nombre": "Combo f38ffd14",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Sopa de Gallina China",
+      "Agua Mineral 625ml",
+      "Carne con Ostión"
+    ],
+    "precio": 79.23,
+    "disponible": true
+  },
+  {
+    "local_id": "54076535-9c71-4318-b28e-5adfbe88c6ac",
+    "combo_id": "4cb7ee67-6159-4a46-83a0-9bd0233666d6",
+    "nombre": "Combo 4cb7ee67",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Siu Mai"
+    ],
+    "precio": 28.58,
+    "disponible": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "combo_id": "d612d278-a93d-481c-bdd1-fb90cb8d9f86",
+    "nombre": "Combo d612d278",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Lomo Saltado",
+      "Té Helado 500ml",
+      "Wantán Frito"
+    ],
+    "precio": 71.85,
+    "disponible": false
+  },
+  {
+    "local_id": "0ea54d95-e36d-4e42-9dff-7bba5a5a14aa",
+    "combo_id": "9bb1bcb8-52c5-4737-a75c-bf6582da9f4d",
+    "nombre": "Combo 9bb1bcb8",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Pollo con Verduras",
+      "Lomo Saltado",
+      "Arroz Chaufa Especial"
+    ],
+    "precio": 101.27,
+    "disponible": false
+  },
+  {
+    "local_id": "47b2e6d7-b3e8-47c2-a7ee-1d3b45d34449",
+    "combo_id": "25e26f48-e39c-4678-92c2-bb23bd8f54e1",
+    "nombre": "Combo 25e26f48",
+    "productos_nombres": [
+      "Arroz Chaufa de Carne",
+      "Chicha Morada 1L",
+      "Lomo Saltado",
+      "Té Helado 500ml"
+    ],
+    "precio": 112.64,
+    "disponible": false
+  },
+  {
+    "local_id": "1322ef30-a468-4e48-9916-1a7bad595029",
+    "combo_id": "31165a92-49bc-43d8-b8d9-c6faf7b6b48f",
+    "nombre": "Combo 31165a92",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Wantanes Fritos",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 58.11,
+    "disponible": true
+  },
+  {
+    "local_id": "653f2a5a-ceb0-4f6e-a92c-d5a66e57b2ab",
+    "combo_id": "988f5bbd-9920-4d44-bbb2-dc2d2fbc6604",
+    "nombre": "Combo 988f5bbd",
+    "productos_nombres": [
+      "Pollo Chi Jau Kay",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 50.93,
+    "disponible": true
+  },
+  {
+    "local_id": "bfbd9ae4-09e2-4d3e-84d7-708502dff686",
+    "combo_id": "cde05145-6b12-4a4c-860a-6d78f98bd6a7",
+    "nombre": "Combo cde05145",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Chicharrón de Calamar",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 54.92,
+    "disponible": true
+  },
+  {
+    "local_id": "fce82421-ed49-4cbf-a6c0-163e131b81f4",
+    "combo_id": "8fa6986c-14d7-49c2-88d2-667cb349b6f0",
+    "nombre": "Combo 8fa6986c",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Chapsui de Verduras"
+    ],
+    "precio": 63.57,
+    "disponible": true
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "combo_id": "391c54b9-5398-4d1a-a735-c1fe11d5c9b5",
+    "nombre": "Combo 391c54b9",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Mazamorra Morada",
+      "Pollo con Verduras"
+    ],
+    "precio": 86.56,
+    "disponible": true
+  },
+  {
+    "local_id": "ad3a2ece-b758-4f46-93ed-4ec4c8693851",
+    "combo_id": "ca351c2e-95e2-4dec-92a9-09e9f7a28b81",
+    "nombre": "Combo ca351c2e",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Wantán Frito",
+      "Arroz Chaufa Especial",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 85.98,
+    "disponible": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "combo_id": "bda3566d-40be-4e12-ab82-6dad28de2b26",
+    "nombre": "Combo bda3566d",
+    "productos_nombres": [
+      "Sopa de Gallina China",
+      "Arroz Blanco",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 49.55,
+    "disponible": true
+  },
+  {
+    "local_id": "a35cc44d-edde-4ee5-8df1-82df44bd3f8c",
+    "combo_id": "350b8f91-1537-4ffd-8950-6c0ba0124357",
+    "nombre": "Combo 350b8f91",
+    "productos_nombres": [
+      "Picarones",
+      "Siu Mai",
+      "Chijaukai de Mariscos",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 61.28,
+    "disponible": false
+  },
+  {
+    "local_id": "2e9bf5fc-fb78-41dd-b75a-e6fb15f35c8c",
+    "combo_id": "1e124594-5a29-4344-93f9-6d2831bebda2",
+    "nombre": "Combo 1e124594",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Chapsui de Verduras"
+    ],
+    "precio": 59.11,
+    "disponible": false
+  },
+  {
+    "local_id": "9618bfb4-2dbc-4e67-ae44-7109c75179b5",
+    "combo_id": "724d56f8-8a67-4144-8bd4-89baae09c9e6",
+    "nombre": "Combo 724d56f8",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Lomo Saltado",
+      "Arroz Chaufa de Carne"
+    ],
+    "precio": 71.49,
+    "disponible": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "combo_id": "a00733f5-57d1-40d2-948d-578cd3442cdc",
+    "nombre": "Combo a00733f5",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Chancho con Tamarindo",
+      "Picarones"
+    ],
+    "precio": 65.42,
+    "disponible": true
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "combo_id": "0a9147ac-5204-4ea4-85ab-9b8a8475445b",
+    "nombre": "Combo 0a9147ac",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 41.95,
+    "disponible": true
+  },
+  {
+    "local_id": "04263787-45b1-4e45-a572-7c219f662c10",
+    "combo_id": "fdb4e76f-5f1a-4138-84b7-48c851859d38",
+    "nombre": "Combo fdb4e76f",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 61.23,
+    "disponible": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "combo_id": "c9099f84-cf33-4263-aa43-aaa232fce2d7",
+    "nombre": "Combo c9099f84",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Wantán Frito"
+    ],
+    "precio": 46.57,
+    "disponible": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "combo_id": "86f50df5-862f-4baa-b466-8bb888df2968",
+    "nombre": "Combo 86f50df5",
+    "productos_nombres": [
+      "Chancho con Tamarindo",
+      "Arroz Chaufa de Pollo",
+      "Wantán Frito",
+      "Sopa Wantán"
+    ],
+    "precio": 131.2,
+    "disponible": true
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "combo_id": "b6dfdcec-9e67-415d-be9e-43f04ae8da95",
+    "nombre": "Combo b6dfdcec",
+    "productos_nombres": [
+      "Lomo Saltado",
+      "Arroz Blanco"
+    ],
+    "precio": 27.66,
+    "disponible": false
+  },
+  {
+    "local_id": "62469888-539f-423e-a0a2-66e22ba2405f",
+    "combo_id": "22c159a8-806f-4d45-b27a-48aa2f45aef5",
+    "nombre": "Combo 22c159a8",
+    "productos_nombres": [
+      "Pollo Tipakay",
+      "Carne con Ostión"
+    ],
+    "precio": 44.86,
+    "disponible": false
+  },
+  {
+    "local_id": "ef09d0f3-d447-4c80-a2a1-f3d245d38d8c",
+    "combo_id": "d64c53f4-2652-4f27-97b3-5f980da390a5",
+    "nombre": "Combo d64c53f4",
+    "productos_nombres": [
+      "Helado de Lúcuma",
+      "Tallarín Saltado Mixto"
+    ],
+    "precio": 56.58,
+    "disponible": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "776bca95-f579-4dcf-90c0-0ae1490fb08a",
+    "nombre": "Combo 776bca95",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Lomo Saltado",
+      "Wantanes Fritos"
+    ],
+    "precio": 74.79,
+    "disponible": true
+  },
+  {
+    "local_id": "67c4ad56-58e9-47b0-8c02-f3d6d7334aba",
+    "combo_id": "1830b7aa-0fdb-4c38-af87-fe6afbcdd5da",
+    "nombre": "Combo 1830b7aa",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Carne Mongoliana"
+    ],
+    "precio": 46.04,
+    "disponible": false
+  },
+  {
+    "local_id": "5c5301ce-85ac-487d-8ef0-418c2ff91325",
+    "combo_id": "f92b6c88-abc7-47ab-ba1a-ce5ddf542d2a",
+    "nombre": "Combo f92b6c88",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Mazamorra Morada"
+    ],
+    "precio": 65.11,
+    "disponible": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "combo_id": "994c4782-637d-4b15-ab51-860fa3e8a635",
+    "nombre": "Combo 994c4782",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Cerdo Agridulce",
+      "Helado de Lúcuma",
+      "Sopa Wantán"
+    ],
+    "precio": 105.63,
+    "disponible": true
+  },
+  {
+    "local_id": "eab0518b-4b0c-4e4a-a9e4-74bc2ee63c6a",
+    "combo_id": "e442eb98-34c4-450a-bfdb-e607f3f314c1",
+    "nombre": "Combo e442eb98",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Arroz Chaufa de Mariscos",
+      "Cerdo al Sillao",
+      "Picarones"
+    ],
+    "precio": 84.48,
+    "disponible": true
+  },
+  {
+    "local_id": "13db56e1-3336-4dae-90c7-ef6d167797ea",
+    "combo_id": "2d2efd37-263d-4dd3-afd1-60bb73b0770d",
+    "nombre": "Combo 2d2efd37",
+    "productos_nombres": [
+      "Arroz Chaufa de Mariscos",
+      "Carne con Verduras al Wok",
+      "Pollo con Verduras"
+    ],
+    "precio": 68.39,
+    "disponible": true
+  },
+  {
+    "local_id": "25f05627-4109-4788-b845-0eb99c35873a",
+    "combo_id": "855ab11d-1b9f-4365-be46-e5d274808e47",
+    "nombre": "Combo 855ab11d",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Té Helado 500ml",
+      "Tallarín Saltado de Pollo"
+    ],
+    "precio": 70.27,
+    "disponible": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "combo_id": "da4d8113-5104-475e-a6ce-34bea874257d",
+    "nombre": "Combo da4d8113",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Tallarín Saltado de Carne",
+      "Carne con Ostión"
+    ],
+    "precio": 60.48,
+    "disponible": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "combo_id": "c9cd4474-fdda-4c87-a532-5d6ba40ccae5",
+    "nombre": "Combo c9cd4474",
+    "productos_nombres": [
+      "Mazamorra Morada",
+      "Empanaditas Chinas",
+      "Arroz Chaufa de Carne",
+      "Helado de Lúcuma"
+    ],
+    "precio": 127.23,
+    "disponible": false
+  },
+  {
+    "local_id": "fe1c44aa-56e4-486c-98f9-4f3c3d72f8a3",
+    "combo_id": "9c7af2b1-aa7f-499f-be9f-19472c81e9b1",
+    "nombre": "Combo 9c7af2b1",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Arroz Blanco",
+      "Agua Mineral 625ml"
+    ],
+    "precio": 46.59,
+    "disponible": true
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "7e2476ce-ec66-4809-94d4-490c4297d361",
+    "nombre": "Combo 7e2476ce",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Wantanes Fritos",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 77.51,
+    "disponible": true
+  },
+  {
+    "local_id": "81df0ac2-f0d1-4832-b60a-8b188cf93bf8",
+    "combo_id": "1ff7a9fb-8134-4eaa-8a80-1786ad93d350",
+    "nombre": "Combo 1ff7a9fb",
+    "productos_nombres": [
+      "Sopa Min",
+      "Arroz Chaufa de Carne",
+      "Wantanes Fritos"
+    ],
+    "precio": 92.22,
+    "disponible": false
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "combo_id": "19005ff0-7af3-4c31-985f-a39de6c2c75b",
+    "nombre": "Combo 19005ff0",
+    "productos_nombres": [
+      "Arroz Chaufa de Pollo",
+      "Sopa Wantán",
+      "Cerdo al Sillao"
+    ],
+    "precio": 95.77,
+    "disponible": false
+  },
+  {
+    "local_id": "ada3f292-6675-46a5-ab9e-8efac041bd51",
+    "combo_id": "3baac236-035b-4b3d-9f2e-b26c0cf3ebcd",
+    "nombre": "Combo 3baac236",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Empanaditas Chinas"
+    ],
+    "precio": 70.6,
+    "disponible": true
+  },
+  {
+    "local_id": "9faf340a-e497-491d-b3a0-aad38f7878f1",
+    "combo_id": "eb71c60c-78f2-4c18-9d1b-e9887f5094de",
+    "nombre": "Combo eb71c60c",
+    "productos_nombres": [
+      "Chicha Morada 1L",
+      "Tallarín Saltado Mixto",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 94.04,
+    "disponible": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "8c7de59c-155d-44e1-8667-1c7215ef6f81",
+    "nombre": "Combo 8c7de59c",
+    "productos_nombres": [
+      "Arroz Chaufa Especial",
+      "Chicharrón de Calamar",
+      "Inca Kola 1.5L",
+      "Chapsui de Verduras"
+    ],
+    "precio": 89.09,
+    "disponible": false
+  },
+  {
+    "local_id": "48f59350-054f-4ce5-913e-b664ac632b76",
+    "combo_id": "66e69c51-3037-462d-ab8b-0c06156c2639",
+    "nombre": "Combo 66e69c51",
+    "productos_nombres": [
+      "Carne con Verduras al Wok",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 51.02,
+    "disponible": false
+  },
+  {
+    "local_id": "6b0ee6a2-17b9-43de-8c08-a58aa7ff44ee",
+    "combo_id": "e0b46f7c-add9-477d-933d-183e93875e0c",
+    "nombre": "Combo e0b46f7c",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Pollo Chi Jau Kay",
+      "Carne Mongoliana",
+      "Arroz Chaufa de Mariscos"
+    ],
+    "precio": 106.54,
+    "disponible": false
+  },
+  {
+    "local_id": "d68bdcca-d82a-4b00-802d-fae37e6047e6",
+    "combo_id": "68f760d5-eea4-4750-9088-3847a09ad94d",
+    "nombre": "Combo 68f760d5",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Arroz Chaufa de Pollo"
+    ],
+    "precio": 51.79,
+    "disponible": false
+  },
+  {
+    "local_id": "91b80e40-ab53-4765-8964-03d49b3e9b22",
+    "combo_id": "f6753e60-467f-45e1-b27b-840ff5d02968",
+    "nombre": "Combo f6753e60",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Carne Mongoliana",
+      "Pollo Tipakay",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 120.37,
+    "disponible": false
+  },
+  {
+    "local_id": "32dea571-6aca-4d59-b1ee-cfbb41ee578e",
+    "combo_id": "2a8fb3d1-acda-48e7-a4fa-669a0072dd51",
+    "nombre": "Combo 2a8fb3d1",
+    "productos_nombres": [
+      "Arroz Chaufa Mixto",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 39.36,
+    "disponible": false
+  },
+  {
+    "local_id": "169951d3-a874-4e98-ada8-38af6d3f6c58",
+    "combo_id": "0d7d4de2-5515-44a7-8000-5cfcc179ee24",
+    "nombre": "Combo 0d7d4de2",
+    "productos_nombres": [
+      "Sopa Wantán",
+      "Sopa de Gallina China",
+      "Té Helado 500ml"
+    ],
+    "precio": 81.9,
+    "disponible": false
+  },
+  {
+    "local_id": "6b32d475-f722-4cfe-a9c6-ca2b6575ae6f",
+    "combo_id": "dd9c9556-2cd8-449e-9e05-a63cf3fe0f8e",
+    "nombre": "Combo dd9c9556",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Rollitos Primavera",
+      "Chancho con Tamarindo",
+      "Pollo Tipakay"
+    ],
+    "precio": 124.97,
+    "disponible": true
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "65d6cb46-e964-493a-ab30-f13d0822e924",
+    "nombre": "Combo 65d6cb46",
+    "productos_nombres": [
+      "Inca Kola 1.5L",
+      "Tallarín Saltado de Carne",
+      "Carne Mongoliana",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 95.15,
+    "disponible": false
+  },
+  {
+    "local_id": "bc900902-b2dc-489e-a26c-d3ca90a8ec1a",
+    "combo_id": "00818030-7dbf-4f6d-b5ec-36dec9fdd308",
+    "nombre": "Combo 00818030",
+    "productos_nombres": [
+      "Camarones al Tamarindo",
+      "Rollitos Primavera"
+    ],
+    "precio": 50.84,
+    "disponible": false
+  },
+  {
+    "local_id": "bd3193b4-e6a7-4a52-91b3-f5a1fad1400f",
+    "combo_id": "9b5e342e-2308-4a35-ac0f-7b80bc3e1ca5",
+    "nombre": "Combo 9b5e342e",
+    "productos_nombres": [
+      "Wantán Frito",
+      "Cerdo al Sillao",
+      "Pollo con Tamarindo"
+    ],
+    "precio": 85.68,
+    "disponible": false
+  },
+  {
+    "local_id": "290899e0-cf6a-4d45-be50-c12b78e86dab",
+    "combo_id": "fdee1b31-e1db-4d81-b2b5-4c014b6c2cae",
+    "nombre": "Combo fdee1b31",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Chijaukai de Mariscos",
+      "Siu Mai"
+    ],
+    "precio": 76.83,
+    "disponible": false
+  },
+  {
+    "local_id": "4d2c92cf-d76f-4b70-a7b8-0243bb6b0dd2",
+    "combo_id": "1aaaa480-9633-4163-97a1-ae0332dee43a",
+    "nombre": "Combo 1aaaa480",
+    "productos_nombres": [
+      "Picarones",
+      "Sopa Wantán",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 66.05,
+    "disponible": true
+  },
+  {
+    "local_id": "d294d998-65ed-44fb-8095-fd792cc01280",
+    "combo_id": "c5ca7871-9eaa-4c5b-9219-5218cf019925",
+    "nombre": "Combo c5ca7871",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Sopa de Gallina China",
+      "Chijaukai de Mariscos",
+      "Wantanes Fritos"
+    ],
+    "precio": 108.69,
+    "disponible": true
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "combo_id": "8a12bbdd-0b8d-455e-8375-c1127d86a10f",
+    "nombre": "Combo 8a12bbdd",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Sopa de Gallina China"
+    ],
+    "precio": 50.53,
+    "disponible": true
+  },
+  {
+    "local_id": "395289b6-0528-443c-a1f6-a60d69e11215",
+    "combo_id": "510cacb6-1815-424e-92b2-fc8f3f98f4d4",
+    "nombre": "Combo 510cacb6",
+    "productos_nombres": [
+      "Té Helado 500ml",
+      "Arroz Chaufa Mixto"
+    ],
+    "precio": 38.95,
+    "disponible": true
+  },
+  {
+    "local_id": "3d543360-1538-4b6f-8cc8-00c91db7a33b",
+    "combo_id": "91b967e8-1f93-48eb-b7ee-4f222a5f00fd",
+    "nombre": "Combo 91b967e8",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Picarones"
+    ],
+    "precio": 34.45,
+    "disponible": false
+  },
+  {
+    "local_id": "7d06c98f-dc68-4e3a-bcb2-2e43b010b536",
+    "combo_id": "4b3761fa-3949-43af-b07e-dde3c7bfda3b",
+    "nombre": "Combo 4b3761fa",
+    "productos_nombres": [
+      "Cerdo Agridulce",
+      "Siu Mai",
+      "Lomo Saltado"
+    ],
+    "precio": 50.69,
+    "disponible": false
+  },
+  {
+    "local_id": "d278c2a8-eeed-4708-aea7-4df677519857",
+    "combo_id": "af6f2faf-d7f9-4563-af6f-062e63d46f8d",
+    "nombre": "Combo af6f2faf",
+    "productos_nombres": [
+      "Pollo con Verduras",
+      "Chapsui de Verduras"
+    ],
+    "precio": 61.18,
+    "disponible": true
+  },
+  {
+    "local_id": "cfc07822-1679-40dc-a7ed-0dd6ea7e2514",
+    "combo_id": "b2b637df-8f4a-4115-9135-0e9406a533c6",
+    "nombre": "Combo b2b637df",
+    "productos_nombres": [
+      "Carne con Ostión",
+      "Carne Mongoliana",
+      "Pollo Chi Jau Kay",
+      "Rollitos Primavera"
+    ],
+    "precio": 100.9,
+    "disponible": true
+  },
+  {
+    "local_id": "aa892702-9509-4fe4-8710-529ed4126e22",
+    "combo_id": "a7d38d14-face-4681-8982-3f854006a26b",
+    "nombre": "Combo a7d38d14",
+    "productos_nombres": [
+      "Chicharrón de Calamar",
+      "Té Helado 500ml",
+      "Tallarín Saltado de Carne"
+    ],
+    "precio": 57.46,
+    "disponible": true
+  },
+  {
+    "local_id": "10f909d0-98c6-4ff4-a4ff-90649bb4db9a",
+    "combo_id": "c32c9c65-4cf5-4acd-87cd-a082ec705976",
+    "nombre": "Combo c32c9c65",
+    "productos_nombres": [
+      "Tallarín con Mariscos",
+      "Lomo Saltado"
+    ],
+    "precio": 56.26,
+    "disponible": false
+  },
+  {
+    "local_id": "f9358977-cdae-4dbb-85a9-1bcbef6b3c77",
+    "combo_id": "f28a3843-4d2c-4941-8952-c9fe3cbd27d2",
+    "nombre": "Combo f28a3843",
+    "productos_nombres": [
+      "Chapsui de Verduras",
+      "Pollo Tipakay",
+      "Arroz Chaufa de Carne",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 118.07,
+    "disponible": true
+  },
+  {
+    "local_id": "1acf8bf5-d269-4ff7-9123-944fcf42a53d",
+    "combo_id": "0ecb42a0-0b15-4809-9b8e-6205b186d9b6",
+    "nombre": "Combo 0ecb42a0",
+    "productos_nombres": [
+      "Agua Mineral 625ml",
+      "Camarones al Tamarindo"
+    ],
+    "precio": 37.54,
+    "disponible": true
+  },
+  {
+    "local_id": "f1458b2b-a30a-41f1-8102-0fc901c3e6bb",
+    "combo_id": "8f0f31aa-0fa4-4fa9-abe9-6e8b438ac735",
+    "nombre": "Combo 8f0f31aa",
+    "productos_nombres": [
+      "Tallarín Saltado Mixto",
+      "Arroz Blanco",
+      "Cerdo al Sillao"
+    ],
+    "precio": 47.84,
+    "disponible": true
+  },
+  {
+    "local_id": "7514d289-4232-4f57-98a1-c8c8393dd38a",
+    "combo_id": "babc5102-143b-4787-af24-62ec7a6b3552",
+    "nombre": "Combo babc5102",
+    "productos_nombres": [
+      "Arroz con Mariscos",
+      "Cerdo Agridulce",
+      "Pollo Tipakay",
+      "Pollo Chi Jau Kay"
+    ],
+    "precio": 87.43,
+    "disponible": false
+  },
+  {
+    "local_id": "13c84f77-f2cd-463b-9f20-8586408ce8d4",
+    "combo_id": "175b18e3-4864-45bd-9bd2-6072de9faf6b",
+    "nombre": "Combo 175b18e3",
+    "productos_nombres": [
+      "Tallarín Saltado de Carne",
+      "Chicharrón de Calamar"
+    ],
+    "precio": 39.13,
+    "disponible": false
+  },
+  {
+    "local_id": "c14823a5-edff-4f31-9f4d-7a9406701014",
+    "combo_id": "90b83dfa-00d9-4dba-8c20-faf0a0ea051e",
+    "nombre": "Combo 90b83dfa",
+    "productos_nombres": [
+      "Cerdo al Sillao",
+      "Lomo Saltado",
+      "Arroz con Mariscos",
+      "Rollitos Primavera"
+    ],
+    "precio": 97.7,
+    "disponible": false
+  },
+  {
+    "local_id": "e8a8942a-b8c3-4c6d-a1a1-d540abf3a0ad",
+    "combo_id": "7b59adbe-2449-4c74-9df3-6b0ea837d638",
+    "nombre": "Combo 7b59adbe",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Rollitos Primavera",
+      "Tallarín con Mariscos"
+    ],
+    "precio": 89.71,
+    "disponible": false
+  },
+  {
+    "local_id": "fbbfc7cc-5948-4825-82b7-811552a66ce9",
+    "combo_id": "eeaed2cc-1cf7-41fd-903f-20f765bf91c2",
+    "nombre": "Combo eeaed2cc",
+    "productos_nombres": [
+      "Carne Mongoliana",
+      "Pollo Tipakay",
+      "Lomo Saltado"
+    ],
+    "precio": 76.32,
+    "disponible": true
+  },
+  {
+    "local_id": "36435503-9ed0-491c-bbbf-2fc226baca4d",
+    "combo_id": "c84e66bf-096c-4d53-b9f5-1a9c5cfafbb4",
+    "nombre": "Combo c84e66bf",
+    "productos_nombres": [
+      "Rollitos Primavera",
+      "Chancho con Tamarindo",
+      "Sopa Min"
+    ],
+    "precio": 98.22,
+    "disponible": true
+  },
+  {
+    "local_id": "8a8bdc01-059d-4280-986b-64acdfa6ff7e",
+    "combo_id": "710dfbf9-3796-46b0-9d31-7718140de5fb",
+    "nombre": "Combo 710dfbf9",
+    "productos_nombres": [
+      "Arroz Blanco",
+      "Agua Mineral 625ml",
+      "Inca Kola 1.5L"
+    ],
+    "precio": 40.86,
+    "disponible": true
+  },
+  {
+    "local_id": "a9af04e4-0862-4ee9-b3df-a207639be822",
+    "combo_id": "1b874c88-20e5-498b-95e7-632ff0c5b559",
+    "nombre": "Combo 1b874c88",
+    "productos_nombres": [
+      "Pollo con Tamarindo",
+      "Chicharrón de Calamar",
+      "Rollitos Primavera"
+    ],
+    "precio": 87.21,
+    "disponible": true
+  }
+]

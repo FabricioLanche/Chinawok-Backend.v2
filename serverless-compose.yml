@@ -1,0 +1,50 @@
+# ============================================================
+# CHINAWOK BACKEND - SERVERLESS COMPOSE
+# ============================================================
+# Este archivo orquesta el despliegue de todos los microservicios
+# del backend de ChinaWok usando Serverless Framework Compose
+# ============================================================
+
+org: ${env:ORG_NAME}
+app: chinawok-backend
+stage: ${opt:stage, 'dev'}
+
+services:
+  shared-layer:
+    path: Layers
+    params:
+      stage: ${self:stage}
+
+  usuarios:
+    path: Microservicios/Usuarios
+    params:
+      stage: ${self:stage}
+    dependsOn:
+      - shared-layer
+
+  locales:
+    path: Microservicios/Locales
+    params:
+      stage: ${self:stage}
+    dependsOn:
+      - shared-layer
+      - usuarios
+
+  empleados:
+    path: Microservicios/Empleados
+    params:
+      stage: ${self:stage}
+    dependsOn:
+      - shared-layer
+      - locales
+
+  pedidos:
+    path: Microservicios/Pedidos
+    params:
+      stage: ${self:stage}
+    dependsOn:
+      - shared-layer
+      - locales
+      - usuarios
+      - empleados
+

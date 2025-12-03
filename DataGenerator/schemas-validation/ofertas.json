@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Ofertas",
+  "type": "object",
+  "x-dynamodb": {
+    "partition_key": "local_id",
+    "sort_key": "oferta_id"
+  },
+  "properties": {
+    "local_id": { "type": "string" },
+    "oferta_id": { "type": "string" },
+    "producto_nombre": { "type": "string" },
+    "combo_id": { "type": "string" },
+    "fecha_inicio": { "type": "string", "format": "date-time" },
+    "fecha_limite": { "type": "string", "format": "date-time" },
+    "porcentaje_descuento": { "type": "number", "minimum": 0, "maximum": 100 }
+  },
+  "required": ["local_id", "oferta_id", "porcentaje_descuento", "fecha_inicio", "fecha_limite"],
+  "additionalProperties": false,
+  "anyOf": [
+    { "required": ["producto_nombre"] },
+    { "required": ["combo_id"] }
+  ]
+}

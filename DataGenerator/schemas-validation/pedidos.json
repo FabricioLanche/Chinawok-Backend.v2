@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Pedidos",
+  "type": "object",
+  "x-dynamodb": {
+    "partition_key": "local_id",
+    "sort_key": "pedido_id"
+  },
+  "properties": {
+    "local_id": {
+      "type": "string"
+    },
+    "pedido_id": {
+      "type": "string"
+    },
+    "fecha_creacion": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "usuario_correo": {
+      "type": "string",
+      "format": "email"
+    },
+    "productos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "nombre": {
+            "type": "string"
+          },
+          "cantidad": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "required": [
+          "nombre",
+          "cantidad"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "combos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "combo_id": {
+            "type": "string"
+          },
+          "cantidad": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "required": [
+          "combo_id",
+          "cantidad"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "costo": {
+      "type": "number",
+      "minimum": 0
+    },
+    "direccion": {
+      "type": "string"
+    },
+    "fecha_entrega_aproximada": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "estado": {
+      "type": "string",
+      "enum": [
+        "procesando",
+        "cocinando",
+        "empacando",
+        "enviando",
+        "recibido",
+        "cancelado"
+      ]
+    },
+    "historial_estados": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "estado": {
+            "type": "string",
+            "enum": [
+              "procesando",
+              "cocinando",
+              "empacando",
+              "enviando",
+              "recibido"
+            ]
+          },
+          "hora_inicio": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "hora_fin": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "activo": {
+            "type": "boolean"
+          },
+          "empleado": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "dni": {
+                "type": "string"
+              },
+              "nombre_completo": {
+                "type": "string"
+              },
+              "rol": {
+                "type": "string",
+                "enum": [
+                  "cocinero",
+                  "despachador",
+                  "repartidor"
+                ]
+              },
+              "calificacion_prom": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 5
+              }
+            },
+            "required": [
+              "dni",
+              "nombre_completo",
+              "rol"
+            ]
+          }
+        },
+        "required": [
+          "estado",
+          "hora_inicio",
+          "hora_fin",
+          "activo"
+        ]
+      },
+      "minItems": 1
+    }
+  },
+  "required": [
+    "local_id",
+    "pedido_id",
+    "fecha_creacion",
+    "usuario_correo",
+    "direccion",
+    "costo",
+    "estado",
+    "historial_estados"
+  ],
+  "anyOf": [
+    {
+      "required": [
+        "productos_nombres"
+      ]
+    },
+    {
+      "required": [
+        "combo_id"
+      ]
+    }
+  ],
+  "additionalProperties": false
+}
