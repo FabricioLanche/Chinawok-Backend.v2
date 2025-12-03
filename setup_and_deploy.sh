@@ -530,6 +530,30 @@ EOF
     log_success "✅ Bucket configurado completamente"
 }
 
+# Función para verificar/crear EventBus de Pedidos
+ensure_event_bus() {
+    local event_bus_name="${1:-chinawok-pedidos-events}"
+    
+    log "🎯 Verificando EventBus: $event_bus_name"
+    
+    # Verificar si el EventBus existe
+    if aws events describe-event-bus --name "$event_bus_name" --region us-east-1 >/dev/null 2>&1; then
+        log_success "✅ EventBus '$event_bus_name' ya existe"
+        return 0
+    fi
+    
+    # El EventBus no existe, crearlo
+    log "📦 EventBus no existe, creándolo..."
+    
+    if aws events create-event-bus --name "$event_bus_name" --region us-east-1 2>&1; then
+        log_success "✅ EventBus '$event_bus_name' creado exitosamente"
+        return 0
+    else
+        log_error "❌ Error al crear EventBus"
+        return 1
+    fi
+}
+
 # Función para ejecutar crawler inicial y esperar completación
 initialize_glue_crawler() {
     log ""
@@ -694,6 +718,11 @@ case $opcion in
                 build_layer
             fi
             
+            # Crear EventBus si es el servicio de Pedidos
+            if [ "$service_name" == "pedidos" ]; then
+                ensure_event_bus "chinawok-pedidos-events"
+            fi
+            
             # Desplegar usando serverless compose con --service específico
             serverless deploy --service="$service_name" --stage dev --verbose
             
@@ -801,6 +830,11 @@ case $opcion in
             # Construir layer si es necesario
             if [ "$service_name" == "shared-layer" ]; then
                 build_layer
+            fi
+            
+            # Crear EventBus si es el servicio de Pedidos
+            if [ "$service_name" == "pedidos" ]; then
+                ensure_event_bus "chinawok-pedidos-events"
             fi
             
             # Desplegar usando serverless compose con --service específico

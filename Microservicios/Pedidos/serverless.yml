@@ -275,19 +275,15 @@ functions:
 
 resources:
   Resources:
-    ChinaWokPedidosEventBus:
-      Type: AWS::Events::EventBus
-      DeletionPolicy: Retain
-      UpdateReplacePolicy: Retain
-      Properties:
-        Name: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
+    # NOTA: EventBus se crea mediante script de bash (setup_and_deploy.sh)
+    # para evitar conflictos con recursos existentes
     
     PedidoCreadoEventRule:
       Type: AWS::Events::Rule
       Properties:
         Name: ${self:service}-pedido-creado-rule
         Description: Regla para enviar pedidos creados al Step Function
-        EventBusName: ${env:EVENT_BUS_NAME, 'chinawok-pedidos-events'}
+        EventBusName: chinawok-pedidos-events
         EventPattern:
           source:
             - chinawok.pedidos
