@@ -670,34 +670,32 @@ case $opcion in
         log_info "💡 Desplegando servicios uno por uno para evitar sobrecarga"
         log ""
         
-        # Array de servicios en orden de dependencia
+        # Array de servicios en orden de dependencia (solo nombres de servicio)
         declare -a services=(
-            "Layers:shared-layer:🔧 Lambda Layer"
-            "Microservicios/Usuarios:usuarios:👤 Usuarios"
-            "Microservicios/Locales:locales:🏪 Locales"
-            "Microservicios/Empleados:empleados:👨‍🍳 Empleados"
-            "Microservicios/Pedidos:pedidos:🍜 Pedidos"
+            "shared-layer:🔧 Lambda Layer"
+            "usuarios:👤 Usuarios"
+            "locales:🏪 Locales"
+            "empleados:👨‍🍳 Empleados"
+            "pedidos:🍜 Pedidos"
         )
         
         deploy_failed=0
         
         for service_info in "${services[@]}"; do
-            IFS=':' read -r service_path service_name service_label <<< "$service_info"
+            IFS=':' read -r service_name service_label <<< "$service_info"
             
             log ""
             log "───────────────────────────────────────────────────"
             log "📦 Desplegando: $service_label"
             log "───────────────────────────────────────────────────"
             
-            # Verificar que el directorio existe
-            if [ ! -d "$service_path" ]; then
-                log_error "No se encuentra el directorio: $service_path"
-                deploy_failed=1
-                break
+            # Construir layer si es necesario
+            if [ "$service_name" == "shared-layer" ]; then
+                build_layer
             fi
             
-            # Desplegar desde la raíz usando --config para mantener acceso al .env
-            serverless deploy --config "$service_path/serverless.yml" --stage dev --verbose
+            # Desplegar usando serverless compose con --service específico
+            serverless deploy --service="$service_name" --stage dev --verbose
             
             if [ $? -eq 0 ]; then
                 log_success "✅ $service_label desplegado correctamente"
@@ -781,39 +779,32 @@ case $opcion in
     3)
         log_info "Desplegando microservicios secuencialmente..."
         
-        # Array de servicios en orden de dependencia
+        # Array de servicios en orden de dependencia (solo nombres de servicio)
         declare -a services=(
-            "Layers:shared-layer:🔧 Lambda Layer"
-            "Microservicios/Usuarios:usuarios:👤 Usuarios"
-            "Microservicios/Locales:locales:🏪 Locales"
-            "Microservicios/Empleados:empleados:👨‍🍳 Empleados"
-            "Microservicios/Pedidos:pedidos:🍜 Pedidos"
+            "shared-layer:🔧 Lambda Layer"
+            "usuarios:👤 Usuarios"
+            "locales:🏪 Locales"
+            "empleados:👨‍🍳 Empleados"
+            "pedidos:🍜 Pedidos"
         )
         
         deploy_failed=0
         
         for service_info in "${services[@]}"; do
-            IFS=':' read -r service_path service_name service_label <<< "$service_info"
+            IFS=':' read -r service_name service_label <<< "$service_info"
             
             log ""
             log "═══════════════════════════════════════════════════════"
             log "📦 Desplegando: $service_label"
             log "═══════════════════════════════════════════════════════"
             
-            # Verificar que el directorio existe
-            if [ ! -d "$service_path" ]; then
-                log_error "No se encuentra el directorio: $service_path"
-                deploy_failed=1
-                break
-            fi
-            
             # Construir layer si es necesario
             if [ "$service_name" == "shared-layer" ]; then
                 build_layer
             fi
             
-            # Desplegar desde la raíz usando --config para mantener acceso al .env
-            serverless deploy --config "$service_path/serverless.yml" --stage dev --verbose
+            # Desplegar usando serverless compose con --service específico
+            serverless deploy --service="$service_name" --stage dev --verbose
             
             if [ $? -eq 0 ]; then
                 log_success "✅ $service_label desplegado correctamente"
